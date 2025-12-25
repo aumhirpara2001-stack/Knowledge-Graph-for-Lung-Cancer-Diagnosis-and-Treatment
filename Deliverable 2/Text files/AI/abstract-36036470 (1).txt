@@ -1,0 +1,29 @@
+1. Cancer Invest. 2023 Jan;41(1):12-24. doi: 10.1080/07357907.2022.2119479. Epub 
+2022 Dec 12.
+
+Lung Cancer Treatment Advances in 2022.
+
+Abu Rous F(1), Singhi EK(2), Sridhar A(3), Faisal MS(4), Desai A(5).
+
+Author information:
+(1)Department of Internal Medicine, Division of Hematology and Oncology, Henry 
+Ford Health System, Detroit, Michigan, USA.
+(2)Division of Cancer Medicine, University of Texas MD Anderson Cancer Center, 
+Houston, Texas, USA.
+(3)Division of Hematology and Oncology, University of Texas Health Sciences 
+Center at Houston, Houston, Texas, USA.
+(4)Fellow Department of Hematology and Medical Oncology, Roswell Park Cancer 
+Institute, Buffalo, New York, USA.
+(5)Division of Medical Oncology, Mayo Clinic, Rochester, New York, USA.
+
+The therapeutic landscape of lung cancer treatment is changing rapidly, and new 
+data was presented at the recently concluded American Society of Clinical 
+Oncology 2022 (ASCO22) meeting. We highlight studies of clinical relevance that 
+represent significant updates in the current management of non-small cell lung 
+cancer (SCLC) and small cell lung cancer (NSCLC). We summarize the updates in 
+early-stage NSCLC, mutated and non-mutated advanced NSCLC as well as small cell 
+lung cancer (SCLC), and discuss these advances in the context of the current 
+clinical standard of care.
+
+DOI: 10.1080/07357907.2022.2119479
+PMID: 36036470 [Indexed for MEDLINE]

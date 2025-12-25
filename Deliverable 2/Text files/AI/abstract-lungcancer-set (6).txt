@@ -1,0 +1,563 @@
+1. Eur J Cancer. 2024 Nov 14:115125. doi: 10.1016/j.ejca.2024.115125. Online ahead 
+of print.
+
+Defying the odds: Outstanding survival in lung-only pancreatic cancer treated by 
+Trifluridine-Tipiracil.
+
+Sarti K(1), Boige V(2), Camilleri GM(2), Ducreux M(3), Boilève A(3).
+
+Author information:
+(1)Department of Digestive Oncology, Institut Gustave Roussy, Villejuif, France. 
+Electronic address: kevin.sarti.med@gmail.com.
+(2)Department of Digestive Oncology, Institut Gustave Roussy, Villejuif, France.
+(3)Department of Digestive Oncology, Institut Gustave Roussy, Villejuif, France; 
+Université Paris-Saclay, Orsay, France; Gustave Roussy, unité INSERM U1279, 
+Villejuif, France.
+
+DOI: 10.1016/j.ejca.2024.115125
+PMID: 39578184
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no conflicts of interest regarding the publication of 
+this letter to the editor entitled "Defying the Odds: Outstanding Survival in 
+Lung-only Pancreatic Cancer Treated by Trifluridine-Tipiracil."
+
+
+2. Clin Lung Cancer. 2024 Oct 30:S1525-7304(24)00231-6. doi: 
+10.1016/j.cllc.2024.10.014. Online ahead of print.
+
+Brief Report: Phase II Clinical Trial of Atezolizumab in Advanced Nonsmall Cell 
+Lung Cancer Patients Previously Treated With PD-1-Directed Therapy.
+
+Fortman D(1), Wang H(2), VanderWeele R(2), Evans T(2), Herman JG(3), Rhee J(2), 
+Reyes V(2), McLaughlin B(2), Wozniak A(4), Somasundaram A(5), Mekhail T(6), 
+Socinski MA(6), Schulze K(7), Villaruz LC(8).
+
+Author information:
+(1)University of Pittsburgh Medical Center, Pittsburgh, PA.
+(2)UPMC Hillman Cancer Center, Pittsburgh, PA.
+(3)UPMC Hillman Cancer Center, Pittsburgh, PA; Division of Hematology-Oncology, 
+VA Pittsburgh Health Care, Pittsburgh, PA.
+(4)Lung Cancer Research Foundation, New York, NY.
+(5)UNC Lineberger Comprehensive Cancer Center, Chapel Hill, NC.
+(6)Oncology and Hematology at Orlando, AdventHealth Medical Group, Orlando, FL.
+(7)Genentech, South San Francisco, CA.
+(8)UPMC Hillman Cancer Center, Pittsburgh, PA. Electronic address: 
+villaruzl@upmc.edu.
+
+DOI: 10.1016/j.cllc.2024.10.014
+PMID: 39578170
+
+Conflict of interest statement: Disclosure DF, HW, RV, TE, JGH, JR, VR, BM, AS: 
+None. AW: Consulting fees from AstraZeneca and honoraria from Epic. TM: Speaker 
+Bureau with Genentech. MAS: Grants from Genentech, Spectrum, Cullinan, Lilly, 
+Beigene and AstraZeneca, Consulting fees from BMS, Beigene, Spectrum and Summit, 
+Honoria from Genentech, Lilly, AstraZeneca, Jazz, Janssen, Regeneron, Mirati, 
+participation in DSMB with BMS and Beigene, and leadership role in Elsevier 
+Clinical Pathways. KS: employee of Genentech, stock owner of Roche. LCV: Support 
+for the present manuscript from Genentech, Consulting fees from AstraZeneca, 
+Sanofi, Gilead, Johnson and Johnson, Takeda, EMD Serono, Daiichi Sankyo, Jazz 
+and BMS.
+
+
+3. Clin Lung Cancer. 2024 Oct 28:S1525-7304(24)00229-8. doi: 
+10.1016/j.cllc.2024.10.012. Online ahead of print.
+
+Clinical Characteristics and Management of Checkpoint Inhibitor Pneumonitis in 
+Non-Small-Cell Lung Cancer Patients After Neoadjuvant Immunotherapy.
+
+Jiang L(1), Jiang S(2), Miao W(3), Shen Y(4), Bolotina L(5), Zhu H(6), Zou N(6), 
+Tian Y(6), Pan H(6), Huang J(7), Ryabov A(8), Luo Q(9).
+
+Author information:
+(1)Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China. Electronic address: 
+dylan919@139.com.
+(2)Division of Gastroenterology and Hepatology, Renji Hospital, School of 
+Medicine, Shanghai Jiao Tong University, Shanghai, China; Shanghai Institute of 
+Digestive Disease, Shanghai, China; State Key Laboratory for Oncogenes and 
+Related Genes, Key Laboratory of Gastroenterology & Hepatology, Ministry of 
+Health, Shanghai, China.
+(3)Department of Thoracic Surgery, The Third People's Hospital of Zhengzhou, 
+Zhengzhou, China.
+(4)Department of Anesthesiology, Shanghai Chest Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(5)Thoracoabdominal department оf Moscow Oncology Research Institute named after 
+P. Hertsen-branch of Federal State Budgetary Institution "National Medical 
+Research Radiological Centre" of the Ministry of Health of the Russian 
+Federation, Moscow, Russia.
+(6)Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(7)Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China. Electronic address: 
+huangjiadragon@126.com.
+(8)Thoracoabdominal department оf Moscow Oncology Research Institute named after 
+P. Hertsen-branch of Federal State Budgetary Institution "National Medical 
+Research Radiological Centre" of the Ministry of Health of the Russian 
+Federation, Moscow, Russia. Electronic address: 
+AndreyRyabov_Moscow@protonmail.com.
+(9)Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China. Electronic address: 
+luoqingquan@hotmail.com.
+
+OBJECTIVE: Neoadjuvant immunotherapy with checkpoint inhibitors has shown 
+promising results for non-small-cell lung cancer (NSCLC) patients. However, it 
+has been associated with immune-related adverse events (irAEs), including 
+checkpoint inhibitor pneumonitis (CIP), which can be life-threatening.
+METHODS: This retrospective study analysed the medical records of 197 NSCLC 
+patients who underwent neoadjuvant checkpoint inhibitor therapy to investigate 
+the incidence, clinical characteristics, and management of CIP.
+RESULTS: Of the 197 patients, 24 (12.2%) developed CIP. The majority of patients 
+presented with respiratory symptoms, and ground-glass opacities were the most 
+common radiographic finding. Patients with CIP had a longer duration of 
+immunotherapy and a higher baseline C-reactive protein level than those without 
+CIP. Most cases were mild to moderate in severity (Grade 1: 11, Grade 2: 6, 
+Grade 3: 5) and managed with corticosteroids, while 2 patients of Grade 4 
+developed severe respiratory failure requiring mechanical ventilation. No 
+patient died due to respiratory failure.
+CONCLUSIONS: CIP was identified as a potential complication of neoadjuvant 
+treatment with checkpoint inhibitors in patients with resectable NSCLC. 
+Therefore, close monitoring for CIP and prompt recognition and management of 
+symptoms are essential for the safe use of checkpoint inhibitors in NSCLC 
+patients. While the study also found that such neoadjuvant treatment can induce 
+a major pathological response in a significant proportion of these patients, 
+further research is required to fully understand and manage the risk factors of 
+CIP in this patient population.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cllc.2024.10.012
+PMID: 39578169
+
+Conflict of interest statement: Disclosure The authors of this manuscript 
+declare no competing interests.
+
+
+4. Clin Lung Cancer. 2024 Oct 28:S1525-7304(24)00223-7. doi: 
+10.1016/j.cllc.2024.10.009. Online ahead of print.
+
+A Poor Prognostic ALK Phenotype: A Review of Molecular Markers of Poor Prognosis 
+in ALK Rearranged Nonsmall Cell Lung Cancer.
+
+Chan SWS(1), Zeng J(2), Young J(3), Barghout SH(2), Al-Agha F(2), Raptis S(2), 
+Brown MC(2), Liu G(4), Juergens R(1), Jao K(5).
+
+Author information:
+(1)Department of Oncology, McMaster University, Hamilton, Ontario, Canada; 
+Department of Medical Oncology, Juravinski Cancer Center, Hamilton, Ontario, 
+Canada.
+(2)Princess Margaret Cancer Centre, University Health Network, Toronto, Canada.
+(3)Department of Medical Oncology, Juravinski Cancer Center, Hamilton, Ontario, 
+Canada.
+(4)Princess Margaret Cancer Centre, University Health Network, Toronto, Canada; 
+Temerty Faculty of Medicine, University of Toronto, Toronto, Canada.
+(5)Division of Medical Oncology and Hematology, Hôpital du Sacré-Coeur de 
+Montréal, Montreal, Quebec, Canada. Electronic address: 
+kevin.jao@mail.mcgill.ca.
+
+BACKGROUND: Patients with nonsmall cell lung cancer with anaplastic lymphoma 
+kinase (ALK) rearrangements derive a significant and durable clinical benefit 
+from tyrosine kinase inhibitors (TKIs). However, early progression/death on 
+treatment occurs in a subset of patients, which we term the poor prognostic ALK 
+phenotype. This review aims to summarize the known molecular mechanisms that 
+underlie this phenotype with a focus on variant 3 and TP53 mutations.
+METHODS: A scoping review was performed using scientific databases such as Ovid 
+Medline, Ovid Embase, and Cochrane Central Register of Controlled Trials. 
+Studies included molecular markers of poor prognosis, with a focus on TP53 
+mutations, variant 3 re-arrangements, and poor clinical response to TKIs.
+RESULTS: Of 4371 studies screened, 108 were included. Numerous studies 
+implicated a negative prognostic role of variant 3, likely mediated through the 
+acquisition of on-target resistance mutations and TP53 mutations which are 
+associated with greater chromosomal instability and mutational burden. 
+Co-occurring variant 3 and TP53 mutations were associated with even worse 
+survival. Other mediators of early resistance development include aberrations in 
+cell cycle regulators and mutations in cell signaling pathways. Comprehensive 
+genomic analysis from first-line TKI clinical trial data was unable to identify 
+a singular genomic signature that underlies the poor prognostic phenotype but 
+implicated a combination of pathways.
+CONCLUSIONS: This scoping review highlights that the poor prognostic ALK 
+phenotype is likely composed of a heterogeneous variety of genomic factors. 
+There remains an unmet need for a genomic assay to integrate these various 
+molecular markers to predict this ALK phenotype.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cllc.2024.10.009
+PMID: 39578168
+
+
+5. Horm Metab Res. 2024 Nov 22. doi: 10.1055/a-2458-7088. Online ahead of print.
+
+Prediction of the Survival Status, Immunotherapy Response, and Medication of 
+Lung Adenocarcinoma Patients Based on Hypoxia- and Apoptosis-Related Genes.
+
+Shi Z(1), Sang Z(1), Xiao J(1), Hou J(1), Geng M(1).
+
+Author information:
+(1)Thoracic Surgery, The Affiliated Anyang Tumor Hospital of Henan University of 
+Science and Technology, Anyang, China.
+
+To predict patient survival prognosis, we aimed to establish a novel set of gene 
+features associated with hypoxia and apoptosis. RNA-seq and clinical data of 
+LUAD were sourced from The Cancer Genome Atlas (TCGA) and Gene Expression 
+Omnibus (GEO) databases, while hypoxia and apoptosis-related genes were obtained 
+from the Molecular Signatures Database (MsigDB). A 13-gene-prognostic model 
+incorporating hypoxia and apoptosis genes was developed using 
+univariate/multivariate Cox regression, Nonnegative Matrix Factorization (NMF) 
+clustering, and LASSO regression. Patients were divided into high-risk (HR) and 
+low-risk (LR) groups according to the median risk score. Gene Ontology (GO) and 
+Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses revealed 
+distinct biological processes between HR and LR groups, including hormone 
+regulation and lipid metabolism pathways. Single sample gene set enrichment 
+analysis (ssGSEA) indicated elevated cell infiltration levels of Neutrophils and 
+T_helper_cells in the LR group, while NK cells and Th1cells were higher in the 
+HR group. Immunophenoscore (IPS) and tumor immune dysfunction and exclusion 
+(TIDE) analyses suggested potential benefits of immunotherapy for LR group 
+patients. In conclusion, this prognostic feature integrating hypoxia- and 
+apoptosis-related genes offers insights into predicting survival, immune status, 
+and treatment response in LUAD patients, paving the way for personalized 
+treatment strategies.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2458-7088
+PMID: 39577840
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+6. Chemosphere. 2024 Nov 20:143785. doi: 10.1016/j.chemosphere.2024.143785. Online 
+ahead of print.
+
+Deciphering the toxicity of polyhexamethylene guanidine phosphate in lung 
+carcinogenesis: Mutational profiles and molecular mechanisms.
+
+Lee H(1), Jeong SH(2), Baek YW(3), Lee H(4), Sa JK(5), Lee JY(6), Lee YS(7), Nam 
+YJ(8), Kim J(9), Kim J(10), Choi JY(11), Park SA(12), Kim JH(13), Park YH(14), 
+Lim J(15), Kim YH(16), Park EK(17), Kim C(18), Lee JH(19).
+
+Author information:
+(1)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: hlee3383@korea.ac.kr.
+(2)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: saibog21@korea.ac.kr.
+(3)Humidifier disinfectant Health Center, National Institute of Environmental 
+Research, Incheon, 22689, Republic of Korea. Electronic address: 
+sideworks@korea.kr.
+(4)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: sense369@korea.ac.kr.
+(5)Department of Biomedical Sciences, Korea University College of Medicine, 
+Seoul, 02841, Republic of Korea. Electronic address: jasonksa@korea.ac.kr.
+(6)Department of Biomedical Sciences, Korea University College of Medicine, 
+Seoul, 02841, Republic of Korea. Electronic address: ghsl0102@naver.com.
+(7)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: iknowhero@korea.ac.kr.
+(8)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: nyj90504@korea.ac.kr.
+(9)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: iioiilloll@korea.ac.kr.
+(10)Department of Health Sciences and Technology, Samsung Advanced Institute for 
+Health Sciences and Technology, Sungkyunkwan University, Seoul, 06531, Republic 
+of Korea. Electronic address: jhkim4915@g.skku.edu.
+(11)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: wlsdud9201@korea.ac.kr.
+(12)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: sa0820@korea.ac.kr.
+(13)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, Korea University Ansan Hospital, Korea University College of Medicine, 
+Ansan, Gyeonggi, 15355, Republic of Korea. Electronic address: 
+chepraxis@korea.ac.kr.
+(14)Medical Science Research Center, Korea University Ansan Hospital, Korea 
+University College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. 
+Electronic address: yunisto@korea.ac.kr.
+(15)Humidifier disinfectant Health Center, National Institute of Environmental 
+Research, Incheon, 22689, Republic of Korea. Electronic address: 
+michelle98@korea.kr.
+(16)Humidifier disinfectant Health Center, National Institute of Environmental 
+Research, Incheon, 22689, Republic of Korea. Electronic address: 
+heek89@korea.kr.
+(17)Department of Medical Humanities and Social Medicine, College of Medicine, 
+Kosin University, Busan, 49267, Republic of Korea. Electronic address: 
+eunkee.park@gmail.com.
+(18)Department of Radiology, Korea University Ansan Hospital, Korea University 
+College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. Electronic 
+address: zbxmvjavj@korea.ac.kr.
+(19)Department of Pathology, Korea University Ansan Hospital, Korea University 
+College of Medicine, Ansan, Gyeonggi, 15355, Republic of Korea. Electronic 
+address: repath@korea.ac.kr.
+
+Polyhexamethylene guanidine (PHMG) is widely utilized in personal hygiene 
+products due to its bactericidal, non-volatile, and hydrophilic properties. 
+However, the long-term toxic effects and underlying mechanisms associated with 
+respiratory exposure to the commonly used form, PHMG phosphate (PHMG-p), are 
+still insufficiently understood. This study aims to elucidate the types of 
+pulmonary lesions and the incidence of lung cancer associated with varying 
+concentrations of PHMG-p and observation periods, along with the molecular 
+mechanisms underlying this relationship. To assess these effects, CT scans and 
+pathological analyses were conducted for up to 54 weeks following initial 
+exposure to PHMG-p. Furthermore, to investigate the underlying causes of 
+pulmonary toxicity, TGF-beta-activated kinase 1 was identified as a 
+PHMG-p-binding protein, and its associated signaling pathways, including 
+necroptosis, apoptosis, and MKK7, were explored. Somatic mutational signature, 
+and gene ontology (GO) analyses were performed to investigate the genetic 
+characteristics of PHMG-p-induced lung carcinogenesis. PHMG-p exposure led to 
+somatic mutations in lung cancer-related genes, including TP53, SOS1, KMT2D, 
+MDM2, ERBB2, SETD2, MET, and ARID1A, as well as in genes such as RAB31, WASHC1, 
+and DDX11. The mutated genes were primarily associated with impaired DNA repair 
+mechanisms. GO analysis highlighted the activation of pathways related to cell 
+cycle checkpoints, necroptosis, MAPK, and idiopathic pulmonary fibrosis, while 
+also revealing the suppression of signaling pathways associated with natural 
+killer cells, GADD45, LXR/RXR activation, and IL-15 production. Gain-of-function 
+experiments confirmed the oncogenic roles of PLAU and HMGA2, as well as the 
+tumor-suppressive functions of TBX4 and GPX3. These findings suggest that PHMG-p 
+activates necroptosis and MAPK signaling, increases the frequency of somatic 
+mutations, and inhibits apoptosis, thus fostering an environment conducive to 
+carcinogenesis. This underscores the importance of understanding the potential 
+health risks associated with PHMG-p exposure and provides insights for future 
+research and regulatory considerations regarding the safety of personal hygiene 
+products.
+
+Copyright © 2024. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.chemosphere.2024.143785
+PMID: 39577803
+
+Conflict of interest statement: Declaration of Competing Interest ☒ The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+7. Chest. 2024 Nov 20:S0012-3692(24)05566-1. doi: 10.1016/j.chest.2024.11.010. 
+Online ahead of print.
+
+Keeping up with technological innovation: the moral imperative for pragmatic 
+clinical trials in interventional pulmonology.
+
+Maldonado F(1), Paez R(2), Lentz RJ(2), Ratwani A(2), Casey JD(3).
+
+Author information:
+(1)Division of Allergy, Pulmonary and Critical Care Medicine, Vanderbilt 
+University Medical Center, Nashville, TN; Vanderbilt Interventional Pulmonary 
+Research Laboratory; Vanderbilt Center for Bioethics and Society. Electronic 
+address: fabien.maldonado@vumc.org.
+(2)Division of Allergy, Pulmonary and Critical Care Medicine, Vanderbilt 
+University Medical Center, Nashville, TN; Vanderbilt Interventional Pulmonary 
+Research Laboratory.
+(3)Division of Allergy, Pulmonary and Critical Care Medicine, Vanderbilt 
+University Medical Center, Nashville, TN.
+
+The advances in minimally invasive lung cancer diagnostics of the last decade 
+have transformed patient care but have also raised important concerns about the 
+regulatory processes used to approve new devices and the best way to generate 
+data to support their use. Disruptive technologies, such as robotic 
+bronchoscopy, have been widely adopted by interventional pulmonologists in the 
+absence of robust data demonstrating improved patient outcomes. Comparative 
+research is needed to inform patient care, but traditional methods of conducting 
+clinical trials in which research teams operate separately from clinical teams 
+are ill-suited to testing the safety and effectiveness of technologies being 
+introduced on the market at unprecedented speed. Pragmatic clinical trials, 
+which integrate trial procedures into routine clinical care, represent an 
+appealing alternative approach for generating much-needed data to inform 
+clinical care. In this manuscript we illustrate the advantages and disadvantages 
+of these research paradigms using two recently completed randomized controlled 
+trials in navigational bronchoscopy and highlight the barriers and facilitators 
+to using pragmatic trials to address the gap in comparative effectiveness 
+research: these include the need for increased clarity of research regulations 
+for pragmatic trials, adequate federal and private funding for such research, 
+and alignment of incentives between clinicians, researchers, regulators, and 
+industry.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/j.chest.2024.11.010
+PMID: 39577764
+
+
+8. Sci Total Environ. 2024 Nov 20:177704. doi: 10.1016/j.scitotenv.2024.177704. 
+Online ahead of print.
+
+The influence of pH on the liquid-phase transformation of phenolic compounds 
+driven by nitrite photolysis: Implications for characteristics, products and 
+cytotoxicity.
+
+Wang Y(1), Cai M(2), Wang Y(3), Zhao W(1), Wang B(1), Wang G(4), Li X(5).
+
+Author information:
+(1)Department of Chemistry, Capital Normal University, Beijing 100048, China.
+(2)College of Resource Environment and Tourism, Capital Normal University, 
+Beijing 100048, China.
+(3)Department of Chemistry, Capital Normal University, Beijing 100048, China. 
+Electronic address: 1170701053@cnu.edu.cn.
+(4)Key Laboratory of Geographic Information Science of the Ministry of 
+Education, School of Geographic Sciences, East China Normal University, Shanghai 
+200241, China. Electronic address: ghwang@geo.ecnu.edu.cn.
+(5)Department of Chemistry, Capital Normal University, Beijing 100048, China. 
+Electronic address: lixr@cnu.edu.cn.
+
+The aqueous-phase conversion of phenolic compounds (PhCs) driven by nitrite 
+photolysis has been recognized as a significant source of secondary brown carbon 
+(BrC). However, the influence of pH on the conversion kinetics and product 
+distribution of PhCs remains unclear. In this study, three representative PhCs 
+with varying functional groups were selected to examine their aqueous-phase 
+conversion kinetics in the presence of nitrite under different pH conditions and 
+simulated sunlight conditions. The results indicate that as the pH increases, 
+the decay rates of PhCs decrease, following first-order reaction kinetics. These 
+varying decay rates also suggest that different substituents on the benzene ring 
+significantly impact the reactivity of PhCs. The molecular composition of the 
+products is pH-dependent, with 4-nitrocatechol (4NC) emerging as the primary 
+reaction product. A range of conversion products were detected across different 
+pH values: nitrification dominated at low pH, while hydroxylation products 
+increased with rising pH, and polymerization products appeared prominently at 
+high pH. Due to the electron-withdrawing effect of the nitro group on the 
+benzene ring, fewer products formed from 4-nitrophenol were observed, and the 
+visible absorption spectrum also showed a decreasing trend as the reaction 
+progressed across various pH conditions. Toxicity assays on human non-small cell 
+lung cancer cells (A549) revealed that the toxicity of the reaction products 
+decreased with increasing pH. Correspondingly, the accumulation of reactive 
+oxygen species (ROS) and apoptosis rates in cells also declined. This may be due 
+to the fact that at lower pH levels, nitrophenols (NPs), which tend to promote 
+ROS accumulation and cell death, dominate the product mix. This study provides 
+valuable insights into the toxicological properties of secondary organic 
+aerosols (SOA) formed from the photo-oxidation products of PhCs under different 
+pH conditions. These findings contribute to a deeper understanding of the 
+environmental and health impacts of SOA in atmospheric chemistry.
+
+Copyright © 2024. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2024.177704
+PMID: 39577595
+
+
+9. Int J Radiat Oncol Biol Phys. 2024 Nov 20:S0360-3016(24)03652-6. doi: 
+10.1016/j.ijrobp.2024.11.077. Online ahead of print.
+
+Data-Driven Volumetric CT Image Generation from Surface Structures using a 
+Patient-Specific Deep Leaning Model.
+
+Pan S(1), Chang CW(2), Tian Z(3), Wang T(4), Axente M(5), Shelton J(5), Liu 
+T(6), Roper J(5), Yang X(7).
+
+Author information:
+(1)Department of Radiation Oncology and Winship Cancer Institute, Emory 
+University, Atlanta, GA 30308; Department of Biomedical Informatics, Emory 
+University, Atlanta, GA 30308; These authors contributed equally: Shaoyan Pan, 
+Chih-Wei Chang.
+(2)Department of Radiation Oncology and Winship Cancer Institute, Emory 
+University, Atlanta, GA 30308; These authors contributed equally: Shaoyan Pan, 
+Chih-Wei Chang.
+(3)Department of Radiation & Cellular Oncology, University of Chicago, Chicago, 
+IL, 60637.
+(4)Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New 
+York, NY, 10065.
+(5)Department of Radiation Oncology and Winship Cancer Institute, Emory 
+University, Atlanta, GA 30308.
+(6)Department of Radiation Oncology, Mount Sinai Medical Center, New York, NY, 
+10029.
+(7)Department of Radiation Oncology and Winship Cancer Institute, Emory 
+University, Atlanta, GA 30308; Department of Biomedical Informatics, Emory 
+University, Atlanta, GA 30308.
+
+PURPOSE: Optical surface imaging presents radiation-dose-free and noninvasive 
+approaches for image-guided radiotherapy, allowing continuous monitoring during 
+treatment delivery. However, it falls short in cases where correlation of motion 
+between body surface and internal tumor is complex, limiting the use of purely 
+surface-guided surrogates for tumor tracking. Relying solely on surface-guided 
+radiation therapy (SGRT) may not ensure accurate intra-fractional monitoring. 
+This work aims to develop a data-driven framework, mitigating the limitations of 
+SGRT in lung cancer radiotherapy by reconstructing volumetric CT images from 
+surface images.
+METHODS AND MATERIALS: We conducted a retrospective analysis involving 50 lung 
+cancer patients who underwent radiotherapy and had 10-phase 4DCT scans during 
+their treatment simulation. For each patient, we utilized nine phases of 4DCT 
+images for patient-specific model training and validation, reserving one phase 
+for testing purposes. Our approach employed a surface-to-volume image synthesis 
+framework, harnessing cycle-consistency generative adversarial networks to 
+transform surface images into volumetric representations. The framework was 
+extensively validated using an additional 6-patient cohort with re-simulated 
+4DCT.
+RESULTS: The proposed technique has produced accurate volumetric CT images from 
+the patient's body surface. In comparison to the ground truth CT images, those 
+generated synthetically by the proposed method exhibited the GTV center of mass 
+difference of 1.72±0.87 mm, the overall mean absolute error of 36.2±7.0 HU, 
+structural similarity index measure of 0.94±0.02, and Dice score coefficient of 
+0.81±0.07. Furthermore, the robustness of the proposed framework was found to be 
+linked to respiratory motion.
+CONCLUSION: The proposed approach provides a novel solution to overcome the 
+limitation of SGRT for lung cancer radiotherapy, which can potentially enable 
+real-time volumetric imaging during radiation treatment delivery for accurate 
+tumor tracking without radiation-induced risk. This data-driven framework offers 
+a comprehensive solution to tackle motion management in radiotherapy, without 
+necessitating the rigid application of first principles modeling for organ 
+motion.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ijrobp.2024.11.077
+PMID: 39577474
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that there are no competing interests.
+
+
+10. Cancer Cell. 2024 Nov 13:S1535-6108(24)00402-1. doi: 
+10.1016/j.ccell.2024.10.014. Online ahead of print.
+
+Interleukin-1α release during necrotic-like cell death generates myeloid-driven 
+immunosuppression that restricts anti-tumor immunity.
+
+Hänggi K(1), Li J(2), Gangadharan A(2), Liu X(3), Celias DP(4), Osunmakinde 
+O(2), Keske A(4), Davis J(3), Ahmad F(5), Giron A(4), Anadon CM(4), Gardner 
+A(2), DeNardo DG(5), Shaw TI(3), Beg AA(4), Yu X(3), Ruffell B(6).
+
+Author information:
+(1)Department of Immunology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL 33612, USA. Electronic address: kay.hanggi@moffitt.org.
+(2)Department of Immunology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL 33612, USA; Cancer Biology PhD Program, University of South 
+Florida, Tampa, FL 33620, USA.
+(3)Department of Biostatistics and Bioinformatics, H. Lee Moffitt Cancer Center 
+and Research Institute, Tampa, FL 33612, USA.
+(4)Department of Immunology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL 33612, USA.
+(5)Department of Medicine, Washington University School of Medicine, St. Louis, 
+MO 63110, USA.
+(6)Department of Immunology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL 33612, USA; Department of Breast Oncology, H. Lee Moffitt 
+Cancer Center and Research Institute, Tampa, FL 33612, USA. Electronic address: 
+brian.ruffell@moffitt.org.
+
+Necroptosis can promote antigen-specific immune responses, suggesting induced 
+necroptosis as a therapeutic approach for cancer. Here we sought to determine 
+the mechanism of immune activation but found the necroptosis mediators RIPK3 and 
+MLKL dispensable for tumor growth in genetic and implantable models of breast or 
+lung cancer. Surprisingly, inducing necroptosis within established breast tumors 
+generates a myeloid suppressive microenvironment that inhibits T cell function, 
+promotes tumor growth, and reduces survival. This was dependent upon the release 
+of the nuclear alarmin interleukin-1α (IL-1α) by dying cells. Critically, IL-1α 
+release occurs during chemotherapy and targeting this molecule reduces the 
+immunosuppressive capacity of tumor myeloid cells and promotes CD8+ T cell 
+recruitment and effector function. Neutralizing IL-1α enhances the efficacy of 
+single agent paclitaxel or combination therapy with PD-1 blockade in preclinical 
+models. Low IL1A levels correlates with positive patient outcome in several 
+solid malignancies, particularly in patients treated with chemotherapy.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccell.2024.10.014
+PMID: 39577420
+
+Conflict of interest statement: Declaration of interests B.R. has a courtesy 
+faculty appointment at the University of South Florida, Tampa, FL 33620. B.R. is 
+on the scientific advisory board of Omios Biologics LLC, has received payments 
+from Merck & Co., Inc. and Roche Farma S.A. for consulting, and has had 
+sponsored research agreements with TESARO: A GSK Company unrelated to this work.

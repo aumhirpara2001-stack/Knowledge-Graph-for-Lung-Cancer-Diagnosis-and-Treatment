@@ -1,0 +1,508 @@
+1. Med Decis Making. 2024 Nov 22:272989X241292643. doi: 10.1177/0272989X241292643. 
+Online ahead of print.
+
+Veterans' Lung Cancer Risk Conceptualizations versus Lung Cancer Screening 
+Shared Decision-Making Conversations with Clinicians: A Qualitative Study.
+
+Boudreau JH(1)(2), Bolton RE(1)(2), Núñez ER(1)(2)(3)(4), Caverly TJ(5)(6)(7), 
+Kearney L(1)(2)(3), Sliwinski S(1)(2), Herbst AN(1)(2), Slatore CG(8), Wiener 
+RS(1)(2)(3)(5).
+
+Author information:
+(1)Center for Healthcare Optimization & Implementation Research, VA Boston 
+Healthcare System, Boston, MA, USA.
+(2)VA Bedford Healthcare System, Bedford, MA, USA.
+(3)The Pulmonary Center, Boston University School of Medicine, Boston, MA, USA.
+(4)Department of Healthcare Delivery and Population Sciences, University of 
+Massachusetts Chan Medical School-Baystate, Springfield, MA, USA.
+(5)National Center for Lung Cancer Screening, Veterans Health Administration, 
+Washington, DC, USA.
+(6)VA Ann Arbor Healthcare System, Ann Arbor, MI, USA.
+(7)University of Michigan School of Medicine, Ann Arbor, MI, USA.
+(8)VA Portland Healthcare System, Portland, OR, USA.
+
+BACKGROUND: The Veterans Health Administration (VA) recommends lung cancer 
+screening (LCS), including shared decision making between clinicians and veteran 
+patients. We sought to characterize 1) veteran conceptualization of lung cancer 
+risk and 2) veteran and clinician accounts of shared decision-making discussions 
+about LCS to assess whether they reflect veteran concerns.
+METHODS: We conducted qualitative interviews at 6 VA sites, with 48 clinicians 
+and 34 veterans offered LCS in the previous 6 mo. We thematically analyzed 
+transcripts, focusing on lung cancer risk perceptions, LCS decision making, and 
+patient-clinician conversations.
+RESULTS: Three themes emerged. 1) Veterans' lung cancer risk conceptualizations 
+incorporated smoking, occupational hazards, and family history, whereas 
+clinicians focused on smoking as the primary risk factor. 2) Veterans' risk 
+perceptions were influenced by symptoms, recency of exposures, and anecdotes 
+about smoking, cancer, and lung disease, leading some veterans to believe other 
+risk factors outweighed smoking in increasing lung cancer risk. 3) Both veterans 
+and clinicians described LCS conversations centered on smoking, with little 
+mention of other risks.
+LIMITATIONS: Our findings may not reflect non-VA settings; for example, veterans 
+may be more concerned about airborne hazards.
+CONCLUSIONS: While airborne hazards strongly influenced veterans' lung cancer 
+risk conceptualizations, clinicians seldom addressed this risk factor during LCS 
+shared decision making, instead focusing on smoking.
+IMPLICATIONS: In 2022, the US Congress highlighted the link between military 
+toxic exposures and lung cancer risk, requiring VA clinicians to discuss these 
+exposures and conferring automatic VA benefits to exposed veterans with cancer. 
+There is a time-sensitive need for tools to support VA clinicians in discussing 
+military hazards as a lung cancer risk factor, which may result in more 
+engaging, less stigmatizing LCS shared decision-making conversations.
+HIGHLIGHTS: Veterans' conceptualizations of their lung cancer risk were 
+multifactorial and sometimes ranked exposure to occupational airborne hazards 
+and family history above smoking in increasing lung cancer risk.However, 
+patient-clinician lung cancer screening (LCS) conversations were typically brief 
+and focused on smoking, which could stigmatize patients and failed to engage 
+veterans in discussing what mattered most to them in thinking about their lung 
+cancer risk.These findings are of heightened importance in light of the 2022 
+Sergeant First Class Heath Robinson Honoring our Promise to Address 
+Comprehensive Toxics (PACT) Act, which requires VA clinicians to discuss toxic 
+military exposures and their relationship to lung cancer and other health 
+conditions.Tools that help clinicians assess and incorporate multiple risk 
+factors into discussions about lung cancer may better address patients' concerns 
+and beliefs and lead to more engaging, less stigmatizing shared decision-making 
+conversations about LCS.
+
+DOI: 10.1177/0272989X241292643
+PMID: 39575828
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article. The authors disclosed receipt of the following financial support for 
+the research, authorship, and/or publication of this article: Financial support 
+for this study was provided entirely by a grant from the Health Services 
+Research and Development, US Department of Veterans Affairs (VA HSR&D IIR 
+18-075, PI: Wiener). The funding agreement ensured the authors’ independence in 
+designing the study, interpreting the data, writing, and publishing the report. 
+The following authors are employed by the sponsor: Jacqueline H. Boudreau, 
+Rendelle E. Bolton, Samantha Sliwinski, Tanner J. Caverly, and Renda Soylemez 
+Wiener.
+
+
+2. Stud Health Technol Inform. 2024 Nov 22;321:155-159. doi: 10.3233/SHTI241083.
+
+Survival Stacking Ensemble Model for Lung Cancer Risk Prediction.
+
+Alonso E(1)(2), Calle X(1), Gurrutxaga I(2), Beristain A(1).
+
+Author information:
+(1)Vicomtech Foundation, Basque Research and Technology Alliance (BRTA), 
+Donostia - San Sebastián, Spain.
+(2)Department of Computer Architecture and Technology, University of the Basque 
+Country (UPV/EHU), Donostia - San Sebastián, Spain.
+
+The most well-established risk factor for lung cancer (LC) is smoking, 
+responsible for approximately 85% of cases. The Lung Cancer Risk Assessment Tool 
+(LCRAT) is a key advancement in this field, which predicts individual risk based 
+on factors like smoking habits, demographic details, personal and family medical 
+history, and environmental exposures. This paper proposes a model with fewer 
+features that improves state of the art performance, using a simplified stacking 
+ensemble, making it more accessible and easier to implement in routine 
+healthcare practice. The data used in this work were derived from two cohorts in 
+the United States: The National Lung Screening Trial (NLST) and the Prostate, 
+Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial. Both our model and 
+LCRAT achieve an AUC of 0.799 and 0.782 on test respectively. In terms of 
+percentage of positives, in the 50% of the population, both detect 0.766 and 
+0.754 of the cases. The ensemble of different survival models enhances 
+robustness by mitigating the weakness of individual models and directly impacts 
+the efficiency of the model, increasing the efficiency and generalizability.
+
+DOI: 10.3233/SHTI241083
+PMID: 39575799 [Indexed for MEDLINE]
+
+
+3. Mol Oncol. 2024 Nov 22. doi: 10.1002/1878-0261.13765. Online ahead of print.
+
+Integrative analysis of circulating tumor cells (CTCs) and exosomes from 
+small-cell lung cancer (SCLC) patients: a comprehensive approach.
+
+Papakonstantinou D(1), Roumeliotou A(1), Pantazaka E(1), Shaukat AN(2), 
+Christopoulou A(3), Koutras A(4), Dimitrakopoulos FI(4), Georgoulias V(5), 
+Xagara A(6), Chantzara E(6), Koinis F(6), Kotsakis A(6), Stathopoulos C(2), 
+Kallergi G(1).
+
+Author information:
+(1)Laboratory of Biochemistry/Metastatic Signaling, Section of Genetics, Cell 
+Biology and Development, Department of Biology, University of Patras, Greece.
+(2)Department of Biochemistry, School of Medicine, University of Patras, Greece.
+(3)Oncology Unit, ST Andrews General Hospital of Patras, Greece.
+(4)Clinical and Molecular Oncology Laboratory, Division of Oncology, Department 
+of Medicine, Medical School, University of Patras, Greece.
+(5)Hellenic Oncology Research Group (HORG), Athens, Greece.
+(6)Department of Medical Oncology, General University Hospital of Larissa, 
+Greece.
+
+The increased metastatic ability of small-cell lung cancer (SCLC) necessitates 
+the identification of new prognostic biomarkers for clinical evaluation during 
+the disease course. Our previous research highlighted the clinical relevance of 
+transcription factor JunB (JUNB), C-X-C chemokine receptor type 4 (CXCR4), and 
+programmed cell death 1 ligand 1 (PD-L1) in breast and non-small cell lung 
+cancer (NSCLC) patients. In the current study, we examined these biomarkers in 
+circulating tumor cells (CTCs) and plasma-derived exosomes from 100 
+treatment-naïve SCLC patients. CTCs were analyzed using the VyCAP system, 
+whereas exosomes were characterized molecularly and transcriptomically. JUNB, 
+CXCR4, and PD-L1 were highly prevalent in CTCs. Patients exhibited significantly 
+increased protein exosomal expression of JUNB and CXCR4 compared to healthy 
+individuals. Overexpression of JUNB and CXCR4 in exosomes can distinguish 
+patients from normal donors, offering an interesting tool for early diagnosis. 
+The presence of JUNB and/or CXCR4 in CTCs correlated with significantly poorer 
+overall survival. CXCR4 exosomal overexpression was associated with CTC presence 
+and their phenotypes. Conclusively, a comprehensive analysis of CTCs and 
+exosomes provides useful prognostic and potential diagnostic tools for SCLC 
+patients.
+
+© 2024 The Author(s). Molecular Oncology published by John Wiley & Sons Ltd on 
+behalf of Federation of European Biochemical Societies.
+
+DOI: 10.1002/1878-0261.13765
+PMID: 39575761
+
+
+4. Biometrics. 2024 Oct 3;80(4):ujae129. doi: 10.1093/biomtc/ujae129.
+
+Sensitivity analysis for studies transporting prediction models.
+
+Steingrimsson JA(1), Robertson SE(2)(3), Voter S(1), Dahabreh IJ(2)(3)(4).
+
+Author information:
+(1)Department of Biostatistics, Brown University, Providence, RI 02903, United 
+States.
+(2)CAUSALab, Harvard T.H. Chan School of Public Health, Boston, MA 02115, United 
+States.
+(3)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA 02115, United States.
+(4)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, MA 02115, United States.
+
+We consider estimation of measures of model performance in a target population 
+when covariate and outcome data are available from a source population and 
+covariate data, but not outcome data, are available from the target population. 
+In this setting, identification of measures of model performance is possible 
+under an untestable assumption that the outcome and population (source or 
+target) are independent conditional on covariates. In practice, this assumption 
+is uncertain and, in some cases, controversial. Therefore, sensitivity analysis 
+may be useful for examining the impact of assumption violations on inferences 
+about model performance. Here, we propose an exponential tilt sensitivity 
+analysis model and develop statistical methods to determine how measures of 
+model performance are affected by violations of the assumption of conditional 
+independence between outcome and population. We provide identification results 
+and estimators for the risk in the target population under the sensitivity 
+analysis model, examine the large-sample properties of the estimators, and apply 
+them to data on lung cancer screening.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of The 
+International Biometric Society.
+
+DOI: 10.1093/biomtc/ujae129
+PMCID: PMC11582396
+PMID: 39575627 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+5. Small. 2024 Nov 22:e2406790. doi: 10.1002/smll.202406790. Online ahead of print.
+
+Reprogrammed Lung Metastasis Immunodeficiency via Targeted Penetrated Delivery 
+of M1 Macrophage-Wrapped NanoCubes-Mediated T Cell Infiltration.
+
+Wang KL(1), Li CH(1), Huang PX(1), Liu HC(1), Yalamandala BN(1), Pan WC(1), Iao 
+HM(1), Hu SH(1).
+
+Author information:
+(1)Department of Biomedical Engineering and Environmental Sciences, National 
+Tsing Hua University, Hsinchu, 300044, Taiwan.
+
+The infiltration of cytotoxic T lymphocytes holds promise for suppressing even 
+the most resilient metastatic tumors in immunotherapy. Polarizing 
+tumor-associated macrophages (TAMs) and remodeling the immune-deficient tumor 
+microenvironment (TME) can enhance T lymphocyte recruitment and infiltration. 
+However, the immune privilege and low immunogenic responses of these aggressive 
+tumor clusters often limit lymphocyte recruitment. Here, an M1 macrophage 
+membrane-coated iron oxide nanoparticle (IO@MM) double as a tumor-penetrated 
+agent and naïve M0 macrophage to M1 polarizer is developed for lung metastatic 
+colorectal cancer (CRC) immunotherapy. At the tumor site, IO@MM combined with 
+resiquimod (R848) increased the immune cell infiltration, turning the "Cold" TME 
+into an immune-activating "Hot" one. Together with self-cascade immunotherapy, 
+IO@MM with R848 promotes tumor release of damage-associated molecular patterns 
+(DAMPs). At the same time, IO@MM uses the membrane as an antigen reservoir and 
+provides autologous DAMPs to retain dendritic cells. This IO@MM effectively 
+inhibits tumors and improves survival rate as an immunomodulator in lung 
+metastasis.
+
+© 2024 Wiley‐VCH GmbH.
+
+DOI: 10.1002/smll.202406790
+PMID: 39575473
+
+
+6. Mol Med Rep. 2025 Feb;31(2):35. doi: 10.3892/mmr.2024.13400. Epub 2024 Nov 22.
+
+Solamargine inhibits gastric cancer progression via inactivation of STAT3/PD‑L1 
+signaling.
+
+Liu X(1), Song L(1), Liu W(2), Liu B(2), Liu L(2), Su Y(2).
+
+Author information:
+(1)Department of Gastroenterology, Xiangtan Central Hospital, Xiangtan, Hunan 
+411100, P.R. China.
+(2)Department of Gastroenterology, Xiangtan Central Hospital, Xiangtan, Hunan 
+411100, P.R. China.
+
+Gastric cancer (GC) is characterized by a high mortality rate (70%) worldwide. 
+Programmed cell death‑1 and its ligand, programmed cell death ligand 1 (PD‑L1), 
+are vital immune checkpoints, which serve a notable role in GC. Solamargine, an 
+extract from traditional Chinese medicine Long Kui, exerts suppressive effects 
+on several types of cancer including cervical, lung and prostate cancer. 
+However, the association between solamargine and PD‑L1 in GC remains unclear. 
+Therefore, the present study aimed to investigate the underlying mechanism of 
+solamargine on GC. Specifically, 5‑ethynyl‑2'‑deoxyuridine and Transwell assays 
+were performed to assess GC cell proliferation, invasion and migration. 
+Additionally, GC cells (HGC‑827 and NCI‑N87) were stimulated with 20 ng/ml 
+recombinant human IL‑6 for 24 h, before the protein expression levels of PD‑L1 
+were measured using western blot analysis. Furthermore, T cell function was 
+evaluated through incubation of Jurkat T cells with solamargine. The results 
+demonstrated that solamargine could markedly inhibit GC cell proliferation, 
+migration and invasion, by inhibiting STAT3 signaling. In addition, GC cell 
+treatment with solamargine downregulated the expression of PD‑L1. Furthermore, 
+solamargine reversed the IL‑6‑induced PD‑L1 upregulation in GC cells by 
+downregulating STAT3 activity. Additionally, the results demonstrated that 
+solamargine inhibited IL‑6‑induced PD‑L1 upregulation of GC cells. This suggests 
+that solamargine exerted an immunostimulatory activity in GC. In conclusion, the 
+present study indicated that solamargine may inhibit the progression of GC by 
+suppressing STAT3/PD‑L1 signaling. Therefore, treatment with solamargine may 
+serve as novel strategy for the treatment of GC.
+
+DOI: 10.3892/mmr.2024.13400
+PMID: 39575463 [Indexed for MEDLINE]
+
+
+7. Front Oncol. 2024 Nov 7;14:1449119. doi: 10.3389/fonc.2024.1449119. eCollection 
+2024.
+
+Case report: Pulmonary Ewing sarcoma disguised as non-small cell lung cancer.
+
+Carter ME(1), Benegiamo-Chilla A(1), Kloker LD(1), Paulsen N(1), Potkrajcic 
+V(2), Paulsen F(2), Nemeth A(3), Steger V(3), Schulze M(4), Biskup S(4)(5), 
+Benzler K(1), Singer S(6), Lauer UM(1)(7)(8), Zender L(1)(7)(8), Deinzer CKW(1).
+
+Author information:
+(1)Department of Medical Oncology and Pneumology, Medical University Hospital, 
+Tübingen, Germany.
+(2)Department of Radiation Oncology, University Hospital, Tübingen, Germany.
+(3)Department of Thoracic and Cardiovascular Surgery, University Hospital, 
+Tübingen, Germany.
+(4)Zentrum für Humangenetik Tübingen, Tübingen, Germany.
+(5)CeGaT GmbH, Center for Genomics and Transcriptomics, Tübingen, Germany.
+(6)Institute of Pathology and Neuropathology, University Hospital Tübingen, 
+Tübingen, Germany.
+(7)University of Tübingen, iFIT Cluster of Excellence (EXC2180) "Image-Guided 
+and Functionally Instructed Tumor Therapies", Tübingen, Germany.
+(8)German Cancer Research Consortium (DKTK), Partner Site Tübingen, German 
+Cancer Research Center (DKFZ), Heidelberg, Germany.
+
+Ewing sarcoma is the second most common primary malignant bone cancer in 
+children and adolescents. This rare type of cancer is characterized by its high 
+malignancy and therefore high risk of metastases. Typically, Ewing sarcomas 
+originate from bones. However, extraosseous Ewing sarcoma such as pulmonary 
+Ewing sarcoma can also be found. In this case report, we present a 55-year old 
+male patient who was initially diagnosed with non-small cell lung cancer at his 
+local district hospital. However, the diagnosis was changed to one of pulmonary 
+Ewing sarcoma after subsequent histopathological and molecular pathological 
+analysis performed in a reference pathology laboratory. After patient referral 
+to a certified (according to the German Cancer Society) high-volume sarcoma 
+center, multimodal chemotherapy was initiated based on recently published 
+clinical data as opposed to the more commonly used treatment regimen in Europe. 
+The patient responded well to treatment and underwent a complete surgical tumor 
+resection followed by radiotherapy. In summary, this case report highlights the 
+importance of a rigorous and timely histopathological examination of biopsy 
+samples by a specialized cancer center to enable a correct diagnosis of the 
+cancer type. Additionally, molecular pathology plays a crucial part in this 
+analysis and allows the necessary differentiation between cancer types. Up to 
+now, there is no international treatment guideline available for the treatment 
+of Ewing sarcoma. Patients should be referred to specialist centers to allow the 
+best possible treatment of the cancer type in view of current published clinical 
+data. In the case of Ewing sarcoma, and in accordance with the most recent 
+research, patients should be treated with vincristine, doxorubicin and 
+cyclophosphamide plus ifosfamide and etoposide in combination with local 
+treatment such as surgery and/or radiotherapy because this has been demonstrated 
+to be the more effective therapy.
+
+Copyright © 2024 Carter, Benegiamo-Chilla, Kloker, Paulsen, Potkrajcic, Paulsen, 
+Nemeth, Steger, Schulze, Biskup, Benzler, Singer, Lauer, Zender and Deinzer.
+
+DOI: 10.3389/fonc.2024.1449119
+PMCID: PMC11578818
+PMID: 39575427
+
+Conflict of interest statement: CD is a consulting or advisory board member for 
+Boehringer Ingelheim. He receives lecture honoraria from PharmaMar. In addition, 
+he has accepted imbursement for travel, accommodation or congress registration 
+expenses from Boehringer Ingelheim, Deciphera and Pierre Fabre. VP is supported 
+as a Clinician Scientist by the German Sarcoma Foundation. Author SB was 
+employed by company CeGaT GmbH. The remaining authors declare that the research 
+was conducted in the absence of any commercial or financial relationships that 
+could be construed as a potential conflict of interest.
+
+
+8. Front Oncol. 2024 Nov 7;14:1444312. doi: 10.3389/fonc.2024.1444312. eCollection 
+2024.
+
+Efficacy and safety of Toliparibumab for the treatment of non-small cell lung 
+cancer: a systematic review and meta-analysis.
+
+Liu Y(#)(1), Yang L(#)(2), Duan Z(#)(1), Cheng Q(1), Liu M(1), Zhang H(1), Zhao 
+H(1).
+
+Author information:
+(1)Department of Lung Cancer Surgery, Tianjin Medical University General 
+Hospital, Tianjin, China.
+(2)School of Medicine, Nankai University, Tianjin, China.
+(#)Contributed equally
+
+PURPOSE: This research intends to investigate the treatment of non-small cell 
+lung cancer (NSCLC) using Toripalimab, focusing on its effectiveness and safety 
+profile. Efficacy refers to the survival prognosis, while safety pertains to the 
+occurrence of adverse events in our study. It also aims to provide reference 
+information for neoadjuvant and postoperative therapies.
+METHODS: Up to March 20, 2024, studies on randomized controlled trials and 
+single-arm trials involving Toripalimab for NSCLC were sourced from the Cochrane 
+Library, Embase, PubMed, and Web of Science databases. Data extraction and 
+analysis were independently conducted by two researchers utilizing Stata 15.0 
+and R software.
+RESULTS: A total of 8 studies were analyzed, including 6 single-arm studies and 
+2 randomized controlled trials (RCTs). Toripalimab treatment in the RCTs showed 
+an overall survival (OS) of [HR=0.67, 95% CI (0.53, 0.85); p=0.71]. The 
+objective response rate (ORR) from single-arm studies was reported as [ES=0.59, 
+95% CI (0.36, 0.81); p<0.01], and progression-free survival (PFS) was [ES=4.89, 
+95% CI (2.65, 9.02); p<0.01]. Furthermore, observed adverse effects included 
+Anemia [OR=0.53, 95% CI (0.26, 0.79); p<0.01], Neutropenia [OR=0.43, 95% CI 
+(0.20, 0.68); p<0.01], and Thrombocytopenia [OR=0.28, 95% CI (0.18, 0.43); 
+p<0.01].
+CONCLUSIONS: Toripalimab, being China's first domestically developed anti-tumor 
+PD-1 antibody drug, shows potential advantages over traditional chemotherapy in 
+possibly prolonging patients' survival times. However, the limited number of 
+studies included indicates the need for additional single-arm and RCT studies to 
+further validate these findings.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier 
+(CRD42024519806).
+
+Copyright © 2024 Liu, Yang, Duan, Cheng, Liu, Zhang and Zhao.
+
+DOI: 10.3389/fonc.2024.1444312
+PMCID: PMC11578821
+PMID: 39575424
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+9. Front Oncol. 2024 Nov 7;14:1437260. doi: 10.3389/fonc.2024.1437260. eCollection 
+2024.
+
+Case report: Combination therapy of envafolimab with endostar for advanced 
+non-small cell lung cancer with low PD-L1 expression.
+
+Wu S(#)(1), Dong C(#)(2), Hu C(2), Hui K(2), Jiang X(1)(2).
+
+Author information:
+(1)Department of Radiation Oncology, Lianyungang Clinical College of Nanjing 
+Medical University, Lianyungang, China.
+(2)Department of Radiation Oncology, The Affiliated Lianyungang Hospital of 
+Xuzhou Medical University, Lianyungang, China.
+(#)Contributed equally
+
+In the management of advanced non-squamous non-small cell lung cancer (NSCLC) 
+without driver gene mutations, the current therapeutic strategies encompass 
+chemotherapy, chemotherapy combined with anti-angiogenic therapy, and 
+chemotherapy combined with immunotherapy. For patients with high programmed 
+death-ligand 1(PD-L1) expression, monotherapy with immune checkpoint inhibitors 
+is a viable option. Recognizing that some patients cannot tolerate or decline 
+chemotherapy, clinical practice has introduced non-chemotherapeutic treatment 
+regimens, which have shown promising results. This article presents a clinical 
+case of advanced NSCLC with low PD-L1 expression and negative driver gene 
+mutations. The patient was treated with a chemotherapy-free regimen combining 
+envafolimab with endostar. After 17 months of follow-up, both the primary tumor 
+and metastatic lesions exhibited significant reduction, and no notable adverse 
+reactions were observed. This case demonstrates the efficacy of envafolimab 
+combined with endostar in the treatment of advanced NSCLC. This regimen enhances 
+treatment safety and patient compliance, potentially offering a novel 
+therapeutic option for patients with advanced NSCLC characterized by low PD-L1 
+expression and negative driver gene mutations.
+
+Copyright © 2024 Wu, Dong, Hu, Hui and Jiang.
+
+DOI: 10.3389/fonc.2024.1437260
+PMCID: PMC11578815
+PMID: 39575420
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+10. Front Oncol. 2024 Oct 22;14:1388297. doi: 10.3389/fonc.2024.1388297. eCollection 
+2024.
+
+Artificial intelligence-assisted delineation for postoperative radiotherapy in 
+patients with lung cancer: a prospective, multi-center, cohort study.
+
+Han Z(#)(1), Wang Y(#)(1), Wang W(1), Zhang T(1), Wang J(1), Ma X(1), Men K(1), 
+Shi A(2), Gao Y(3), Bi N(1).
+
+Author information:
+(1)National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, China.
+(2)Department of Radiation Oncology, Peking University Cancer Hospital & 
+Institute, Beijing, China.
+(3)Department of Radiation Therapy, Beijing Luhe Hospital Affiliated to Capital 
+Medical University, Beijing, China.
+(#)Contributed equally
+
+BACKGROUND: Postoperative radiotherapy (PORT) is an important treatment for lung 
+cancer patients with poor prognostic features, but accurate delineation of the 
+clinical target volume (CTV) and organs at risk (OARs) is challenging and 
+time-consuming. Recently, deep learning-based artificial intelligent (AI) 
+algorithms have shown promise in automating this process.
+OBJECTIVE: To evaluate the clinical utility of a deep learning-based 
+auto-segmentation model for AI-assisted delineating CTV and OARs in patients 
+undergoing PORT, and to compare its accuracy and efficiency with manual 
+delineation by radiation oncology residents from different levels of medical 
+institutions.
+METHODS: We previously developed an AI auto-segmentation model in 664 patients 
+and validated its contouring performance in 149 patients. In this multi-center, 
+validation trial, we prospectively involved 55 patients and compared the 
+accuracy and efficiency of 3 contouring methods: (i) unmodified AI 
+auto-segmentation, (ii) fully manual delineation by junior radiation oncology 
+residents from different medical centers, and (iii) manual modifications based 
+on AI segmentation model (AI-assisted delineation). The ground truth of CTV and 
+OARs was delineated by 3 senior radiation oncologists. Contouring accuracy was 
+evaluated by Dice similarity coefficient (DSC), Hausdorff distance (HD), and 
+mean distance of agreement (MDA). Inter-observer consistency was assessed by 
+volume and coefficient of variation (CV).
+RESULTS: AI-assisted delineation achieved significantly higher accuracy compared 
+to unmodified AI auto-contouring and fully manual delineation by radiation 
+oncologists, with median HD, MDA, and DCS values of 20.03 vs. 21.55 mm, 2.57 vs. 
+3.06 mm, 0.745 vs. 0.703 (all P<0.05) for CTV, respectively. The results of OARs 
+contours were similar. CV for OARs was reduced by approximately 50%. In addition 
+to better contouring accuracy, the AI-assisted delineation significantly 
+decreased the consuming time and improved the efficiency.
+CONCLUSION: AI-assisted CTV and OARs delineation for PORT significantly improves 
+the accuracy and efficiency in the real-world setting, compared with pure AI 
+auto-segmentation or fully manual delineation by junior oncologists. AI-assisted 
+approach has promising clinical potential to enhance the quality of radiotherapy 
+planning and further improve treatment outcomes of patients with lung cancer.
+
+Copyright © 2024 Han, Wang, Wang, Zhang, Wang, Ma, Men, Shi, Gao and Bi.
+
+DOI: 10.3389/fonc.2024.1388297
+PMCID: PMC11579590
+PMID: 39575415
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The reviewer YJ declared a 
+shared parent affiliation with the author YG to the handling editor at the time 
+of review.

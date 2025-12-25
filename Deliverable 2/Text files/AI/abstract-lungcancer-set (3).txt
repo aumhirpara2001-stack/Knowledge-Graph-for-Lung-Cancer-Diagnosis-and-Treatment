@@ -1,0 +1,274 @@
+1. Cancer Treat Res. 2016;170:25-46. doi: 10.1007/978-3-319-40389-2_2.
+
+Diagnosis and Molecular Classification of Lung Cancer.
+
+Rodriguez-Canales J(1), Parra-Cuentas E(1), Wistuba II(2).
+
+Author information:
+(1)Department of Translational Molecular Pathology, Unit 951, The University of 
+Texas MD Anderson Cancer Center, 2130 Holcombe Blvd., Houston, TX, 77030, USA.
+(2)Department of Translational Molecular Pathology, Unit 951, The University of 
+Texas MD Anderson Cancer Center, 2130 Holcombe Blvd., Houston, TX, 77030, USA. 
+iiwistuba@mdanderson.org.
+
+Lung cancer is a complex disease composed of diverse histological and molecular 
+types with clinical relevance. The advent of large-scale molecular profiling has 
+been helpful to identify novel molecular targets that can be applied to the 
+treatment of particular lung cancer patients and has helped to reshape the 
+pathological classification of lung cancer. Novel directions include the 
+immunotherapy revolution, which has opened the door for new opportunities for 
+cancer therapy and is also redefining the classification of multiple tumors, 
+including lung cancer. In the present chapter, we will review the main current 
+basis of the pathological diagnosis and classification of lung cancer 
+incorporating the histopathological and molecular dimensions of the disease.
+
+DOI: 10.1007/978-3-319-40389-2_2
+PMID: 27535388 [Indexed for MEDLINE]
+
+
+2. Curr Opin Oncol. 2021 Jan;33(1):40-46. doi: 10.1097/CCO.0000000000000703.
+
+Lung cancer in China: current and prospect.
+
+Wu F(1), Wang L, Zhou C.
+
+Author information:
+(1)Department of Medical Oncology, Shanghai Pulmonary Hospital, Tongji 
+University School of Medicine, Shanghai, China.
+
+PURPOSE OF REVIEW: To describe the current status of lung cancer in China, 
+including incidence, prevention, molecular testing and treatment.
+RECENT FINDINGS: Lung cancer presents a major public health issue and an 
+enormous burden on society in China, because of its increasing incidence and 
+high mortality. Several distinct gene profiles were associated with lung cancer 
+in China: high EGFR mutation rate, low KRAS mutation rate and more comorbidity 
+of HBV infection. Thus, local Chinese Society of Clinical Oncology Guidelines 
+with more consideration of drug accessibility, regional development differences 
+were highly recommended for clinical practice. For treatment, targeted therapy 
+has achieved fruitful progress. Immunotherapy in China was a little bit lag 
+behind previously and now there is a surge of immunotherapeutic drugs under 
+investigation. For future, more preventive strategies and more trials 
+considering chrematistics of Chinese lung cancer are needed.
+SUMMARY: There are achievements and shortcomings for lung cancer prevention and 
+treatment in China. More work considering distinct characteristic of lung caner 
+in China are needed.
+
+DOI: 10.1097/CCO.0000000000000703
+PMID: 33165004 [Indexed for MEDLINE]
+
+
+3. Crit Care Nurs Clin North Am. 2019 Sep;31(3):303-313. doi: 
+10.1016/j.cnc.2019.05.002. Epub 2019 Jul 5.
+
+Surgical Treatment of Lung Cancer.
+
+Hoy H(1), Lynch T(2), Beck M(2).
+
+Author information:
+(1)University of Alabama in Huntsville, Acute Care Nurse Practitioner, 
+Vanderbilt Medical Center. Electronic address: haley.hoy@uah.edu.
+(2)University of Alabama in Huntsville, 301 Sparkman Drive, Huntsville, Al 
+35899, USA.
+
+Lung cancer is the leading cause of cancer-related death and the second most 
+diagnosed cancer in the United States. Surgical intervention is most applicable 
+to early-stage lung cancer diagnoses and considered the best curative option. 
+Multiple surgical techniques are now available, including wedge resection, 
+segmentectomy, lobectomy, and pneumonectomy. Robotics and video-assistance are 
+commonly used in wedge resection and sometimes used for segmentectomy. 
+Regardless of the technique, focused clinical management of the patient 
+following lung cancer surgery by nurses and nurse practitioners remains a 
+priority. Future innovations affecting the surgical treatment of lung cancer 
+include immunotherapy and oncogenomics.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnc.2019.05.002
+PMID: 31351552 [Indexed for MEDLINE]
+
+
+4. Curr Opin HIV AIDS. 2017 Jan;12(1):31-38. doi: 10.1097/COH.0000000000000326.
+
+Lung cancer in persons with HIV.
+
+Sigel K(1), Makinson A, Thaler J.
+
+Author information:
+(1)aDivision of General Internal Medicine, Icahn School of Medicine at Mount 
+Sinai, New York, New York, USA bDepartment of Infectious and Tropical Diseases, 
+U1175-INSERM/UMI 233, IRD, University Montpellier, Montpellier, France.
+
+PURPOSE OF REVIEW: Lung cancer is emerging as a leading cause of death in 
+HIV-infected persons. This review will discuss the latest scientific evidence 
+regarding the mechanisms driving lung cancer risk in HIV infection, the clinical 
+presentation of lung cancer in HIV-infected persons and recent data regarding 
+the outcomes, treatment and prevention of lung cancer in this group.
+RECENT FINDINGS: Increased risk of lung cancer in HIV-infected persons is 
+primarily due to higher smoking rates, but emerging evidence also implicates 
+immunosuppression and inflammatory processes. Lung cancer outcomes may be worse 
+in HIV-infected persons in the antiretroviral era, but this may stem, in part, 
+from treatment disparities. Early detection of lung cancer using chest computed 
+tomography (CT) is being increasingly adopted for smokers in the general 
+population, and recent studies suggest that it may be safe and efficacious in 
+HIV-infected smokers.
+SUMMARY: Lung cancer is an important complication associated with chronic HIV 
+infection. It is associated with unique HIV-related causal mechanisms, and may 
+be associated with worse outcomes in some HIV-infected persons. Smoking 
+cessation and early cancer detection with chest CT are likely to benefit 
+HIV-infected smokers.
+
+DOI: 10.1097/COH.0000000000000326
+PMCID: PMC5241551
+PMID: 27607596 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no potential conflicts of 
+interest related to this work.
+
+
+5. Discov Med. 2019 Mar;27(148):167-170.
+
+Molecular diagnostics and targeted therapies in non-small cell lung cancer 
+(NSCLC): an update.
+
+Jonna S(1), Subramaniam DS(1).
+
+Author information:
+(1)Lombardi Comprehensive Cancer Center, Georgetown University, Washington, DC 
+20007, USA.
+
+The understanding of genetic alterations that drive non-small cell lung cancer 
+(NSCLC) is evolving. As many of these molecularly-defined subtypes are 
+potentially actionable, new strategies in molecular diagnostics and targeted 
+therapies in NSCLC to detect and treat them are being explored. At the 
+International Association for Study of Lung Cancer 19th World Conference, 
+several abstracts and oral presentations related to this topic. In this report, 
+we discuss some of these updates.
+
+PMID: 31095926 [Indexed for MEDLINE]
+
+
+6. Nature. 2020 Nov;587(7834):S7. doi: 10.1038/d41586-020-03152-0.
+
+Lung cancer.
+
+Brody H.
+
+DOI: 10.1038/d41586-020-03152-0
+PMID: 33208969 [Indexed for MEDLINE]
+
+
+7. Ann Saudi Med. 2005 Jan-Feb;25(1):1-12. doi: 10.5144/0256-4947.2005.1.
+
+Lung cancer.
+
+Maghfoor I(1), Perry MC.
+
+Author information:
+(1)Department of Oncology, King Faisal Specialist Hospital & Research Centre, 
+PO. Box 3354 (MBC 64) Riyadh 11211, Saudi Arabia.
+
+Lung cancer is the leading cause of cancer-related mortality. Since tobacco 
+smoking is the cause in vast majority of cases, the incidence of lung cancer is 
+expected to rise in those countries with high or rising incidence of tobacco 
+smoking. Even though populations at risk of developing lung cancer are easily 
+identified, mass screening for lung cancer is not supported by currently 
+available evidence. In the case of non-small cell lung cancer, a cure may be 
+possible with surgical resection followed by post-operative chemotherapy in 
+those diagnosed at an early stage. A small minority of patients who present with 
+locally advanced disease may also benefit from pre-operative chemotherapy and/or 
+radiation therapy to down stage the tumor to render it potentially operable. In 
+a vast majority of patients, however, lung cancer presents at an advanced stage 
+and a cure is not possible with currently available therapeutic strategies. 
+Similarly, small cell lung cancer confined to one hemi-thorax may be curable 
+with a combination of chemotherapy and thoracic irradiation followed by 
+prophylactic cranial irradiation, if complete remission is achieved at the 
+primary site. Small cell lung cancer that is spread beyond the confines of one 
+hemi-thorax is, however, considered incurable. In this era of molecular targeted 
+therapies, new agents are constantly undergoing pre-clinical and clinical 
+testing with the aim of targeting the molecular pathways thought be involved in 
+etiology and pathogenesis of lung cancer.
+
+DOI: 10.5144/0256-4947.2005.1
+PMCID: PMC6150570
+PMID: 15822487 [Indexed for MEDLINE]
+
+
+8. J Biomed Sci. 2017 Jun 14;24(1):37. doi: 10.1186/s12929-017-0343-y.
+
+Quantitative proteomics in lung cancer.
+
+Cheung CHY(1), Juan HF(2)(3)(4).
+
+Author information:
+(1)Institute of Molecular and Cellular Biology, National Taiwan University, 
+Taipei, Taiwan.
+(2)Institute of Molecular and Cellular Biology, National Taiwan University, 
+Taipei, Taiwan. yukijuan@ntu.edu.tw.
+(3)Department of Life Science, National Taiwan University, Taipei, Taiwan. 
+yukijuan@ntu.edu.tw.
+(4)Graduate Institute of Biomedical Electronics and Bioinformatics, National 
+Taiwan University, No. 1, Sec. 4, Roosevelt Road, Taipei, 10617, Taiwan. 
+yukijuan@ntu.edu.tw.
+
+Lung cancer is the most common cause of cancer-related death worldwide, less 
+than 7% of patients survive 10 years following diagnosis across all stages of 
+lung cancer. Late stage of diagnosis and lack of effective and personalized 
+medicine reflect the need for a better understanding of the mechanisms that 
+underlie lung cancer progression. Quantitative proteomics provides the relative 
+different protein abundance in normal and cancer patients which offers the 
+information for molecular interactions, signaling pathways, and biomarker 
+identification. Here we introduce both theoretical and practical applications in 
+the use of quantitative proteomics approaches, with principles of current 
+technologies and methodologies including gel-based, label free, stable isotope 
+labeling as well as targeted proteomics. Predictive markers of drug resistance, 
+candidate biomarkers for diagnosis, and prognostic markers in lung cancer have 
+also been discovered and analyzed by quantitative proteomic analysis. Moreover, 
+construction of protein networks enables to provide an opportunity to interpret 
+disease pathway and improve our understanding in cancer therapeutic strategies, 
+allowing the discovery of molecular markers and new therapeutic targets for lung 
+cancer.
+
+DOI: 10.1186/s12929-017-0343-y
+PMCID: PMC5470322
+PMID: 28615068 [Indexed for MEDLINE]
+
+
+9. Crit Rev Oncol Hematol. 2013 Dec;88(3):494-503. doi: 
+10.1016/j.critrevonc.2013.06.011. Epub 2013 Aug 4.
+
+Lung cancer in never smokers: disease characteristics and risk factors.
+
+Pallis AG(1), Syrigos KN.
+
+Author information:
+(1)Oncology Unit GPP, Athens School of Medicine, Athens, Greece. Electronic 
+address: agpallis@gmail.com.
+
+It is estimated that approximately 25% of all lung cancer cases are observed in 
+never-smokers and its incidence is expected to increase due to smoking 
+prevention programs. Risk factors for the development of lung cancer described 
+include second-hand smoking, radon exposure, occupational exposure to 
+carcinogens and to cooking oil fumes and indoor coal burning. Other factors 
+reported are infections (HPV and Mycobacterium tuberculosis), hormonal and 
+diatery factors and diabetes mellitus. Having an affected relative also 
+increases the risk for lung cancer while recent studies have identified several 
+single nucleotide polymorphisms associated with increased risk for lung cancer 
+development in never smokers. Distinct clinical, pathology and molecular 
+characteristics are observed in lung cancer in never smokers; more frequently is 
+observed in females and adenocarcinoma is the predominant histology while it has 
+a different pattern of molecular alterations. The purpose of this review is to 
+summarize our current knowledge of this disease.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.critrevonc.2013.06.011
+PMID: 23921082 [Indexed for MEDLINE]
+
+
+10. Am Fam Physician. 2022 May 1;105(5):Online.
+
+Lung Cancer.
+
+[No authors listed]
+
+PMID: 35559646 [Indexed for MEDLINE]

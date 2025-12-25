@@ -1,0 +1,699 @@
+1. NPJ Digit Med. 2024 Nov 23;7(1):335. doi: 10.1038/s41746-024-01338-8.
+
+Spatial resolution enhancement using deep learning improves chest disease 
+diagnosis based on thick slice CT.
+
+Yu P(#)(1)(2)(3), Zhang H(#)(4)(5), Wang D(3), Zhang R(6), Deng M(7), Yang H(8), 
+Wu L(9), Liu X(10), Oh AS(5), Abtin FG(5), Prosper AE(5), Ruchalski K(5), Wang 
+N(10), Zhang H(11), Li Y(12), Lv X(12), Liu M(13), Zhao S(9), Li D(10), Hoffman 
+JM(5), Aberle DR(5), Liang C(14), Qi S(15)(16), Arnold C(17).
+
+Author information:
+(1)College of Medicine and Biological Information Engineering, Northeastern 
+University, Shenyang, Liaoning, China.
+(2)Key Laboratory of Intelligent Computing in Medical Image, Ministry of 
+Education, Northeastern University, Shenyang, Liaoning, China.
+(3)Infervision Medical Technology Co., Ltd, Beijing, China.
+(4)National cancer institute, National Institutes of Health, Bethesda, MD, USA.
+(5)Department of Radiological Sciences, University of California Los Angeles 
+David Geffen School of Medicine, Los Angeles, CA, USA.
+(6)Academy for Multidisciplinary Studies, Beijing National Center for Applied 
+Mathematics, Capital Normal University, Beijing, China.
+(7)Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, 
+China.
+(8)Peking University China-Japan Friendship School of Clinical Medicine, 
+Beijing, China.
+(9)Department of Radiology, Chinese PLA General Hospital First Medical Center, 
+Beijing, China.
+(10)Department of Radiology, Beijing Haidian Section of Peking University Third 
+Hospital, Beijing, China.
+(11)Department of Radiology, General Hospital of Ningxia Medical University, 
+Yinchuan, Ningxia, China.
+(12)Department of Radiology, Beijing Chest Hospital, Capital Medical University, 
+Beijing, China.
+(13)Department of Radiology, China-Japan Friendship Hospital, Beijing, China.
+(14)Department of Thoracic Surgery, China-Japan Friendship Hospital, Beijing, 
+China.
+(15)College of Medicine and Biological Information Engineering, Northeastern 
+University, Shenyang, Liaoning, China. qisl@bmie.neu.edu.cn.
+(16)Key Laboratory of Intelligent Computing in Medical Image, Ministry of 
+Education, Northeastern University, Shenyang, Liaoning, China. 
+qisl@bmie.neu.edu.cn.
+(17)Department of Radiological Sciences, Pathology & Laboratory Medicine, 
+Electrical & Computer Engineering, and Bioengineering, University of California 
+Los Angeles, Los Angeles, CA, USA. cwarnold@mednet.ucla.edu.
+(#)Contributed equally
+
+CT is crucial for diagnosing chest diseases, with image quality affected by 
+spatial resolution. Thick-slice CT remains prevalent in practice due to cost 
+considerations, yet its coarse spatial resolution may hinder accurate diagnoses. 
+Our multicenter study develops a deep learning synthetic model with 
+Convolutional-Transformer hybrid encoder-decoder architecture for generating 
+thin-slice CT from thick-slice CT on a single center (1576 participants) and 
+access the synthetic CT on three cross-regional centers (1228 participants). The 
+qualitative image quality of synthetic and real thin-slice CT is comparable 
+(p = 0.16). Four radiologists' accuracy in diagnosing community-acquired 
+pneumonia using synthetic thin-slice CT surpasses thick-slice CT (p < 0.05), and 
+matches real thin-slice CT (p > 0.99). For lung nodule detection, sensitivity 
+with thin-slice CT outperforms thick-slice CT (p < 0.001) and comparable to real 
+thin-slice CT (p > 0.05). These findings indicate the potential of our model to 
+generate high-quality synthetic thin-slice CT as a practical alternative when 
+real thin-slice CT is preferred but unavailable.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41746-024-01338-8
+PMID: 39580609
+
+Conflict of interest statement: Competing interests: P.Y. and D.W. are employed 
+by Infervision Medical Technology Co. Ltd. All other authors declare no 
+competing interests.
+
+
+2. Nat Commun. 2024 Nov 23;15(1):10164. doi: 10.1038/s41467-024-54434-4.
+
+Proteogenomic analysis reveals non-small cell lung cancer subtypes predicting 
+chromosome instability, and tumor microenvironment.
+
+Song KJ(#)(1)(2), Choi S(#)(3), Kim K(#)(4)(5), Hwang HS(#)(6), Chang E(7)(8), 
+Park JS(4), Shim SB(4), Choi S(9), Heo YJ(7), An WJ(1)(2), Yang DY(5), Cho 
+KC(1)(2), Ji W(10), Choi CM(10)(11), Lee JC(11), Kim HR(12), Yoo J(13), Ahn 
+HS(13), Lee GH(7)(8), Hwa C(7)(8), Kim S(7)(8), Kim K(13)(14)(15), Kim 
+MS(16)(17)(18), Paek E(3)(19)(20), Na S(3)(21), Jang SJ(6)(22), An JY(7)(8)(9), 
+Kim KP(23)(24).
+
+Author information:
+(1)Department of Applied Chemistry, Institute of Natural Science, Kyung Hee 
+University, Yongin, 17104, Republic of Korea.
+(2)Department of Biomedical Science and Technology, Kyung Hee Medical Science 
+Research Institute, Kyung Hee University, Seoul, 02454, Republic of Korea.
+(3)Department of Computer Science, Hanyang University, Seoul, 04763, Republic of 
+Korea.
+(4)Department of Biology, Kyung Hee University, Seoul, 02447, Republic of Korea.
+(5)Department of Biomedical and Pharmaceutical Sciences, Kyung Hee University, 
+Seoul, 02447, Republic of Korea.
+(6)Department of Pathology, University of Ulsan College of Medicine, Asan 
+Medical Center, Seoul, 05505, Republic of Korea.
+(7)Department of Integrated Biomedical and Life Science, Korea University, 
+Seoul, 02841, Republic of Korea.
+(8)BK21FOUR R&E Center for Learning Health Systems, Korea University, Seoul, 
+02841, Republic of Korea.
+(9)School of Biosystems and Biomedical Sciences, College of Health Sciences, 
+Korea University, Seoul, 02841, Republic of Korea.
+(10)Department of Pulmonology and Critical Care Medicine, Asan Medical Center, 
+University of Ulsan College of Medicine, Seoul, 05505, Republic of Korea.
+(11)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, South Korea.
+(12)Department of Thoracic and Cardiovascular Surgery, University of Ulsan 
+College of Medicine, Seoul, Korea.
+(13)Department of Digital Medicine, BK21 Project, University of Ulsan Asan 
+Medical Center, Seoul, 05505, Republic of Korea.
+(14)Convergence Medicine Research Center, Asan Institute for Life Sciences, 
+Seoul, 05505, Republic of Korea.
+(15)Asan Institute for Life Sciences, Asan Medical Center, Seoul, 05505, 
+Republic of Korea.
+(16)Department of New Biology, DGIST, Daegu, 42988, Republic of Korea.
+(17)New Biology Research Center, DGIST, Daegu, 42988, Republic of Korea.
+(18)Center for Cell Fate Reprogramming and Control, DGIST, Daegu, 42988, 
+Republic of Korea.
+(19)Department of Artificial Intelligence, Hanyang University, Seoul, 04763, 
+Republic of Korea.
+(20)Institute for Artificial Intelligence Research, Hanyang University, Seoul, 
+04763, Republic of Korea.
+(21)Digital Omics Research Center, Korea Basic Science Institute, Cheongju, 
+28119, Republic of Korea.
+(22)SG Medical, Inc., 3-11, Ogeum-ro 13-gil, Songpa-gu, Seoul, Republic of 
+Korea.
+(23)Department of Applied Chemistry, Institute of Natural Science, Kyung Hee 
+University, Yongin, 17104, Republic of Korea. kimkp@khu.ac.kr.
+(24)Department of Biomedical Science and Technology, Kyung Hee Medical Science 
+Research Institute, Kyung Hee University, Seoul, 02454, Republic of Korea. 
+kimkp@khu.ac.kr.
+(#)Contributed equally
+
+Non-small cell lung cancer (NSCLC) is histologically classified into lung 
+adenocarcinoma (LUAD) and lung squamous cell carcinoma (LSCC). However, some 
+tumors are histologically ambiguous and other pathophysiological features or 
+microenvironmental factors may be more prominent. Here we report integrative 
+multiomics analyses using data for 229 patients from a Korean NSCLC cohort and 
+462 patients from previous multiomics studies. Histological examination reveals 
+five molecular subtypes, one of which is a NSCLC subtype with PI3K-Akt pathway 
+upregulation, showing a high proportion of metastasis and poor survival outcomes 
+regardless of any specific NSCLC histology. Proliferative subtypes are present 
+in LUAD and LSCC, which show strong associations with whole genome doubling 
+(WGD) events. Comprehensive characterization of the immune microenvironment 
+reveals various immune cell compositions and neoantigen loads across molecular 
+subtypes, which predicting different prognoses. Immunological subtypes exhibit a 
+hot tumor-enriched state and a higher efficacy of adjuvant therapy.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-024-54434-4
+PMID: 39580524 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Kwang Pyo Kim is the CEO of 
+NioBiopharmaceuticals, Inc. Se Jin Jang is the chief technology officer of SG 
+Medical, Inc. All other authors declare no competing interests.
+
+
+3. Nat Commun. 2024 Nov 23;15(1):10178. doi: 10.1038/s41467-024-54334-7.
+
+Outcome of SARS-CoV-2 reinfection depends on genetic background in female mice.
+
+Singh G(#)(1)(2), García-Bernalt Diego J(#)(1)(2), Warang P(1)(2), Park 
+SC(1)(2), Chang LA(1)(2)(3), Noureddine M(1)(2)(3), Laghlali G(1)(2)(4), Bykov 
+Y(1)(2)(3), Prellberg M(1)(2)(3), Yan V(1)(2)(3), Singh S(5), Pache L(6), 
+Cuadrado-Castano S(1)(2)(7)(8), Webb B(9), García-Sastre A(1)(2)(10)(11), 
+Schotsaert M(12)(13)(14)(15).
+
+Author information:
+(1)Department of Microbiology, Icahn School of Medicine at Mount Sinai New York, 
+New York, NY, USA.
+(2)Global Health and Emerging Pathogens Institute, Icahn School of Medicine at 
+Mount Sinai New York, New York, NY, USA.
+(3)Graduate School of Biomedical Sciences, Icahn School of Medicine at Mount 
+Sinai, New York, NY, USA.
+(4)Department of Pharmaceutics, Ghent University, Ghent, Belgium.
+(5)RT-PCR COVID-19 Laboratory, Civil Hospital, Moga, Punjab, India.
+(6)NCI Designated Cancer Center, Sanford-Burnham Prebys Medical Discovery 
+Institute, 10901 N Torrey Pines Rd, La Jolla, CA, 92037, USA.
+(7)Lipschultz Precision Immunology Institute (PrIISM), Icahn School of Medicine 
+at Mount Sinai, New York, NY, USA.
+(8)Icahn Genomics Institute, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA.
+(9)Department of Veterinary Sciences, University of Wyoming, Laramie, WY, USA.
+(10)Department of Medicine, Division of Infectious Diseases, Icahn School of 
+Medicine at Mount Sinai New York, New York, NY, USA.
+(11)The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai New 
+York, New York, NY, USA.
+(12)Department of Microbiology, Icahn School of Medicine at Mount Sinai New 
+York, New York, NY, USA. michael.schotsaert@mssm.edu.
+(13)Global Health and Emerging Pathogens Institute, Icahn School of Medicine at 
+Mount Sinai New York, New York, NY, USA. michael.schotsaert@mssm.edu.
+(14)Lipschultz Precision Immunology Institute (PrIISM), Icahn School of Medicine 
+at Mount Sinai, New York, NY, USA. michael.schotsaert@mssm.edu.
+(15)Icahn Genomics Institute, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA. michael.schotsaert@mssm.edu.
+(#)Contributed equally
+
+Antigenically distinct SARS-CoV-2 variants increase the reinfection risk for 
+vaccinated and previously exposed population due to antibody neutralization 
+escape. COVID-19 severity depends on many variables, including host immune 
+responses, which differ depending on genetic predisposition. To address this, we 
+perform immune profiling of female mice with different genetic backgrounds 
+-transgenic K18-hACE2 and wild-type 129S1- infected with the severe B.1.351, 30 
+days after exposure to the milder BA.1 or severe H1N1. Prior BA.1 infection 
+protects against B.1.351-induced morbidity in K18-hACE2 but aggravates disease 
+in 129S1. H1N1 protects against B.1.351-induced morbidity only in 129S1. 
+Enhanced severity in B.1.351 re-infected 129S1 is characterized by an increase 
+of IL-10, IL-1β, IL-18 and IFN-γ, while in K18-hACE2 the cytokine profile 
+resembles naïve mice undergoing their first viral infection. Enhanced pathology 
+during 129S1 reinfection cannot be attributed to weaker adaptive immune 
+responses to BA.1. Infection with BA.1 causes long-term differential remodeling 
+and transcriptional changes in the bronchioalveolar CD11c+ compartment. 
+K18-hACE2 CD11c+ cells show a strong antiviral defense expression profile 
+whereas 129S1 CD11c+ cells present a more pro-inflammatory response upon 
+restimulation. In conclusion, BA.1 induces cross-reactive adaptive immune 
+responses in K18-hACE2 and 129S1, but reinfection outcome correlates with 
+differential CD11c+ cells responses in the alveolar space.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-024-54334-7
+PMID: 39580470 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The M.S. laboratory has 
+received unrelated funding support in sponsored research agreements from Phio 
+Pharmaceuticals, 7Hills Pharma, ArgenX BV and Moderna. The A.G.-S. laboratory 
+has received research support from GSK, Pfizer, Senhwa Biosciences, Kenall 
+Manufacturing, Blade Therapeutics, Avimex, Johnson & Johnson, Dynavax, 7Hills 
+Pharma, Pharmamar, ImmunityBio, Accurius, Nanocomposix, Hexamer, N-fold LLC, 
+Model Medicines, Atea Pharma, Applied Biological Laboratories and Merck, outside 
+of the reported work. A.G.-S. has consulting agreements for the following 
+companies involving cash and/or stock: Castlevax, Amovir, Vivaldi Biosciences, 
+Contrafect, 7Hills Pharma, Avimex, Pagoda, Accurius, Esperovax, Farmak, Applied 
+Biological Laboratories, Pharmamar, CureLab Oncology, CureLab Veterinary, 
+Synairgen, Paratus and Pfizer, outside of the reported work. A.G.-S. has been an 
+invited speaker in meeting events organized by Seqirus, Janssen, Abbott and 
+Astrazeneca. A.G.-S. is inventor on patents and patent applications on the use 
+of antivirals and vaccines for the treatment and prevention of virus infections 
+and cancer, owned by the Icahn School of Medicine at Mount Sinai, New York. The 
+remaining authors declare no competing interests.
+
+
+4. Mol Cancer. 2024 Nov 23;23(1):263. doi: 10.1186/s12943-024-02177-7.
+
+Single-cell RNA sequencing reveals immune microenvironment niche transitions 
+during the invasive and metastatic processes of ground-glass nodules and 
+part-solid nodules in lung adenocarcinoma.
+
+Ren YF(#)(1)(2), Ma Q(#)(1), Zeng X(#)(1), Huang CX(1), Ren JL(3), Li F(1), Tong 
+JJ(3), He JW(1), Zhong Y(1), Tan SY(1), Jiang H(1), Zhang LF(1), Lai HZ(1), Xiao 
+P(4), Zhuang X(4), Wu P(3), You LT(2)(5), Shi W(6), Fu X(1)(2), Zheng C(7)(8), 
+You FM(9)(10).
+
+Author information:
+(1)Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 
+610072, Sichuan Province, China.
+(2)TCM Regulating Metabolic Diseases Key Laboratory of Sichuan Province, 
+Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 610072, 
+Sichuan Province, China.
+(3)LC-Bio Technologies (Hangzhou) CO., LTD, Hangzhou, 310018, Zhejiang Province, 
+China.
+(4)Department of Thoracic Surgery, School of Medicine, Sichuan Cancer Hospital & 
+Institute, Sichuan Cancer Center, University of Electronic Science and 
+Technology of China, Chengdu, 610042, Sichuan Province, China.
+(5)Department of Laboratory Medicine, West China Hospital, Sichuan University, 
+Chengdu, 610041, Sichuan Province, China.
+(6)Department of Anesthesiology, National Clinical Research Center for 
+Geriatrics, West China Hospital, Sichuan University, Chengdu, 610041, Sichuan 
+Province, China.
+(7)Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 
+610072, Sichuan Province, China. zhengchuan@cdutcm.edu.cn.
+(8)TCM Regulating Metabolic Diseases Key Laboratory of Sichuan Province, 
+Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 610072, 
+Sichuan Province, China. zhengchuan@cdutcm.edu.cn.
+(9)Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 
+610072, Sichuan Province, China. yfmdoc@163.com.
+(10)TCM Regulating Metabolic Diseases Key Laboratory of Sichuan Province, 
+Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu, 610072, 
+Sichuan Province, China. yfmdoc@163.com.
+(#)Contributed equally
+
+BACKGROUND: Radiographically, ground-glass nodules (GGN) and part-solid nodules 
+(PSN) in lung adenocarcinoma (LUAD) have significant heterogeneity in their 
+clinical manifestations, biological characteristics, and prognosis. This study 
+aimed to explore the heterogeneity of LUAD in different radiological phenotypes 
+and associated factors influencing tumor evolution.
+METHODS: We performed single-cell RNA sequencing (scRNA-seq) on tumor tissues 
+from eight and seven cases of GGN- and PSN-LUAD, respectively, at different 
+disease stages, including minimally invasive adenocarcinoma (MIA), invasive 
+adenocarcinoma (IAC), and metastatic lung cancer (MLC). Additionally, we 
+analyzed adjacent normal tissues from four cases. Immunohistochemistry, 
+multiplex immunofluorescence, and external scRNA-seq data were employed to 
+confirm the expression of signature genes as well as the distribution patterns 
+of CXCL9 + TAMs and TREM2 + TAMs. A LUAD mouse model was generated using gene 
+editing, organoid culture, and orthotopic transplantation techniques, and 
+comprehensive analyses such as histopathology, RNA sequencing, and Western 
+blotting were performed to validate key pathways.
+RESULTS: Diverse cellular compositions were observed in the tumor 
+microenvironment (TME) during GGN- and PSN-LUAD invasion and metastasis. 
+Notably, CXCL9 + and TREM2 + tumor-associated macrophages (TAMs) exhibited the 
+most significant enrichment changes. It was found that GGN-LUAD exhibited a 
+stronger immune response than PSN-LUAD, with increased interaction between 
+CXCL9 + TAMs and CD8 + tissue-resident memory T cells during invasion stage 
+(MIA-IAC). Conversely, greater interactions between TREM2 + TAMs and tumor cells 
+were observed in PSN-LUAD during the MLC stage. Additionally, TREM2 + TAMs were 
+found to differentiate into TREM2 + /SPP1 + and TREM2 + /SPP1- TAMs at different 
+stages, which promotes tumor progression. This study also emphasizes that during 
+the transdifferentiation process of GGN- and PSN-LUAD, IFN-γ activates the STAT1 
+signaling pathway to regulate the activation of CXCL9 + TAMs, and further 
+recruiting CD8 + Trm cells and activating T cells through MHC class I antigen 
+presentation. The role of the IFN-γ/STAT1 pathway in the occurrence and 
+development of LUAD was further validated by animal experiments.
+CONCLUSIONS: Our findings offer a potential therapeutic strategy to maintain a 
+dynamic balance within the TME and improve the immunotherapy efficacy by 
+modulating the relative proportions and functional states of CXCL9 + TAMs and 
+TREM2 + TAMs.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12943-024-02177-7
+PMID: 39580469 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study adhered to the principles of the Declaration of Helsinki 
+and was approved by the Institutional Review Boards of the Chengdu University of 
+Traditional Chinese Medicine Affiliated Hospital (Institutional Review Board No. 
+2022KL-051) and Sichuan Cancer Hospital (Institutional Review Board No. 
+SCCHEC-02–2022-109). Written informed consent was obtained from all patients 
+prior to the surgery. Animal experiments were approved by the Institutional 
+Animal Care and Use Committees of Hospital of Chengdu University of Traditional 
+Chinese Medicine. Consent for publication: We have obtained consents to publish 
+this paper from all the participants of this study. Competing interests: The 
+authors declare no competing interests.
+
+
+5. Cancer Cell Int. 2024 Nov 23;24(1):388. doi: 10.1186/s12935-024-03571-3.
+
+Integration of the bulk transcriptome and single-cell transcriptome reveals 
+efferocytosis features in lung adenocarcinoma prognosis and immunotherapy by 
+combining deep learning.
+
+Xie Y(#)(1)(2), Chen H(#)(3), Zhang X(1), Zhang J(4), Zhang K(2), Wang X(2), Min 
+S(1), Wang X(#)(5), Lian C(#)(6).
+
+Author information:
+(1)Anhui Province Key Laboratory of Respiratory Tumor and Infectious Disease, 
+First Affiliated Hospital of Bengbu Medical University, Bengbu, 233030, China.
+(2)Department of Clinical Medicine, Bengbu Medical University, Bengbu, 233030, 
+China.
+(3)Research Center of Clinical Laboratory Science, Bengbu Medical University, 
+Bengbu, 233030, China.
+(4)Department of Genetics, School of Life Sciences, Bengbu Medical University, 
+Bengbu, 233030, China.
+(5)Anhui Province Key Laboratory of Respiratory Tumor and Infectious Disease, 
+First Affiliated Hospital of Bengbu Medical University, Bengbu, 233030, China. 
+wangxiaojing8888@163.com.
+(6)Research Center of Clinical Laboratory Science, Bengbu Medical University, 
+Bengbu, 233030, China. lianchaoqun@bbmc.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Efferocytosis (ER) refers to the process of phagocytic clearance of 
+programmed dead cells, and studies have shown that it is closely related to 
+tumor immune escape.
+METHODS: This study was based on a comprehensive analysis of TCGA, GEO and CTRP 
+databases. ER-related genes were collected from previous literature, univariate 
+Cox regression was performed and consistent clustering was performed to 
+categorize lung adenocarcinoma (LUAD) patients into two subgroups. Lasso 
+regression and multivariate Cox regression analyses were used to construct 
+ER-related prognostic features, and multiple immune infiltration algorithms were 
+used to assess the correlation between the extracellular burial-related risk 
+score (ERGRS) and tumor microenvironment (TME). And the key gene HAVCR1 was 
+identified by deep learning, etc. Finally, pan-cancer analysis of the key genes 
+was performed and in vitro experiments were conducted to verify the promotional 
+effect of HAVCR1 on LUAD progression.
+RESULTS: A total of 33 ER-related genes associated with the prognosis of LUAD 
+were identified, and the prognostic signature of ERGRS was successfully 
+constructed to predict the overall survival (OS) and treatment response of LUAD 
+patients. The high-risk group was highly enriched in some oncogenic pathways, 
+while the low-ERGRS group was highly enriched in some immune-related pathways. 
+In addition, the high ERGRS group had higher TMB, TNB and TIDE scores and lower 
+immune scores. The low-risk group had better immunotherapeutic response and less 
+likelihood of immune escape. Drug sensitivity analysis revealed that 
+BRD-K92856060, monensin and hexaminolevulinate may be potential therapeutic 
+agents for the high-risk group. And ERGRS was validated in several cohorts. In 
+addition, HAVCR1 is one of the key genes, and knockdown of HAVCR1 in vitro 
+significantly reduced the proliferation, migration and invasion ability of lung 
+adenocarcinoma cells.
+CONCLUSION: Our study developed a novel prognostic signature of 
+efferocytosis-related genes. This prognostic signature accurately predicted 
+survival prognosis as well as treatment outcome in LUAD patients and explored 
+the role of HAVCR1 in lung adenocarcinoma progression.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12935-024-03571-3
+PMID: 39580462
+
+Conflict of interest statement: Declarations. Consent for publication: All 
+relevant authors agree to publish. Competing interests: The authors declare no 
+competing interests.
+
+
+6. BMC Med Res Methodol. 2024 Nov 23;24(1):290. doi: 10.1186/s12874-024-02408-x.
+
+The role of the estimand framework in the analysis of patient-reported outcomes 
+in single-arm trials: a case study in oncology.
+
+Thomassen D(1), Roychoudhury S(2), Amdal CD(3)(4), Reynders D(5), Musoro JZ(6), 
+Sauerbrei W(7), Goetghebeur E(5), le Cessie S(8)(5)(9); SISAQOL-IMI Work Package 
+3.
+
+Collaborators: Kamalakar R, Sail K, Basch E, Reijneveld J, Keating K, Su Y, 
+Alanya A, Rumpold G, Sasseville M, Black J, Molenberghs G, Rantell K, 
+Schlichting M, Regnault A, Ness D, Ten Seldam S, Reksten TR, Schiel A, Falk RS, 
+Campbell A, Cappelleri JC, Russell-Smith A, Calvert M, Cruz Rivera S, Aiyegbusi 
+OL, Liu L, Van Lancker K, Rutherford C, Bhatnagar V, Chen TY, Fiero M, Kluetz P.
+
+Author information:
+(1)Department of Biomedical Data Sciences, Leiden University Medical Center, 
+P.O. box 9600, Postzone S-05-S, Leiden, 2300 RC, The Netherlands. 
+d.thomassen@lumc.nl.
+(2)Pfizer Inc, New York, NY, USA.
+(3)Research Support Services, Oslo University Hospital, Oslo, Norway.
+(4)Department of Oncology, Oslo University Hospital, Oslo, Norway.
+(5)Department of Applied Mathematics, Computer Science and Statistics, Ghent 
+University, Ghent, Belgium.
+(6)European Organisation for Research and Treatment of Cancer (EORTC) 
+Headquarters, Brussels, Belgium.
+(7)Institute of Medical Biometry and Statistics, Faculty of Medicine and Medical 
+Center, University of Freiburg, Freiburg, Germany.
+(8)Department of Biomedical Data Sciences, Leiden University Medical Center, 
+P.O. box 9600, Postzone S-05-S, Leiden, 2300 RC, The Netherlands.
+(9)Department of Clinical Epidemiology, Leiden University Medical Center, 
+Leiden, The Netherlands.
+
+BACKGROUND: Patient-reported outcomes (PROs) play an increasing role in the 
+evaluation of oncology treatments. At the same time, single-arm trials are 
+commonly included in regulatory approval submissions. Because of the high risk 
+of biases, results from single-arm trials require careful interpretation. This 
+benefits from a clearly defined estimand, or target of estimation. In this case 
+study, we demonstrated how the ICH E9 (R1) estimand framework can be implemented 
+in SATs with PRO endpoints.
+METHODS: For the global quality of life outcome in a real single-arm lung cancer 
+trial, a range of possible estimands was defined. We focused on the choice of 
+the variable of interest and strategies to deal with intercurrent events (death, 
+treatment discontinuation and disease progression). Statistical methods were 
+described for each estimand and the corresponding results on the trial data were 
+shown.
+RESULTS: Each intercurrent event handling strategy resulted in its own estimated 
+mean global quality of life over time, with a specific interpretation, suitable 
+for a corresponding clinical research aim. In the setting of this case study, a 
+'while alive' strategy for death and a 'treatment policy' strategy for 
+non-terminal intercurrent events were deemed aligned with a descriptive research 
+aim to inform clinicians and patients about expected quality of life after the 
+start of treatment.
+CONCLUSIONS: The results show that decisions made in the estimand framework are 
+not trivial. Trial results and their interpretation strongly depend on the 
+chosen estimand. The estimand framework provides a structure to match a research 
+question with a clear target of estimation, supporting specific clinical 
+decisions. Adherence to this framework can help improve the quality of data 
+collection, analysis and reporting of PROs in SATs, impacting decision making in 
+clinical practice.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12874-024-02408-x
+PMID: 39580440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: No data were collected for the purpose of this study. Anonymized 
+data from a previously published trial were shared with us for the illustration 
+of analysis methods, respecting the informed consent previously provided by the 
+trial participants. Consent for publication: Not applicable. Competing 
+interests: Satrajit Roychoudhury, is an employee of Pfizer Inc., and a 
+stockholder of Pfizer Inc. and Novartis Pharmaceutical. Els Goetghebeur and 
+Dries Reynders contribute to a university-based statistical consulting service 
+that has received limited consulting fees from Pfizer, no personal fees. There 
+are no other potential conflicts of interests among the authors.
+
+
+7. BMC Pulm Med. 2024 Nov 23;24(1):583. doi: 10.1186/s12890-024-03367-1.
+
+Predictive value of direct bilirubin and total bile acid in lung adenocarcinoma 
+patients treated with EGFR-TKIs.
+
+Li Y(1)(2)(3), Wang B(1)(2)(3), Fei S(4)(5)(6), Qin Y(7)(8)(9).
+
+Author information:
+(1)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, 430022, China.
+(2)Institute of Radiation Oncology, Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, 430022, China.
+(3)Hubei Key Laboratory of Precision Radiation Oncology, Wuhan, China.
+(4)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, 430022, China. 984249454@qq.com.
+(5)Institute of Radiation Oncology, Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, 430022, China. 
+984249454@qq.com.
+(6)Hubei Key Laboratory of Precision Radiation Oncology, Wuhan, China. 
+984249454@qq.com.
+(7)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, 430022, China. qinyou@hust.edu.cn.
+(8)Institute of Radiation Oncology, Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, 430022, China. 
+qinyou@hust.edu.cn.
+(9)Hubei Key Laboratory of Precision Radiation Oncology, Wuhan, China. 
+qinyou@hust.edu.cn.
+
+Epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) have 
+been the standard treatment for patients with sensitizing EGFR mutation. 
+However, almost all patients eventually acquire resistance to EGFR-TKIs. 
+Therefore, easily available parameters to estimate the outcome of lung 
+adenocarcinoma patients treated with EGFR-TKIs are in urgent need. Lung 
+adenocarcinoma patients harbored EGFR sensitive mutant and received EGFR-TKIs as 
+first-line or second-line treatment were recruited in the study. X-tile software 
+were utilized to determine the optimal cut-off value of Alkaline phosphatase 
+(ALP), direct bilirubin (DB), total bile acid (TBA), and high-density 
+lipoprotein-cholesterol (HDL-C). The prognostic value of ALP, DB, TBA, and HDL-C 
+for Progression-free survival (PFS) in patients were evaluated by the 
+Kaplan-Meier curve. We applied univariate and multivariate survival analysis to 
+identify the independent predictor for PFS in patients with EGFR-mutant advanced 
+lung adenocarcinoma and received EGFR-TKIs. A total of 131 lung adenocarcinoma 
+patients with a median age of 58 years old were included in the final analysis. 
+Patients with elevated level of DB and HDL-C showed a longer PFS, while high 
+level of ALP and TBA indicated shorter PFS in response to EGFR-TKI treatment. 
+The multivariate survival analyses revealed a significant association of 
+prolonged PFS with increased DB, and decreased TBA. In conclusion, these 
+findings suggest that DB and TBA were significant independent predictors of PFS 
+in EGFR-TKI-treated patients with advanced lung adenocarcinoma.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12890-024-03367-1
+PMID: 39580432 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Ethics approval was obtained from the Ethics Committee of Wuhan 
+Union Hospital, Tongji Medical College, Huazhong University of Science and 
+Technology, Wuhan, China (Approval Number: UHCT21803). The Ethics Committee of 
+Wuhan Union Hospital, Tongji Medical College, Huazhong University of Science and 
+Technology, Wuhan, China has waived informed consent to our study for minimal 
+ethical implications and issues was involved in this study since this is a 
+retrospective study. Clinical trial number: not applicable for this is an 
+investigator-initiated, retrospective, non-registered clinical study. Consent 
+for publication: Not applicable. Competing interests: The authors declare no 
+competing interests.
+
+
+8. Cancer Cell Int. 2024 Nov 23;24(1):389. doi: 10.1186/s12935-024-03569-x.
+
+Enhancing antitumor immunity in Lewis lung cancer through plasma-treated 
+medium-induced activation of dendritic cells.
+
+Lee CB(#)(1), Choi HG(2)(3), Gurmessa SK(4), Jang IT(1), Kumar N(5), Jiang Z(1), 
+Kaushik NK(6), Kim HJ(7).
+
+Author information:
+(1)Department of Microbiology, College of Medicine, Chungnam National 
+University, Daejeon, 35015, Korea.
+(2)Department of Internal Medicine, College of Medicine, Chungnam National 
+University, Daejeon, 35015, Korea.
+(3)Department of Medical Sciences, Chungnam National University, Daejeon, 35015, 
+Korea.
+(4)Department of Molecular Microbiology and Immunology, Oregon Health and 
+Science University, 3181 SW Sam Jackson Park Rd, Portland, OR, 97239, USA.
+(5)Department of Medical Devices, National Institute of Pharmaceutical Education 
+and Research Guwahati (NIPER-G), Kamrup, Assam, 781101, India.
+(6)Department of Electrical and Biological Physics, Plasma Bioscience Research 
+Center, Kwangwoon University, Seoul, 01897, Korea.
+(7)Department of Microbiology, College of Medicine, Chungnam National 
+University, Daejeon, 35015, Korea. hjukim@cnu.ac.kr.
+(#)Contributed equally
+
+BACKGROUND: Recently, atmospheric non-thermal plasma jet-treated medium (PTM) 
+has been recognized as a novel strategy in cancer therapy and lymphocyte 
+activation. However, PTM has limitations in inducing a robust antitumor-immune 
+response. This study demonstrated that PTM treatment inhibited tumor progression 
+by activating dendritic cells (DCs).
+METHOD: In this study, we investigated the effects of PTM on selective 
+cytotoxicity and intracellular reactive oxygen species (ROS) generation and 
+oxidative stress-mediated signaling (e.g., glutathione peroxidase, catalase) 
+using respective fluorescence probes in Lewis lung cancer (LLC) cells. Then, the 
+PTM affects the expression of interferon-gamma (IFN)-γ-induced programmed 
+death-ligand 1 (PD-L1) and inhibition of signal transducer and activator of 
+transcription 1 (STAT1) in LLC cells using immunoblotting. Additionally, PTM 
+effects on the tumor cell's death and activation of DCs were done by 
+co-culturing DCs with or without tumor cells. Further, a mouse model was used to 
+evaluate the synergistic antitumor effects of PTM and DCs where tumors are grown 
+under the skin.
+RESULTS: PTM-exposed tumor cells increase intracellular superoxide production, 
+enhancing ROS generation and leading to cancer immunogenic cell death. In 
+addition, PTM suppresses IFN-γ-induced PD-L1 expression and STAT1 activation in 
+tumor cells. The activation of DCs induced by PTM is downregulated when these 
+cells are co-cultured with tumor cells. In vivo, intraperitoneal injection of 
+PTM-activated DCs, as a synergistic agent to intertumoral PTM treatment, led to 
+increased CD4+ and CD8+ T cell infiltration into the tumor and spleen and 
+eventually decreased tumor growth.
+CONCLUSION: Overall, this research introduces a promising avenue for improving 
+lung cancer treatment using PTM to stimulate an immune response and induce cell 
+death in tumor cells. Further studies will be essential to validate these 
+findings and explore clinical applications.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12935-024-03569-x
+PMID: 39580412
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The Institutional Research and Ethics Committee of Chungnam 
+National University approved all animal experiments (approval number: 
+202003 A-CNU-064), which complied with the relevant guidelines of the Korean 
+Food and Drug Administration. Competing interests: The authors declare no 
+competing interests.
+
+
+9. Cancer Cell Int. 2024 Nov 23;24(1):387. doi: 10.1186/s12935-024-03564-2.
+
+The impact of Radioresistant-Related Telomere Genes in the prognosis and immune 
+infiltration in lung adenocarcinoma.
+
+Li P(1), Meng L(1), Tu H(2), Luo S(1), Gong X(3).
+
+Author information:
+(1)Department of Radiation Oncology, Shanghai Pulmonary Hospital, Tongji 
+University School of Medicine, Shanghai, China.
+(2)Department of Integrated Traditional Chinese and Western Medicine, Shanghai 
+Pulmonary Hospital, Tongji University School of Medicine, Shanghai, China.
+(3)Department of Radiation Oncology, Shanghai Pulmonary Hospital, Tongji 
+University School of Medicine, Shanghai, China. gongxiaomei1981@163.com.
+
+INTRODUCTION: Lung adenocarcinoma (LUAD), a common subtype of NSCLC, has a high 
+mortality rate. Telomere genes are influenced by radiation therapy, affecting 
+treatment response. Additionally, immune cell presence in the tumor 
+microenvironment plays a crucial role in cancer prognosis. However, the role of 
+Radioresistant-Related Telomere Genes (RRTGs) in LUAD prognosis and immune 
+infiltration remains unclear.
+METHODS: In this research, we utilized diverse bioinformatics techniques to 
+examine our personally tested information along with publicly accessible 
+datasets. We conducted a comprehensive study on the genetic and transcriptional 
+differences, predictive significance, and expression profiles of RRTGs. 
+Afterwards, a RRTGs score was developed to forecast the overall survival (OS) 
+and ascertain its reliable predictive capacity for patients with LUAD. Following 
+this, dependable nomograms were developed to enhance the practicality of RRTGs 
+scoring in a clinical setting. Furthermore, the investigation delved into the 
+associations among RRTGs, infiltration of immune cells, prognosis, and clinical 
+treatments of patients. Gene Set Enrichment Analysis (GSEA) was conducted to 
+explore the potential mechanisms by which RRTGs influence the regulation of 
+LUAD. Then, Western blot, qRT-PCR and Immunohistochemistry were used to detect 
+the expression levels of RRTGs in cell lines and LUAD tumor tissues.
+RESULTS: Our research indicates that certain genes related to telomeres have a 
+notable correlation with the prognosis of patients diagnosed with LUAD. The 
+RRTGs score, which includes three key genes (ARRB1, PLK1, and DSG2), was 
+developed to forecast the OS and its dependable predictive capability for 
+individuals diagnosed with LUAD was ascertained. Afterwards, extremely reliable 
+nomograms were developed to improve the practicality of the RRTGs score. 
+Moreover, as illustrated, genetic characteristics can be utilized to assess the 
+infiltration of immune cells in tumors, as well as clinical attributes and 
+prognosis. RRTGs score characterizes tumor mutational burden, immune activity, 
+and notable survival probabilities in addition. Furthermore, GSEA results 
+revealed that RRTGs may influence LUAD by modulating immune-related pathways in 
+high-risk groups and regulating cell cycle and DNA repair processes in low-risk 
+groups. The RRTGs (ARRB1 and PLK1) were upregulated in A549 cells and 
+radiosensitive NSCLC tissues compared to radioresistant A549 cells and NSCLC 
+tissues.
+CONCLUSION: In conclusion, this research emphasizes the significance of RRTGs in 
+the outlook of LUAD. The findings contributed to a better understanding of the 
+link between radiotherapy, telomere-related genes, and prognosis in LUAD, and 
+identified potential therapeutic targets for patients with LUAD.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12935-024-03564-2
+PMID: 39580387
+
+Conflict of interest statement: Declarations. Ethical approval: This study was 
+approved by the Ethics Committee at the Shanghai Pulmonary Hospital (approval 
+No. L20-316Z). Competing interests: The authors declare no competing interests.
+
+
+10. Asian J Surg. 2024 Nov 22:S1015-9584(24)02602-2. doi: 
+10.1016/j.asjsur.2024.10.268. Online ahead of print.
+
+A case of lung cancer presenting with progressive dysphagia as the initial 
+symptom.
+
+Zeng X(1), Wang G(2).
+
+Author information:
+(1)Traditional Chinese Medicine Department, Zigong First People's Hospital, 
+Zigong, PR China.
+(2)Traditional Chinese Medicine Department, Zigong First People's Hospital, 
+Zigong, PR China. Electronic address: 342358533@qq.com.
+
+DOI: 10.1016/j.asjsur.2024.10.268
+PMID: 39580280
+
+Conflict of interest statement: Declaration of competing interest There is no 
+conflict of interest.

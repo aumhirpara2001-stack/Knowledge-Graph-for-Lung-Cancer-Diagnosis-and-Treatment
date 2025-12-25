@@ -1,0 +1,564 @@
+1. Biomater Adv. 2024 Nov 19;168:214121. doi: 10.1016/j.bioadv.2024.214121. Online 
+ahead of print.
+
+Biotinylated platinum(IV)-conjugated graphene oxide nanoparticles for targeted 
+chemo-photothermal combination therapy in breast cancer.
+
+Itoo AM(1), Paul M(1), Jain N(1), Are V(1), Singh A(1), Ghosh B(1), Biswas S(2).
+
+Author information:
+(1)Nanomedicine Research Laboratory, Department of Pharmacy, Birla Institute of 
+Technology & Science-Pilani, Hyderabad Campus, Jawahar Nagar, Medchal, Hyderabad 
+500078, Telangana, India.
+(2)Nanomedicine Research Laboratory, Department of Pharmacy, Birla Institute of 
+Technology & Science-Pilani, Hyderabad Campus, Jawahar Nagar, Medchal, Hyderabad 
+500078, Telangana, India. Electronic address: 
+swati.biswas@hyderabad.bits-pilani.ac.in.
+
+Graphene oxide (GO) and GO-based nanocomposites are promising in drug delivery 
+and photothermal therapy due to their exceptional near-infrared optical 
+absorption and high specific surface area. In this study, we have effectively 
+conjugated an oxaliplatin (IV) prodrug, PEGylated graphene oxide, and PEGylated 
+biotin (PB) in a single platform for breast cancer treatment. This platform 
+demonstrates promising prospects for targeted drug delivery and the synergistic 
+application of photothermal-chemotherapy when exposed to NIR-laser irradiation. 
+The resulting nanocomposite (GO(OX)PB (1/1/0.2) NPs) displayed an exceptionally 
+large surface area, minimal particle size (195.7 nm), specific targeting 
+capabilities, a high drug load capacity (43.56 %) and entrapment efficiency 
+(89.48 %) and exhibit excellent photothermal conversion efficiency and 
+photostability when exposed to NIR-laser irradiation (808 nm). The therapeutic 
+effectiveness was assessed both in vitro and in vivo conditions employing human 
+breast cancer cells (MCF-7), mouse mammary gland adenocarcinoma cells (4T1), and 
+4T1-Luc tumor-bearing mouse models. The findings demonstrated that GO(OX)PB 
+(1/1/0.2) NPs (+L) were highly effective in causing significant cytotoxicity, 
+G2/M phase cell cycle arrest, ROS generation, mitochondrial membrane 
+depolarization, apoptosis, and photothermal effect. This resulted in a greater 
+percentage of cell death compared to free OX, GO(OX)PEG (1/1/0.2) NPs (±L), and 
+GO(OX)PB (1/1/0.2) NPs (-L). The in vivo therapeutic studies on 4T1-Luc 
+tumor-bearing mice revealed that a combination of GO(OX)PB (1/1/0.2) NPs (+L) 
+caused complete disappearance of the tumor, no tumor recurrence, prolonged 
+survival, reduced lung metastasis, and mitigated nephrotoxicity. The serum and 
+blood analysis demonstrated minimal systemic toxicity of GO(OX)PB (1/1/0.2) NPs. 
+The developed nanoplatform, in this context, may serve as a potential 
+nanomedicine to address conventional nephrotoxicity in breast cancer and prevent 
+metastasis by combining chemo-photothermal therapy.
+
+Copyright © 2024. Published by Elsevier B.V.
+
+DOI: 10.1016/j.bioadv.2024.214121
+PMID: 39577365
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Lung Cancer. 2024 Nov 17;198:108026. doi: 10.1016/j.lungcan.2024.108026. Online 
+ahead of print.
+
+Use of commercial WAMs for monitoring individual with lung cancer. A systematic 
+review.
+
+Bahadori S(1), Hosseini M(2).
+
+Author information:
+(1)Department of Surgery and Cancer, Faculty of Medicine, Imperial College 
+London, UK. Electronic address: S.Bahadori@Imperial.ac.uk.
+(2)Department of Biomedical Science, Faculty of Applied Sciences, London South 
+Bank University, UK.
+
+This systematic review explored the feasibility and impact of interventions 
+using commercial activity monitors to track physical activity and health-related 
+outcomes during lung cancer treatment. Inclusion criteria focused on studies 
+involving commercially available activity trackers that provided monitoring 
+feedback to lung cancer patients. The devices selected were popular models, 
+including Fitbit, Garmin, Apple, Samsung, and Polar. Studies assessing the 
+reliability or validity of these trackers, as well as qualitative studies, 
+protocols, non-English publications, and those featuring non-commercial devices, 
+were excluded. Additionally, studies incorporating physical activity with other 
+interventions (e.g., robotic surgery) were excluded if exercise outcomes could 
+not be analysed independently. Searches were conducted across various electronic 
+databases, including the Cochrane Database of Systematic Reviews, CINAHL 
+Complete®, Science Citation Index, Google Scholar, Scopus, IEEE Xplore, and 
+PubMed, covering the period from January 2000 to November 2023. The quality of 
+the studies was assessed using the Risk of Bias in Non-randomised Studies of 
+Interventions (ROBINS-I) and the Risk of Bias in Randomised Trials (RoB 2.0) 
+tools. Twelve studies met the inclusion criteria, utilising commercial wearable 
+technology for monitoring lung cancer patients over an average of 
+6.3 ± 4.7 weeks. A key limitation of this review was the wide variation in how 
+interventions were implemented across studies. Yet, the interventions 
+significantly improved daily activity levels and intensity, quality of life, 
+psychological impact, and physical function compared to usual care. These 
+monitors show promise in predicting, monitoring, and detecting physical 
+activity, motivating patients, and aiding in recovery. However, limitations 
+exist, and further evidence is needed to confirm their efficacy as primary 
+monitoring tools in lung cancer treatment.
+
+Copyright © 2024 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2024.108026
+PMID: 39577354
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Lung Cancer. 2024 Nov 17;198:108029. doi: 10.1016/j.lungcan.2024.108029. Online 
+ahead of print.
+
+Diagnostic performance of Shape-Sensing Robotic-Assisted bronchoscopy with 
+mobile Cone-Beam CT for cystic and cavitary pulmonary lesions.
+
+Fernandez-Bussy S(1), Funes-Ferrada R(2), Yu Lee-Mateus A(2), Vaca-Cartagena 
+BF(2), Barrios-Ruiz A(2), Valdes-Camacho S(2), Ibrahim MI(2), Patel NM(2), 
+Hazelett BN(2), Robertson KS(2), Chadha RM(3), Abia-Trujillo D(2).
+
+Author information:
+(1)Division of Pulmonary, Allergy, and Sleep Medicine, Mayo Clinic Florida, 
+Jacksonville, FL, USA. Electronic address: fernandez-bussy.sebastian@mayo.edu.
+(2)Division of Pulmonary, Allergy, and Sleep Medicine, Mayo Clinic Florida, 
+Jacksonville, FL, USA.
+(3)Department of Anesthesiology, Mayo Clinic Florida, Jacksonville, FL, USA.
+
+INTRODUCTION: Cystic and cavitary pulmonary lesions (PLs) frequently require 
+histologic confirmation for an accurate diagnosis. Shape-sensing 
+robotic-assisted bronchoscopy (ssRAB) with mobile cone beam computed tomography 
+(mCBCT) offers a minimally invasive alternative to traditional biopsy techniques 
+like CT-guided transthoracic biopsy. This study aimed to evaluate the diagnostic 
+performance and safety of ssRAB in cystic and cavitary PLs.
+MATERIAL AND METHODS: A retrospective study was conducted at Mayo Clinic 
+Florida, of patients who underwent ssRAB with mCBCT for cavitary and cystic PLs 
+from October 2020 to February 2024. Baseline clinical, demographic, lesion 
+characteristics, and procedure-related data were collected. Diagnostic yield, 
+accuracy, sensitivity for malignancy and complication rates were calculated 
+while logistic models identified associations between variables and diagnostic 
+yield.
+RESULTS: 52 patients were included, 54 nodules were sampled. ssRAB provided a 
+diagnostic yield of 83 % and a diagnostic accuracy of 83 %, with a sensitivity 
+for malignancy of 97 % and specificity of 58 %. Pneumothorax occurred in 4 % of 
+cases, with one requiring chest tube insertion. Nashville bleeding scale ≥ 2 
+occurred in 4 % of procedures. There was no significant association between 
+lesion size, distance to chest wall, type of lesion and diagnostic yield.
+CONCLUSION: ssRAB with mCBCT demonstrated high diagnostic yield and sensitivity 
+for malignancy in cavitary and cystic PLs, with a low complication rate. Its 
+ability to perform mediastinal staging in the same anesthetic event, along with 
+its safety profile, suggests ssRAB as a valuable tool in the assessment of 
+air-filled pulmonary lesions.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2024.108029
+PMID: 39577353
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. Int Immunopharmacol. 2024 Nov 21;144:113564. doi: 10.1016/j.intimp.2024.113564. 
+Online ahead of print.
+
+ITGB4/GNB5 axis promotes M2 macrophage reprogramming in NSCLC metastasis.
+
+Huang X(1), Yu G(1), Jiang X(1), Shen F(1), Wang D(1), Wu S(2), Mi Y(3).
+
+Author information:
+(1)Department of Cardiothoracic Surgery, Jiangyin Clinical College of Xuzhou 
+Medical University, Jiangyin 214400, China.
+(2)Department of Cardiothoracic Surgery, Jiangyin Clinical College of Xuzhou 
+Medical University, Jiangyin 214400, China. Electronic address: wu_song@126.com.
+(3)Department of Cardiothoracic Surgery, Jiangyin Clinical College of Xuzhou 
+Medical University, Jiangyin 214400, China. Electronic address: 
+miyedong@126.com.
+
+OBJECTIVE: Metastasis of non-small cell lung cancer (NSCLC) is a leading cause 
+of high mortality. In recent years, the role of M2 macrophages in promoting 
+tumor metastasis within the tumor microenvironment has garnered increasing 
+attention. This study aims to investigate the role and potential mechanisms of 
+the ITGB4/GNB5 axis in regulating M2 macrophage reprogramming and influencing 
+NSCLC metastasis.
+METHODS: This study first used single-cell sequencing technology to reveal the 
+diverse subpopulation structure of NSCLC tumor tissues. Data analysis then 
+identified the correlation between M2 macrophages and the malignant phenotype of 
+NSCLC. Flow cytometry and immunohistochemistry were used to detect changes in M2 
+macrophages in NSCLC tissues. The impact of the ITGB4/GNB5 axis on M2 macrophage 
+function was assessed through RNA sequencing and proteomic analysis. Finally, in 
+vitro cell experiments and in vivo mouse models were used to validate the 
+function and regulatory mechanisms of this axis.
+RESULTS: Our study found diverse cellular subpopulations in NSCLC tumor tissues, 
+with M2 macrophages closely associated with the malignant phenotype of NSCLC. We 
+identified ITGB4 as a characteristic gene of NSCLC and predicted GNB5 as an 
+interacting gene through database analysis. Activation of the ITGB4/GNB5 axis 
+was shown to enhance M2 macrophage polarization, promoting their accumulation in 
+the tumor microenvironment. This change further facilitated NSCLC invasion and 
+metastasis by modulating related cytokines and signaling pathways. Animal 
+experiments demonstrated that inhibition of the ITGB4/GNB5 axis significantly 
+reduced tumor growth and metastasis.
+CONCLUSION: The ITGB4/GNB5 axis reshapes the TME by promoting M2 macrophage 
+polarization and functional enhancement, thereby facilitating tumor invasion and 
+metastasis in NSCLC. This research provides new insights into the molecular 
+mechanisms of NSCLC and offers potential molecular targets for future targeted 
+therapies.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2024.113564
+PMID: 39577216
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Bioorg Chem. 2024 Nov 19;153:107982. doi: 10.1016/j.bioorg.2024.107982. Online 
+ahead of print.
+
+Baliosperoid A attenuates lipopolysaccharide-induced acute lung injury by 
+targeting SHP2 to inhibit inflammation and oxidative stress.
+
+Li Y(1), Zhao L(1), Liu Z(1), Chen Y(1), Li X(2), Zhu D(3), Liu L(4).
+
+Author information:
+(1)School of Chemistry and Chemical Engineering, Tianjin University of 
+Technology, Tianjin 300384, China.
+(2)National Key Laboratory of Chinese Medicine Modernization, Tasly Academy, 
+Tasly Pharmaceutical Group Co., Ltd., Tianjin 300410, China.
+(3)School of Chemistry and Chemical Engineering, Tianjin University of 
+Technology, Tianjin 300384, China. Electronic address: zhudr93@163.com.
+(4)Department of Molecular Pharmacology, Tianjin Medical University Cancer 
+Institute & Hospital, Tianjin 300060, China. Electronic address: 
+liuliren@tmu.edu.cn.
+
+Acute lung injury (ALI) remains a devastating clinical condition with limited 
+therapeutic options. While Src homology-2 domain-containing protein tyrosine 
+phosphatase 2 (SHP2) has emerged as a critical mediator in ALI pathogenesis, 
+effective SHP2-targeting therapeutics remain largely elusive. Baliospermum 
+solanifolium (Burm.) is a traditional medicine used to treat various diseases 
+such as asthma, edema, bronchitis, jaundice, and constipation. Baliosperoid A 
+(BA), a diterpenoid compound derived from Baliospermum solanifolium's roots, 
+exhibits potent NO inhibitory activity in RAW264.7 cells. However, its 
+anti-inflammatory activity and potential targets have never been reported. Here, 
+we report BA acts as a selective SHP2 inhibitor with remarkable therapeutic 
+potential against ALI. Through comprehensive molecular and functional analyses, 
+we demonstrate that BA directly binds to and inhibits SHP2 phosphatase activity 
+with high specificity (IC50 = 1.638 ± 0.324 μM). Mechanistically, BA 
+orchestrates a dual-action therapeutic effect by simultaneously suppressing 
+inflammatory cascades through SHP2-mediated MAPK and NF-κB pathway inhibition 
+while activating the Nrf2-dependent antioxidant response. In preclinical models 
+of ALI and sepsis, BA treatment significantly improved survival rates, preserved 
+lung architecture, and prevented multi-organ dysfunction. Notably, BA 
+demonstrated superior efficacy to the existing SHP2 inhibitor SHP099, 
+particularly in sepsis survival outcomes (90 % vs 50 % survival at 24 h). Our 
+findings not only identify BA as a promising therapeutic candidate for ALI but 
+also establish a novel paradigm for targeting SHP2 in inflammatory diseases.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bioorg.2024.107982
+PMID: 39577153
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Cancer Treat Res Commun. 2024 Nov 15;41:100850. doi: 
+10.1016/j.ctarc.2024.100850. Online ahead of print.
+
+Assessing Providers' knowledge about and barriers to lung cancer screening.
+
+Quezada JJ(1), Avenido AR(1), Jia S(1), Bernaba A(1), Nguyen S(1), Gharagozlou 
+SS(1), Nguyen TQ(2), Keshava H(3), Sadigh G(4).
+
+Author information:
+(1)Department of Radiological Sciences, University of California, Irvine, USA.
+(2)Department of Family Medicine, University of California, Irvine, USA.
+(3)Department of Surgery, University of California, Irvine, USA.
+(4)Department of Radiological Sciences, University of California, Irvine, USA. 
+Electronic address: gsadigh@uci.edu.
+
+OBJECTIVE: Low dose computed tomography (LDCT) for lung cancer screening (LCS) 
+is underutilized despite its demonstrated mortality benefit compared to chest 
+radiography. Our study aimed to assess knowledge about LCS and barriers to 
+ordering LDCT from the viewpoint of primary care and pulmonology providers in 
+academic and community settings.
+METHODS: Providers of various specialties (pulmonology, family medicine, 
+internal medicine, geriatric medicine) who were practicing in Southern 
+California and provided care to patients aged 50 or more were asked to complete 
+a 10-minute survey to assess knowledge about LCS criteria, and barriers to the 
+use of LDCT scan screening. Knowledge scores were calculated for each respondent 
+based on their responses to 9 questions based on Centers for Medicare and 
+Medicaid Services eligibility criteria with a total score range from 0 to 9 
+points.
+RESULTS: 32 eligible providers completed the survey, of which none correctly 
+identified all CMS eligibility criteria. Average knowledge score was 6.6 ± 1.1 
+and did not significantly differ based on practice setting, training level, or 
+years of practice. Common barriers to utilization of LDCT included inaccurate 
+smoking history in the medical record (56.2 %), failure of the medical record to 
+notify providers of eligible patients (43.7 %), and concerns about financial 
+cost of downstream tests after a positive scan (38.7 %).
+CONCLUSIONS: Suboptimal provider knowledge of LDCT criteria may contribute to 
+LCS underutilization. Improvement of educational resources for providers and 
+augmentation of EMR smart tools to update documented smoking histories and 
+notify providers of eligible patients may improve the rate of LCS.
+
+Copyright © 2024 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctarc.2024.100850
+PMID: 39577140
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+7. Gynecol Oncol. 2024 Nov 21;192:32-39. doi: 10.1016/j.ygyno.2024.10.030. Online 
+ahead of print.
+
+Association of neighborhood social vulnerability with ovarian cancer survival.
+
+Borho L(1), Elishaev E(2), Bao R(3), O'Brien E(4), Dinkins K(5), Berger J(1), 
+Boisen M(1), Comerci J(1), Courtney-Brooks M(1), Edwards RP(1), Garrett AA(1), 
+Kelley JL(1), Lesnock J(1), Mahdi HS(1), Olawaiye A(1), Rush S(1), Sukumvanich 
+P(1), Taylor S(1), Aneja R(6), Norian L(6), Arend RC(5), Modugno F(7).
+
+Author information:
+(1)Department of Obstetrics, Gynecology, and Reproductive Sciences, University 
+of Pittsburgh School of Medicine and Magee-Womens Research Institute and 
+Foundation, Pittsburgh, PA, United States of America.
+(2)Department of Pathology, University of Pittsburgh School of Medicine and 
+Magee-Womens Research Institute and Foundation, Pittsburgh, PA, United States of 
+America.
+(3)Department of Hematology/Oncology, University of Pittsburgh School of 
+Medicine and Hillman Cancer Center, Pittsburgh, PA, United States of America.
+(4)Department of Obstetrics, Gynecology, and Reproductive Sciences, University 
+of Pittsburgh School of Medicine and Magee-Womens Research Institute and 
+Foundation, Pittsburgh, PA, United States of America; Department of Obstetrics 
+and Gynecology, University of Alabama at Birmingham School of Medicine and 
+O'Neal Comprehensive Cancer Center, Birmingham, AL, United States of America.
+(5)Department of Obstetrics and Gynecology, University of Alabama at Birmingham 
+School of Medicine and O'Neal Comprehensive Cancer Center, Birmingham, AL, 
+United States of America.
+(6)Department of Nutrition Sciences, University of Alabama at Birmingham School 
+of Health Professions, Nutrition Obesity Research Center, and O'Neal 
+Comprehensive Cancer Center, Birmingham, AL, United States of America.
+(7)Department of Obstetrics, Gynecology, and Reproductive Sciences, University 
+of Pittsburgh School of Medicine and Magee-Womens Research Institute and 
+Foundation, Pittsburgh, PA, United States of America; Department of 
+Epidemiology, University of Pittsburgh Graduate School of Public Health, 
+Pittsburgh, PA, United States of America; Women's Cancer Research Center, 
+Magee-Womens Research Institute and Foundation and Hillman Cancer Center, 
+Pittsburgh, PA, United States of America; Department of Obstetrics and 
+Gynecology, University of Alabama at Birmingham School of Medicine, Birmingham, 
+AL, United States of America. Electronic address: modugnof@upmc.edu.
+
+OBJECTIVE: Social determinants of health (SDOH) impact cancer outcomes. The CDC 
+Social Vulnerability Index (SVI) integrates scores for four neighborhood-based 
+SDOH domains (socioeconomic status, household characteristics, minority status, 
+and housing type/transportation) to assess neighborhood social vulnerability 
+(NSV). While NSV has been associated with overall cancer mortality and lung, 
+breast, colon, and endometrial cancer-specific mortality, the relationship 
+between NSV as defined by the SVI and ovarian cancer outcomes remains unknown.
+METHODS: We used data from 177 patients enrolled in an observational ovarian 
+cancer cohort study from October 2012 through September 2022. All patients 
+underwent debulking surgery and completed an entire course of standard-of-care 
+platinum-based chemotherapy. Follow-up was completed through May 2024. SVI was 
+calculated using census tract at diagnosis. High NSV was defined as SVI in the 
+top quartile of the cohort. Cox proportional hazard models assessed the 
+association between NSV and progression-free (PFS) and overall (OS) survival.
+RESULTS: After accounting for demographic and clinical factors, high NSV was 
+associated with significantly worse PFS (HR:2.31 [95% CI:1.48-3.61]; P < 0.001) 
+and OS (HR:1.79 [95% CI:1.10-2.92]; P = 0.02), with neighborhood socioeconomic 
+status associated with significantly worse PFS (HR:2.29 [95% CI:1.47-3.56]; 
+P < 0.001) and OS (HR:1.71 [95% CI:1.04-2.80]; P = 0.03). Neighborhood housing 
+type/transportation was also associated with significantly worse PFS (HR:1.65 
+[95% CI:1.07-2.55]; P = 0.02) and trended towards worse OS (HR:1.43 [95% CI: 
+0.80-2.33]).
+CONCLUSION AND RELEVANCE: Higher neighborhood social vulnerability is associated 
+with worse outcomes among ovarian cancer patients. Validating these results in a 
+population-based cohort and assessing programs to reduce neighborhood social 
+vulnerability to improve ovarian cancer outcomes is warranted.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2024.10.030
+PMID: 39577071
+
+Conflict of interest statement: Declaration of competing interest Arend: 
+Consultant for Tempus; Advisory Board, Immunogen; Steering Committee, Merck; 
+Advisory Board, Seagen; Advisory Board, Sutro; Advisory Board, GSK; Consultant, 
+Mersana. Bao: PCT/US15/612657 (Cancer Immunotherapy), PCT/US18/36052 (Microbiome 
+Biomarkers for Anti-PD-1/PD-L1 Responsiveness: Diagnostic, Prognostic and 
+Therapeutic Uses Thereof), PCT/US63/055227 (Methods and Compositions for 
+Treating Autoimmune and Allergic Disorders). Berger: Advisory Board, GSK. All 
+other authors declare no conflicts of interest.
+
+
+8. Clin Imaging. 2024 Nov 19;117:110362. doi: 10.1016/j.clinimag.2024.110362. 
+Online ahead of print.
+
+Short-term treatment response assessment in non-surgical treatment of advanced 
+non-small cell lung cancer based on radiomics of dual-energy CT.
+
+Wu X(1), Lu Y(1), Huang D(2), Li Z(1), Wei C(1), Li K(3).
+
+Author information:
+(1)Department of Radiology, The First Affiliated Hospital of Guangxi University 
+of Chinese Medicine, Guangxi, China.
+(2)Department of Radiology, Wuming Affiliated Hospital of Guangxi Medical 
+University, China.
+(3)Department of Radiology, the First Affiliated Hospital of Guangxi Medical 
+University, Nanning, Guangxi, China. Electronic address: doctorlikai@126.com.
+
+PURPOSE: To build and evaluate a pre-treatment dual-energy CT(DECT)-based 
+clinical-radiomics nomogram for individualized prediction of short-term 
+treatment response to non-surgical treatment in advanced non-small cell lung 
+cancer (NSCLC).
+METHODS: Pre-treatment DECT images were retrospectively collected from 98 
+pathologically confirmed NSCLC with clinical stage III or IV. Short-term 
+treatment response was determined with follow-up CT of 4-6 courses of treatment. 
+Quantitative radiomics metrics of the lesion were extracted from dual-energy 
+mixed images at venous phase. Least absolute shrinkage and selection operator 
+and correlation analysis were used to select the most relevant radiomics 
+features. Radiomics model, clinical model and clinical-radiomics model were 
+established by multivariate logistic regression. The model with the best 
+prediction performance was visualized as a nomogram, and the consistency between 
+the probability of the actual occurrence of the outcome and the probability 
+predicted by the model was measured by calibration curves.
+RESULTS: Clinical stage, difference in electron density in arteriovenous phase, 
+difference in slope of energy spectrum in arteriovenous phase, and slope of 
+energy spectrum in venous phase of the tumor were significant clinical 
+predictors of therapy response (P < 0.05). The clinical-radiomics model showed a 
+higher predictive capability (AUC: 0.87 and 0.85 in training and validation 
+sets, respectively) than the radiomics models and the clinical model. The 
+clinical-radiomics nomogram integrating the DECT radiomics signature with 
+clinical stage and spectrum parameters showed good calibration and 
+discrimination.
+CONCLUSION: The clinical-radiomics nomogram based on pre-treatment DECT showed 
+good performance in predicting clinical response to non-surgical therapy in 
+NSCLC.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clinimag.2024.110362
+PMID: 39577032
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no competing interests.
+
+
+9. Blood. 2024 Nov 22:blood.2024025680. doi: 10.1182/blood.2024025680. Online ahead 
+of print.
+
+The Contribution of the Monocyte-Macrophage Lineage to Immunotherapy Outcomes.
+
+Adams RC(1), MacDonald KP(2), Hill GR(3).
+
+Author information:
+(1)QIMR Berghofer Medical Research Institute, United States.
+(2)QIMR Berghofer Medical Research, Brisbane, Australia.
+(3)Fred Hutchinson Cancer Center, Seattle, Washington, United States.
+
+Macrophages execute core functions in maintaining tissue homeostasis, where 
+their extensive plasticity permits a spectrum of functions from tissue 
+remodelling to immune defence. However, perturbations to tissue-resident 
+macrophages during disease, and the subsequent emergence of monocyte-derived 
+macrophages, can hinder tissue recovery and promote further damage through 
+inflammatory and fibrotic programs. Gaining a fundamental understanding of the 
+critical pathways defining pathogenic macrophage populations enables the 
+development of targeted therapeutic approaches to improve disease outcomes. In 
+the setting of chronic graft-versus-host disease (cGVHD), which remains the 
+major complication of allogeneic haematopoietic stem cell transplantation, 
+colony-stimulating factor 1 (CSF1)-dependent donor-derived macrophages have been 
+identified as key pathogenic mediators of fibrotic skin and lung disease. 
+Antibody blockade of the CSF1R to induce macrophage depletion showed remarkable 
+capacity to prevent fibrosis in pre-clinical models and has subsequently 
+demonstrated impressive efficacy for improving fibrotic cGVHD in ongoing 
+clinical trials. Similarly, macrophage depletion approaches are currently under 
+investigation for their potential to augment responses to immune checkpoint 
+inhibition. Moreover, both monocyte and tissue-resident macrophage populations 
+have recently been implicated as mediators of the numerous toxicities associated 
+with CAR T-cell therapy, further highlighting potential avenues of 
+macrophage-based interventions to improve clinical outcomes. Herein, we examine 
+the current literature on basic macrophage biology and contextualise this in the 
+setting of cellular and immunotherapy. Additionally, we highlight mechanisms by 
+which macrophages can be targeted, largely by interfering with the CSF1/CSF1R 
+signalling axis, for therapeutic benefit in the context of both cellular and 
+immunotherapy.
+
+Copyright © 2024 American Society of Hematology.
+
+DOI: 10.1182/blood.2024025680
+PMID: 39576958
+
+
+10. JCO Precis Oncol. 2024 Nov;8:e2400331. doi: 10.1200/PO.24.00331. Epub 2024 Nov 
+22.
+
+Safety and Efficacy of Osimertinib in Patients With Non-Small-Cell Lung Cancer 
+and Uncommon Tumoral Epidermal Growth Factor Receptor Mutations: A Systematic 
+Review and Single-Arm Meta-Analysis.
+
+Priantti JN(1), Fujiwara Y(2), Aquino de Moraes FC(3), Michelon I(4), Castro 
+C(5), Leighl NB(6), Cavalcante L(7), Addeo A(8), Bar J(9), Horita N(10), 
+Cortellini A(11)(12), Nassar AH(13), Vilbert M(14), Naqash AR(15).
+
+Author information:
+(1)Department of Internal Medicine, School of Medicine, Federal University of 
+Amazonas-UFAM, Manaus, Brazil.
+(2)Department of Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, 
+NY.
+(3)Department of Internal Medicine, School of Medicine, Federal University of 
+Pará-UFPA, Belém, Brazil.
+(4)Catholic University of Pelotas, Pelotas, Brazil.
+(5)University of Brasília, Brasília, Brazil.
+(6)Department of Medical Oncology and Hematology, University Health Network, 
+Princess Margaret Cancer Centre, Toronto, ON, Canada.
+(7)Department of Hematology/Oncology, University of Virginia Comprehensive 
+Cancer Center, Charlottesville, VA.
+(8)Department of Oncology, University Hospital HUG, Geneva, Switzerland.
+(9)Sheba Medical Center, Ramat Gan, Israel.
+(10)Chemotherapy Center, Yokohama City University Hospital, Yokohama, Japan.
+(11)Operative Research Unit of Medical Oncology, Fondazione Policlinico 
+Universitario Campus Bio-Medico, Rome, Italy.
+(12)Department of Surgery and Cancer, Imperial College London, London, United 
+Kingdom.
+(13)Department of Hematology/ Oncology, Yale New Haven Hospital, New Haven, CT.
+(14)Massachusetts General Hospital Cancer Center, Boston, MA.
+(15)Medical Oncology/TSET Phase 1 Program, Stephenson Cancer Center, University 
+of Oklahoma, Oklahoma City, OK.
+
+PURPOSE: The activity of osimertinib is not fully characterized in 
+non-small-cell lung cancer (NSCLC) with uncommon epidermal growth factor 
+receptor (EGFR) mutations. Therefore, we conducted a systematic review and 
+meta-analysis to assess the safety and efficacy of osimertinib in patients with 
+NSCLC harboring uncommon somatic EGFR mutations.
+METHODS: PubMed, Embase, and the Cochrane Library were searched for eligible 
+studies reporting the efficacy and safety of osimertinib in NSCLC with uncommon 
+EGFR mutations defined as any mutations other than exon 19 deletion, L858R and 
+T790M mutations, and exon 20 insertion, except when in compound. Then, we 
+performed a meta-analysis to pool survival outcomes and antitumoral activity, 
+including intracranial (ic) response and adverse events.
+RESULTS: Fifteen studies comprising 594 patients were included. The most 
+frequently observed uncommon solitary mutations were G719X in 25% (81/327) of 
+patients and L861Q in 21% (69/327). The most common compound mutations were 
+G719X with T790M in 12% (23/192) of patients and G719X with S768I in 11% 
+(22/192). Pooled analysis showed an objective response rate (ORR) of 51.30% (95% 
+CI, 45.80 to 56.81), a disease control rate (DCR) of 90.11% (95% CI, 86.27 to 
+92.96), a median progression-free survival of 9.71 months (95% CI, 7.96 to 
+11.86), and a median overall survival of 16.79 months (95% CI, 9.93 to 28.39). 
+icORR was 45.96% (95% CI, 30.18 to 62.17), and icDCR was 95.76% (95% CI, 69.84 
+to 100). Osimertinib was well tolerated with a frequency of grade 3 or more 
+adverse events of 21.77% (95% CI, 6.24 to 43.33).
+CONCLUSION: Osimertinib demonstrated robust response in NSCLC harboring uncommon 
+EGFR mutations, without unanticipated safety concerns.
+
+DOI: 10.1200/PO.24.00331
+PMID: 39576954 [Indexed for MEDLINE]

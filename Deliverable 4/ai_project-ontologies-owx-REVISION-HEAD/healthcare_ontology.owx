@@ -1,0 +1,1328 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://example.org/healthcare_ontology.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://example.org/healthcare_ontology.owl">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#ChestPain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cough"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DiagnosticTest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fatigue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hoarseness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Medication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MetastaticLungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NonSmallCellLungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PleuralEffusion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PulmonaryFibrosis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShortnessOfBreath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SupportResource"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SwellingInNeckOrFace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symptom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Treatment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WeightLoss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wheezing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7KKtlfAz8MTWbB1SqDpdAz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7RZFmrGu0IFzwEUDLICeCM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7YMoKFgjsyHFcngoUBCoG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7q8DI8ptJB2yOsJqrDNhMc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R875DfOsvDIfGVHzyBZaHLR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8bb6UaAdEUJIpAInm1zNwq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB6UObVZQZ6oZ6WeKneenjT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB9GtSVFcVDsqpeVC5GXj5U"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBFLuuHRgJl7p2NPxwkysvX"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBMBLeYlaj63WClhwYjeboR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCkFLTy7xgDpthwTdOFR5wp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RLEkIWy3awclWYIb6kBmPf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RNOwfqATEOTksAa0pqyvz3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RiIdnzeGTkr3vzDSKFkXIx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RocNtxZKhXvG0XuWH9SerV"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#associatedWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#canBeCombinedWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#canBeTreatedWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSymptom"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#indicates"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#usesMedication"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDFGsrJgBxoJfQWEUTuvtAW"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RTqAtsYDLMTQwp3fs8k3i9"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#associatedDisorders"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#commonSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#description"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#dosage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#drugInteractions"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#effectiveness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#severity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#sideEffects"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stages"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R42VDgjru5iDZdCcA8BGDi"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R454Vk6XMSWMptI9IxpCHM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R5FryiL8jxdJPjlJ0IYhdg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R76lfcufVbtjPAVY2YEOVVP"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7KuaLUvwpATp27yRpyMm9q"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7lgchalKVV2W4UJUTcLJaS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7nk2JBalkNIhNNBXnW3rnM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7tFyNsh0mLwM09MjCmjPfR"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Pev6nCT03UkBCjDpci4K3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Vh8NxVZBQ6RCRn85uptXa"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8uYfwLGpb2nU3Wk7LgYkNC"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9PqnU9wf7tgIOugRJiV8Tx"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9QgZsC3BF2V3CANdSoGEYr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9ZFBq3oT50jCZQ8tzRR99c"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9dsGp6Nhi98we2cYS1uDt6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9e4Gh0ceBWaoXBtp09oPCI"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9ejYLCgwhVaWh4hQwSS60k"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RB5raIO9S28XL8V1nsipeZ8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBV5VfZInXebEpNBOSBJbdN"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBqgykkTSsjpPppERYAIyBY"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RByWnp2qywSew4Yp3Gtnf4A"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RC0XlhJKwrMPV8Fy5p1CgjL"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCA9trKXDsHUK5kM4ov3VeH"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCGEtqQmvCyyCoOfS7lFg4F"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCYNH0GgbIZ6novAfqXbtNX"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCtTeuRCMCkRBcOqeZDirCY"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCxbwPBK4Sd8MYn9SJK2lQB"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDF3TYAPcIXmLDyOlq56Nw4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDLIEkAzG19JrQtUxE0Qltx"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDLJVnN9JlYDJr48veTSe8m"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDUtT43U2ZZ5kpGr6ydz9Qb"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDdHqiQNeVxZbiLcUqyt2k2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RJkSfVEHJLq3CPT79oISpg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RWm8WqYuMaNY5tqAYWW18y"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RXFPqQvVu5gVZqGkG3dSbX"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RklWWCkyZqpVUc2UtAgtiE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RkzWunUG2Dxaz5eCH1XNf3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rl6oMMZhEkFWbjyiyicxT4"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RvvozQ53ht7WcRFroHeCgu"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#ChestPain"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cough"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disease"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="#LungCancer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disease"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="#MetastaticLungCancer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disease"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="#NonSmallCellLungCancer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disease"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="#PleuralEffusion"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disease"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="#PulmonaryFibrosis"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fatigue"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hoarseness"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RNOwfqATEOTksAa0pqyvz3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#canBeTreatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7q8DI8ptJB2yOsJqrDNhMc"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#canBeTreatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RBFLuuHRgJl7p2NPxwkysvX"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#canBeTreatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RiIdnzeGTkr3vzDSKFkXIx"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ChestPain"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#Cough"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#Fatigue"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ShortnessOfBreath"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#usesMedication"/>
+            <Class IRI="http://webprotege.stanford.edu/R7RZFmrGu0IFzwEUDLICeCM"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#usesMedication"/>
+            <Class IRI="http://webprotege.stanford.edu/RBMBLeYlaj63WClhwYjeboR"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/R8bb6UaAdEUJIpAInm1zNwq"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#canBeTreatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RB6UObVZQZ6oZ6WeKneenjT"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#canBeTreatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RiIdnzeGTkr3vzDSKFkXIx"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ShortnessOfBreath"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#WeightLoss"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/R8bb6UaAdEUJIpAInm1zNwq"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MetastaticLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#Cough"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#Hoarseness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#usesMedication"/>
+            <Class IRI="http://webprotege.stanford.edu/RCkFLTy7xgDpthwTdOFR5wp"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#usesMedication"/>
+            <Class IRI="http://webprotege.stanford.edu/RLEkIWy3awclWYIb6kBmPf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NonSmallCellLungCancer"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ChestPain"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ShortnessOfBreath"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PleuralEffusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#Fatigue"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasSymptom"/>
+            <Class IRI="#ShortnessOfBreath"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PulmonaryFibrosis"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+            <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShortnessOfBreath"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SupportResource"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SupportResource"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SupportResource"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#associatedWith"/>
+            <Class IRI="http://webprotege.stanford.edu/RNOwfqATEOTksAa0pqyvz3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SwellingInNeckOrFace"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WeightLoss"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wheezing"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7KKtlfAz8MTWbB1SqDpdAz"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7RZFmrGu0IFzwEUDLICeCM"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7YMoKFgjsyHFcngoUBCoG"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7q8DI8ptJB2yOsJqrDNhMc"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn"/>
+        <Class IRI="#SupportResource"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R875DfOsvDIfGVHzyBZaHLR"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8bb6UaAdEUJIpAInm1zNwq"/>
+        <Class IRI="#DiagnosticTest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB6UObVZQZ6oZ6WeKneenjT"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0"/>
+        <Class IRI="#DiagnosticTest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB9GtSVFcVDsqpeVC5GXj5U"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBFLuuHRgJl7p2NPxwkysvX"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBMBLeYlaj63WClhwYjeboR"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer"/>
+        <Class IRI="#DiagnosticTest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCkFLTy7xgDpthwTdOFR5wp"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci"/>
+        <Class IRI="#DiagnosticTest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo"/>
+        <Class IRI="#SupportResource"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RLEkIWy3awclWYIb6kBmPf"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RNOwfqATEOTksAa0pqyvz3"/>
+        <Class IRI="#SupportResource"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RiIdnzeGTkr3vzDSKFkXIx"/>
+        <Class IRI="#Treatment"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RocNtxZKhXvG0XuWH9SerV"/>
+        <Class IRI="#Medication"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#DiagnosticTest"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R42VDgjru5iDZdCcA8BGDi"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DiagnosticTest"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R5FryiL8jxdJPjlJ0IYhdg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R76lfcufVbtjPAVY2YEOVVP"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Treatment"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7KuaLUvwpATp27yRpyMm9q"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disease"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7nk2JBalkNIhNNBXnW3rnM"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R7tFyNsh0mLwM09MjCmjPfR"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Pev6nCT03UkBCjDpci4K3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SupportResource"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8Vh8NxVZBQ6RCRn85uptXa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8uYfwLGpb2nU3Wk7LgYkNC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DiagnosticTest"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9PqnU9wf7tgIOugRJiV8Tx"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disease"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9QgZsC3BF2V3CANdSoGEYr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9ZFBq3oT50jCZQ8tzRR99c"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disease"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R9e4Gh0ceBWaoXBtp09oPCI"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Treatment"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RB5raIO9S28XL8V1nsipeZ8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBV5VfZInXebEpNBOSBJbdN"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RBqgykkTSsjpPppERYAIyBY"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RByWnp2qywSew4Yp3Gtnf4A"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disease"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RC0XlhJKwrMPV8Fy5p1CgjL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCA9trKXDsHUK5kM4ov3VeH"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Treatment"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCGEtqQmvCyyCoOfS7lFg4F"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCYNH0GgbIZ6novAfqXbtNX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Treatment"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCtTeuRCMCkRBcOqeZDirCY"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SupportResource"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RCxbwPBK4Sd8MYn9SJK2lQB"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DiagnosticTest"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDF3TYAPcIXmLDyOlq56Nw4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDLIEkAzG19JrQtUxE0Qltx"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDUtT43U2ZZ5kpGr6ydz9Qb"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDdHqiQNeVxZbiLcUqyt2k2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Symptom"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RJkSfVEHJLq3CPT79oISpg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SupportResource"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RWm8WqYuMaNY5tqAYWW18y"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Treatment"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RXFPqQvVu5gVZqGkG3dSbX"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RklWWCkyZqpVUc2UtAgtiE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disease"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RkzWunUG2Dxaz5eCH1XNf3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Medication"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/Rl6oMMZhEkFWbjyiyicxT4"/>
+    </ClassAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#associatedWith"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#canBeCombinedWith"/>
+        <Class IRI="#Treatment"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#canBeTreatedWith"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSymptom"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#indicates"/>
+        <Class IRI="#Symptom"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#usesMedication"/>
+        <Class IRI="#Treatment"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#associatedWith"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#canBeCombinedWith"/>
+        <Class IRI="#Treatment"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#canBeTreatedWith"/>
+        <Class IRI="#Treatment"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasSymptom"/>
+        <Class IRI="#Symptom"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#indicates"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#usesMedication"/>
+        <Class IRI="#Medication"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#severity"/>
+        <Class IRI="#LungCancer"/>
+    </DataPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RvvozQ53ht7WcRFroHeCgu"/>
+        <IRI>#severity</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RvvozQ53ht7WcRFroHeCgu"/>
+        <IRI>#stages</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R42VDgjru5iDZdCcA8BGDi</IRI>
+        <Literal xml:lang="en-us">Biopsy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R454Vk6XMSWMptI9IxpCHM</IRI>
+        <Literal xml:lang="en-us">AvoidingAlcohol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R5FryiL8jxdJPjlJ0IYhdg</IRI>
+        <Literal xml:lang="en-us">MRI</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R76lfcufVbtjPAVY2YEOVVP</IRI>
+        <Literal xml:lang="en-us">Docetaxel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7KKtlfAz8MTWbB1SqDpdAz</IRI>
+        <Literal xml:lang="en-us">Docetaxel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7KuaLUvwpATp27yRpyMm9q</IRI>
+        <Literal xml:lang="en-us">Surgery</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7RZFmrGu0IFzwEUDLICeCM</IRI>
+        <Literal xml:lang="en-us">Pembrolizumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7YMoKFgjsyHFcngoUBCoG</IRI>
+        <Literal xml:lang="en-us">Atezolizumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7lgchalKVV2W4UJUTcLJaS</IRI>
+        <Literal xml:lang="en-us">StressManagement</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7mmEnkl4GVrqQdXcxhvXgW</IRI>
+        <Literal xml:lang="en-us">DiagnosedWith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7nk2JBalkNIhNNBXnW3rnM</IRI>
+        <Literal xml:lang="en-us">PleuralEffusion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7q8DI8ptJB2yOsJqrDNhMc</IRI>
+        <Literal xml:lang="en-us">Surgery</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7rMhE0S2sELZBEuFYPUjSn</IRI>
+        <Literal xml:lang="en-us">OnlineSupportGroups</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7tFyNsh0mLwM09MjCmjPfR</IRI>
+        <Literal xml:lang="en-us">Nivolumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R875DfOsvDIfGVHzyBZaHLR</IRI>
+        <Literal xml:lang="en-us">Immunotherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8Pev6nCT03UkBCjDpci4K3</IRI>
+        <Literal xml:lang="en-us">Cisplatin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8Vh8NxVZBQ6RCRn85uptXa</IRI>
+        <Literal xml:lang="en-us">LungCancerSupportGroup</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8bb6UaAdEUJIpAInm1zNwq</IRI>
+        <Literal xml:lang="en-us">PETScan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8uYfwLGpb2nU3Wk7LgYkNC</IRI>
+        <Literal xml:lang="en-us">ShortnessOfBreath</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9PqnU9wf7tgIOugRJiV8Tx</IRI>
+        <Literal xml:lang="en-us">CTScan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9QgZsC3BF2V3CANdSoGEYr</IRI>
+        <Literal xml:lang="en-us">PulmonaryFibrosis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9ZFBq3oT50jCZQ8tzRR99c</IRI>
+        <Literal xml:lang="en-us">SwellingInNeckOrFace</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9dsGp6Nhi98we2cYS1uDt6</IRI>
+        <Literal xml:lang="en-us">RegularExercise</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9e4Gh0ceBWaoXBtp09oPCI</IRI>
+        <Literal xml:lang="en-us">LungCancer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9ejYLCgwhVaWh4hQwSS60k</IRI>
+        <Literal xml:lang="en-us">HealthyDiet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB5raIO9S28XL8V1nsipeZ8</IRI>
+        <Literal xml:lang="en-us">Chemotherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB6UObVZQZ6oZ6WeKneenjT</IRI>
+        <Literal xml:lang="en-us">RadiationTherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB7xpTbwGNnzt6pZBkl0Bd0</IRI>
+        <Literal xml:lang="en-us">Biopsy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB9GtSVFcVDsqpeVC5GXj5U</IRI>
+        <Literal xml:lang="en-us">Vinorelbine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBFLuuHRgJl7p2NPxwkysvX</IRI>
+        <Literal xml:lang="en-us">TargetedTherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBMBLeYlaj63WClhwYjeboR</IRI>
+        <Literal xml:lang="en-us">Cisplatin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBV5VfZInXebEpNBOSBJbdN</IRI>
+        <Literal xml:lang="en-us">Vinorelbine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBqgykkTSsjpPppERYAIyBY</IRI>
+        <Literal xml:lang="en-us">Pembroilzumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RByWnp2qywSew4Yp3Gtnf4A</IRI>
+        <Literal xml:lang="en-us">ChestPain</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC0XlhJKwrMPV8Fy5p1CgjL</IRI>
+        <Literal xml:lang="en-us">NonSmallCellLungCancer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCA9trKXDsHUK5kM4ov3VeH</IRI>
+        <Literal xml:lang="en-us">Wheezing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCBWTBuoFjLxPwRP7meqUer</IRI>
+        <Literal xml:lang="en-us">MRI</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCGEtqQmvCyyCoOfS7lFg4F</IRI>
+        <Literal xml:lang="en-us">Immunotherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCYNH0GgbIZ6novAfqXbtNX</IRI>
+        <Literal xml:lang="en-us">Fatigue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCkFLTy7xgDpthwTdOFR5wp</IRI>
+        <Literal xml:lang="en-us">Nivolumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCtTeuRCMCkRBcOqeZDirCY</IRI>
+        <Literal xml:lang="en-us">RadiationTherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCxbwPBK4Sd8MYn9SJK2lQB</IRI>
+        <Literal xml:lang="en-us">CancerCareServices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDF3TYAPcIXmLDyOlq56Nw4</IRI>
+        <Literal xml:lang="en-us">PETScan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDFGsrJgBxoJfQWEUTuvtAW</IRI>
+        <Literal xml:lang="en-us">Testedwith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDLIEkAzG19JrQtUxE0Qltx</IRI>
+        <Literal xml:lang="en-us">Hoarseness</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDLJVnN9JlYDJr48veTSe8m</IRI>
+        <Literal xml:lang="en-us">QuitSmoking</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDUtT43U2ZZ5kpGr6ydz9Qb</IRI>
+        <Literal xml:lang="en-us">Carboplatin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDYXvmHieAbsB5lFTJU83Ci</IRI>
+        <Literal xml:lang="en-us">CTScan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDdHqiQNeVxZbiLcUqyt2k2</IRI>
+        <Literal xml:lang="en-us">Cough</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RGeJU0ahtHsFatS7f9AYAo</IRI>
+        <Literal xml:lang="en-us">CancerCareServices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RJkSfVEHJLq3CPT79oISpg</IRI>
+        <Literal xml:lang="en-us">WeightLoss</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RLEkIWy3awclWYIb6kBmPf</IRI>
+        <Literal xml:lang="en-us">Erlotinib</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RNOwfqATEOTksAa0pqyvz3</IRI>
+        <Literal xml:lang="en-us">LungCancerSupportGroup</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RTqAtsYDLMTQwp3fs8k3i9</IRI>
+        <Literal xml:lang="en-us">TestedWith</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RWm8WqYuMaNY5tqAYWW18y</IRI>
+        <Literal xml:lang="en-us">OnlineSupportGroups</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RXFPqQvVu5gVZqGkG3dSbX</IRI>
+        <Literal xml:lang="en-us">TargetedTherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RiIdnzeGTkr3vzDSKFkXIx</IRI>
+        <Literal xml:lang="en-us">Chemotherapy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RklWWCkyZqpVUc2UtAgtiE</IRI>
+        <Literal xml:lang="en-us">Atezolizumab</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RkzWunUG2Dxaz5eCH1XNf3</IRI>
+        <Literal xml:lang="en-us">MetastaticLungCancer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rl6oMMZhEkFWbjyiyicxT4</IRI>
+        <Literal xml:lang="en-us">Erlotinib</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RocNtxZKhXvG0XuWH9SerV</IRI>
+        <Literal xml:lang="en-us">Carboplatin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RvvozQ53ht7WcRFroHeCgu</IRI>
+        <Literal xml:lang="en-us">Stage</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+

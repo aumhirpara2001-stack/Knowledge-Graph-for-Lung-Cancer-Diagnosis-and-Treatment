@@ -1,0 +1,549 @@
+1. Biomol Biomed. 2024 Nov 22. doi: 10.17305/bb.2024.11113. Online ahead of print.
+
+Unveiling the impact of C15orf48 on non-small cell lung cancer through NF-kappa 
+B signaling.
+
+Wang W(1), Zhang L(2), Wang A(2), Wang X(3), Wu W(4).
+
+Author information:
+(1)Department of Thoracic Surgery, Guangzhou Red Cross Hospital affiliated to 
+Jinan University, Guangzhou, China; Department of Thoracic Surgery, The First 
+Affiliated Hospital of Bengbu Medical University, Bengbu, China.
+(2)Department of Thoracic Surgery, The First Affiliated Hospital of Bengbu 
+Medical University, Bengbu, China.
+(3)State Key Laboratory of Respiratory Disease, National Clinical Research 
+Center for Respiratory Disease, Guangzhou, China; Institute of Respiratory 
+Health, First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 
+China.
+(4)Department of Thoracic Surgery, Guangzhou Red Cross Hospital affiliated to 
+Jinan University, Guangzhou, China.
+
+The role of the C15orf48 gene in lung cancer is not well understood. This study 
+aimed to investigate the effect of C15orf48 in non-small cell lung cancer 
+(NSCLC). Bioinformatics analyses were performed using Oncomine, The Cancer 
+Genome Atlas (TCGA), Protein-Protein Interaction (PPI) networks, Gene Ontology 
+(GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), and Gene Set Enrichment 
+Analysis (GSEA). Immunohistochemical staining was used to detect C15orf48 
+expression in tissue microarrays. Cellular assays, including CCK8, colony 
+formation, wound healing, transwell migration, flow cytometry, and cell 
+adhesion, were conducted to assess cell viability, proliferation, invasion, and 
+apoptosis. A xenograft tumor model was used to examine tumor growth, and Western 
+blotting was used to detect protein expression. C15orf48 expression was 
+significantly upregulated in tumor tissues compared to normal tissues and was 
+associated with poor prognosis. Knockdown of C15orf48 in A549 and H1299 cells 
+reduced proliferation, invasion, and adhesion while increasing apoptosis. 
+C15orf48 knockdown also inhibited tumor growth in vivo and was associated with 
+immune cell infiltration. Although C15orf48 expression correlated with the 
+epithelial-mesenchymal transition (EMT) score, no significant differences were 
+observed. GSEA identified the NF-κB signaling pathway as a key pathway involved. 
+Proteins PLAUR, IKBα, IL-1RN, ICAM1, and TMPRSS4 showed decreased expression in 
+the shC15orf48 group compared to the shCtrl group. We concluded that C15orf48 
+promotes NSCLC progression, potentially through immune cell infiltration and the 
+NF-κB signaling pathway.
+
+DOI: 10.17305/bb.2024.11113
+PMID: 39576886
+
+
+2. Sci Adv. 2024 Nov 22;10(47):eadp1704. doi: 10.1126/sciadv.adp1704. Epub 2024 Nov 
+22.
+
+Multiplex digital profiling of DNA methylation heterogeneity for sensitive and 
+cost-effective cancer detection in low-volume liquid biopsies.
+
+Zhao Y(1), O'Keefe CM(1), Hu J(2), Allan CM(2), Cui W(1), Lei H(1), Chiu A(1), 
+Hsieh K(2), Joyce SC(3), Herman JG(3), Pisanic TR(4)(5), Wang TH(1)(2)(4)(5).
+
+Author information:
+(1)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 
+21218, USA.
+(2)Department of Mechanical Engineering, Johns Hopkins University, Baltimore, MD 
+21218, USA.
+(3)Division of Hematology and Oncology, Department of Medicine, University of 
+Pittsburgh Medical Center, Pittsburgh, PA 15261, USA.
+(4)Johns Hopkins Institute for NanoBioTechnology, Johns Hopkins University, 
+Baltimore, MD 21218, USA.
+(5)Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center at 
+Johns Hopkins, Baltimore, MD 21287, USA.
+
+Molecular alterations in cancerous tissues exhibit intercellular genetic and 
+epigenetic heterogeneity, complicating the performance of diagnostic assays, 
+particularly for early cancer detection. Conventional liquid biopsy methods have 
+limited sensitivity and/or ability to assess epigenetic heterogeneity of rare 
+epiallelic variants cost-effectively. We report an approach, named REM-DREAMing 
+(Ratiometric-Encoded Multiplex Discrimination of Rare EpiAlleles by Melt), which 
+leverages a digital microfluidic platform that incorporates a ratiometric 
+fluorescence multiplex detection scheme and precise digital high-resolution melt 
+analysis to enable low-cost, parallelized analysis of heterogeneous methylation 
+patterns on a molecule-by-molecule basis for the detection of cancer in liquid 
+biopsies. We applied the platform to simultaneously assess intermolecular 
+epigenetic heterogeneity in five methylation biomarkers for improved, 
+blood-based screening for early-stage non-small cell lung cancer. In a cohort of 
+48 low-volume liquid biopsy specimens from patients with indeterminant pulmonary 
+nodules, we show that assessment of intermolecular methylation density 
+distributions can notably improve the performance of multigene methylation 
+biomarker panels for the early detection of cancer.
+
+DOI: 10.1126/sciadv.adp1704
+PMCID: PMC11584010
+PMID: 39576863 [Indexed for MEDLINE]
+
+
+3. PLoS One. 2024 Nov 22;19(11):e0313176. doi: 10.1371/journal.pone.0313176. 
+eCollection 2024.
+
+Is it safe and feasible to use multi-lateral-pores drainage strategy after 
+video-assisted thoracoscopic surgery?
+
+Dong Y(1)(2), Li S(3), Che G(1)(2).
+
+Author information:
+(1)Department of Thoracic Surgery, West China Hospital, Sichuan University, 
+Chengdu, Sichuan, China.
+(2)Lung Cancer Center, West China Hospital, Sichuan University, Chengdu, 
+Sichuan, China.
+(3)The Third Affiliated Hospital of Xinxiang Medical University, Xinxiang, 
+Henan, China.
+
+OBJECTIVES: Evidence-based studies optimizing chest tube management have been 
+conducted to accelerate the recovery process for lung cancer patients after 
+video-assisted thoracoscopic surgery (VATS). This study is to evaluate whether 
+using the multi-lateral pores chest tube can achieve better drainage performance 
+than conventional-lateral-pore drainage.
+METHODS: Data from patients undergoing VATS were consecutively collected from 
+September 2023 to June 2024. The groups were randomized into two subgroups, 
+which were multi-lateral-pores drainage group (MDG) and 
+conventional-lateral-pore drainage group (CDG). The primary outcomes included 
+chest drainage performance, and the secondary outcomes included postoperative 
+complications (PPCs).
+RESULTS: After screening, 228 patients were randomized into two groups, in which 
+116 patients in MDG and 112 patients in CDG. The daily drainage volume [199.70 
+(95%CI: 165.19~234.99) mL/d vs 149.43 (95%CI: 120.70~179.21) mL/d, P<0.01] and 
+total drainage volume [342.79 (95%CI: 291.91~392.63) mL vs 272.68 (95%CI: 
+225.87~322.11) mL, P = 0.04] in the MDG was significantly higher that that in 
+the CDG. The drainage duration in the MDG was also less than that in the CDG 
+[36.41 (95%CI: 32.23~40.72) h vs 51.02 (95%CI: 46.03~56.38) h, P < 0.01]. The 
+incidence of pleural effusion was lower in the MDG when compared with that in 
+CDG (1.7% vs 9.0%, P = 0.04). No differences were found in the other incidences 
+of chest tube-related PPCs, including pneumothorax (12.0% vs 15.2%, P = 0.15) 
+and subcutaneous emphysema (17.2% vs 17.9%, P = 0.35), however.
+CONCLUSIONS: Based on this single-center analysis, multi-lateral pores chest 
+tube provided better drainage performance after VATS.
+
+Copyright: © 2024 Dong et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0313176
+PMCID: PMC11584125
+PMID: 39576808 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+4. J Natl Cancer Inst. 2024 Nov 22:djae288. doi: 10.1093/jnci/djae288. Online ahead 
+of print.
+
+Trends in cancer mortality under age 50 in 15 upper-Middle and high-income 
+countries.
+
+Santucci C(1), Mignozzi S(1), Alicandro G(2)(3), Pizzato M(1), Malvezzi M(4), 
+Negri E(5), Jha P(6), La Vecchia C(1).
+
+Author information:
+(1)Department of Clinical Sciences and Community Health, Department of 
+Excellence 2023-2027, University of Milan, Milan, Italy.
+(2)Department of Pathophysiology and Transplantation, University of Milan, 
+Milan, Italy.
+(3)Mother and Child Department, Cystic Fibrosis Centre, Fondazione IRCCS Ca' 
+Granda Ospedale Maggiore Policlinico, Milan, Italy.
+(4)Department of Medicine and Surgery, University of Parma, Parma, Italy.
+(5)Department of Medical and Surgical Sciences, University of Bologna, Bologna, 
+Italy.
+(6)Centre for Global Health Research, Unity Health Toronto, Dalla Lana School of 
+Public Health, University of Toronto, Toronto, Ontario, Canada.
+
+BACKGROUND: Rising cancer incidence, particularly for colorectal cancer, has 
+been reported in young adults. This study examined whether this is related to an 
+increase in mortality.
+METHODS: We analysed World Health Organization (WHO) mortality data among young 
+adults aged 25-49 in 15 most populous upper-middle and high-income countries 
+from 1990 to 2021 with reliable data. Mid-year populations were retrieved from 
+the United Nations for the American Countries and from the WHO for the other 
+countries. We compared age-standardised mortality rates (ASMRs) in 2019-2021 to 
+2009-2011 and performed joinpoint regression analysis for all cancers and 
+selected most common cancer sites: colorectum, pancreas, lung and breast.
+RESULTS: In 2019-2021, the highest ASMRs (per 100,000) were in Romanian males 
+(38.6) and Argentinian females (45.9), while the lowest ones in Japan (males: 
+16.3; females: 22.7). ASMRs for colorectal cancers increased in 2019-2021 
+compared to 2009-2011 in nine countries among men and in seven countries among 
+women. The highest increases were in the UK (males: +26.1%; females: +33.7%), 
+Canada (males: +25.3%), and Mexico (males: +33.5%; females: +29.7%). Long-term 
+analysis over the last three decades showed declining trends in total cancer 
+mortality in the majority of countries, in lung cancer mortality across all 
+countries, and in breast cancer in all countries except in Latin America.
+CONCLUSIONS: While mortality from common cancers has generally decreased over 
+the past three decades, mortality from colorectal cancer has increased in some 
+countries. This highlights the need to control the obesity epidemic and 
+implement targeted surveillance strategies in young populations.
+
+© The Author(s) 2024. Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jnci/djae288
+PMID: 39576674
+
+
+5. Front Med. 2024 Nov 22. doi: 10.1007/s11684-024-1093-3. Online ahead of print.
+
+Mitochondrial-associated programmed-cell-death patterns for predicting the 
+prognosis of non-small-cell lung cancer.
+
+Shi X(1), Han S(1), Wang G(1), Zhou G(2).
+
+Author information:
+(1)State Key Laboratory of Molecular Oncology & Department of Medical Oncology, 
+National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China.
+(2)State Key Laboratory of Molecular Oncology & Department of Medical Oncology, 
+National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China. gbzhou@cicams.ac.cn.
+
+Mitochondria are the convergence point of multiple pathways that trigger 
+programmed cell death (PCD). Mitochondrial-associated PCD (mtPCD) is involved in 
+the pathogenesis of several diseases. However, the role of mtPCD in the 
+prognostic prediction of cancers including non-small-cell lung cancer (NSCLC) 
+remains to be investigated. Here, 12 mtPCD patterns were analyzed in 
+transcriptomics, genomics, and clinical data collected from 4 datasets 
+containing 977 patients. A risk-score assessment system containing 18 genes was 
+established. We found that NSCLC patients with a high-risk score had a poorer 
+prognosis. A nomogram was constructed by incorporating the risk score with 
+clinical features. The risk score was further associated with 
+clinicopathological information, tumor-mutation frequency, and immunotherapy 
+responses. NSCLC patients with a high risk score had more Treg cells 
+infiltration. However, these patients had higher tumor-mutation burden scores 
+and may be more sensitive to immunotherapy. Moreover, receptor-interacting 
+serine/threonine protein kinase 2 (RIPK2) was selected from mtPCD gene model for 
+validation. We found that RIPK2 exhibited oncogenic function, and its expression 
+level was inversely associated with the overall survival of NSCLC. Taken 
+together, our results indicated the accuracy and practicability of the mtPCD 
+gene model and RIPK2 in predicting the prognosis of NSCLC.
+
+© 2024. Higher Education Press.
+
+DOI: 10.1007/s11684-024-1093-3
+PMID: 39576480
+
+Conflict of interest statement: Compliance with ethics guidelines. Conflicts of 
+interest Xueyan Shi, Sichong Han, and Guizhen Wang declare that they have no 
+conflict of interest. Guangbiao Zhou is the Executive Deputy Editor-in-Chief of 
+Frontiers of Medicine, who was excluded from the peer-review process and all 
+editorial decisions related to the acceptance and publication of this article. 
+Peer-review was handled independently by the other editors to minimise bias. The 
+study was approved by the Ethics Committee of Cancer Hospital, Chinese Academy 
+of Medical Sciences and the study was performed in accordance with the ethical 
+standards as laid down in the 1964 Declaration of Helsinki and its later 
+amendments or comparable ethical standards. Informed consent was obtained from 
+all patients for being included in the study. All institutional and national 
+guidelines for the care and use of laboratory animals were followed.
+
+
+6. Ann Surg Oncol. 2024 Nov 22. doi: 10.1245/s10434-024-16577-y. Online ahead of 
+print.
+
+Disparities in Palliative Treatment Utilization in Metastatic Colorectal Cancer 
+Patients.
+
+Sedighim S(1), Khorfan R(2), Shin J(3), Khan A(1), Tang YI(1), Li AY(1), Senthil 
+M(1), O'Leary MP(1), Eng OS(4).
+
+Author information:
+(1)Department of Surgery, University of California Irvine, Orange, CA, USA.
+(2)Department of Surgery, Loma Linda University School of Medicine, Loma Linda, 
+CA, USA.
+(3)School of Medicine, University of California Irvine, Orange, CA, USA.
+(4)Department of Surgery, University of California Irvine, Orange, CA, USA. 
+oeng@hs.uci.edu.
+
+INTRODUCTION: Patients with metastatic colorectal cancer (mCRC) often require 
+multidisciplinary interventions due to the diversity of symptoms. Palliative 
+treatment offers benefits including improved quality of life, yet 
+sociodemographic disparities influence its utilization. This study aims to 
+characterize these disparities in palliative treatment use among mCRC patients.
+METHODS: Utilizing data from the National Cancer Database, we identified 
+patients diagnosed with mCRC between 2016 and 2020. Patients were categorized by 
+metastatic site: peritoneal, liver, lung, or bone/brain/lymph node. Palliative 
+treatment rates were compared across metastatic sites as well as patient and 
+hospital factors.
+RESULTS: A total of 106,241 patients were identified as having mCRC, with 19,208 
+(18.08%) receiving palliative treatment; 24.0% of patients with multiple 
+metastatic disease and 14.0% of those with solely peritoneal metastases (PM) 
+utilized palliative treatment (p < 0.001). Furthermore, patients over 75 years 
+of age had a significantly decreased likelihood of receiving palliative 
+treatment compared with younger patients (p = 0.0002). Hispanic patients did not 
+differ significantly from non-Hispanic White populations (p = 0.47). Those in 
+the highest education quartile demonstrated a higher degree of palliative 
+treatment use compared with the lowest education quartile (p = 0.0081).
+CONCLUSION: Among patients with mCRC, those with multiple sites of metastatic 
+disease tend to receive higher rates of palliative treatment compared with those 
+with oligometastatic disease. Patients with PM had the lowest rate of receiving 
+palliative treatment. Other determinates of utilizing palliative treatment 
+include younger age groups and higher education. Further research is warranted 
+to understand the patterns of disparities in palliative treatment use among mCRC 
+patients.
+
+© 2024. Society of Surgical Oncology.
+
+DOI: 10.1245/s10434-024-16577-y
+PMID: 39576451
+
+Conflict of interest statement: Disclosures: Shaina Sedighim, Rhami Khorfan, 
+Jordan Shin, Aaqil Khan, Yixuan Irene Tang, Amy Y. Li, Maheswari Senthil, 
+Michael P. O’Leary, and Oliver S. Eng have no relevant conflicts of interest to 
+declare that may be relevant to the contents of this study.
+
+
+7. Eur J Epidemiol. 2024 Nov 22. doi: 10.1007/s10654-024-01178-6. Online ahead of 
+print.
+
+Updated findings on temporal variation in radiation-effects on cancer mortality 
+in an international cohort of nuclear workers (INWORKS).
+
+Daniels RD(1), Bertke SJ(2), Kelly-Reif K(2), Richardson DB(3), Haylock R(4), 
+Laurier D(5), Leuraud K(5), Moissonnier M(6), Thierry-Chef I(7), Kesminiene 
+A(6), Schubauer-Berigan MK(6).
+
+Author information:
+(1)National Institute for Occupational Safety and Health (NIOSH), 1090 Tusculum 
+Avenue, Mailstop 12, Cincinnati, OH, 45226, USA. rtd2@cdc.gov.
+(2)National Institute for Occupational Safety and Health (NIOSH), 1090 Tusculum 
+Avenue, Mailstop 12, Cincinnati, OH, 45226, USA.
+(3)Department of Environmental and Occupational Health, Program in Public 
+Health, University of California, Irvine, CA, USA.
+(4)UK Health Security Agency, Chilton, Didcot, Oxfordshire, UK.
+(5)Institute for Radiological Protection and Nuclear Safety (IRSN), 
+Fontenay-aux-Roses, France.
+(6)International Agency for Research on Cancer (IARC/WHO), Lyon, France.
+(7)Barcelona Institute for Global Health (ISGlobal), Barcelona, Spain.
+
+The International Nuclear Workers Study (INWORKS) contributes knowledge on the 
+dose-response association between predominantly low dose, low dose rate 
+occupational exposures to penetrating forms of ionizing radiation and 
+cause-specific mortality. By extending follow-up of 309,932 radiation workers 
+from France (1968-2014), the United Kingdom (1955-2012), and the United States 
+(1944-2016) we increased support for analyses of temporal variation in 
+radiation-cancer mortality associations. Here, we examine whether age at 
+exposure, time since exposure, or attained age separately modify associations 
+between radiation and mortality from all solid cancers, solid cancers excluding 
+lung cancer, lung cancer, and lymphohematopoietic cancers. Multivariable Poisson 
+regression was used to fit general relative rate models that describe 
+modification of the linear excess relative rate per unit organ absorbed dose. 
+Given indication of greater risk per unit dose for solid cancer mortality among 
+workers hired in more recent calendar years, sensitivity analyses considering 
+the impact of year of hire on results were performed. Findings were reasonably 
+compatible with those from previous pooled and country-specific analyses within 
+INWORKS showing temporal patterns of effect measure modification that varied 
+among cancers, with evidence of persistent radiation-associated excess cancer 
+risk decades after exposure, although statistically significant temporal 
+modification of the radiation effect was not observed. Analyses stratified by 
+hire period (< 1958, 1958+) showed temporal patterns that varied; however, these 
+analyses did not suggest that this was due to differences in distribution of 
+these effect measure modifiers by hire year.
+
+© 2024. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1007/s10654-024-01178-6
+PMID: 39576361
+
+Conflict of interest statement: Declarations. Disclaimer: The findings and 
+conclusions in this report are those of the authors and do not necessarily 
+represent the views of the National Institute for Occupational Safety and 
+Health. Where authors are identified as personnel of the International Agency 
+for Research on Cancer/World Health Organization, the authors alone are 
+responsible for the views expressed in this article and they do not necessarily 
+represent the decisions, policy, or views of the International Agency for 
+Research on Cancer/World Health Organization. Competing interests: The authors 
+declare they have no relevant financial or non-financial interests to disclose.
+
+
+8. Clin Cancer Res. 2024 Nov 22. doi: 10.1158/1078-0432.CCR-24-1591. Online ahead 
+of print.
+
+Safety and Tolerability of Letetresgene Autoleucel (Lete-cel; GSK3377794): Pilot 
+Studies in Patients With Advanced Non-Small Cell Lung Cancer.
+
+Altan M(1), Lopes G(2), Hiltermann TJN(3), Govindan R(4), Villaruz LC(5), Calvo 
+E(6), Edelman MJ(7), Furqan M(8), Neal J(9), Felip E(10), Carlisle JW(11), 
+Heymach JV(1), O'Cearbhaill RE(12), Zauderer M(13), Chisamore M(14), Corigliano 
+E(15), Eleftheriadou I(16), Zajic S(17), Jenkins B(18), Goodison S(16), 
+Suchindran S(17), Ramos-Hernandez N(16), Tarek N(16), Schoenfeld AJ(19).
+
+Author information:
+(1)The University of Texas MD Anderson Cancer Center, Houston, TX, United 
+States.
+(2)Sylvester Comprehensive Cancer Center, Miami, Florida, United States.
+(3)University of Groningen, University Medical Center Groningen, Groningen, 
+Netherlands.
+(4)Washington University in St. Louis, St Louis, MO, United States.
+(5)University of Pittsburgh Cancer Institute, Pittsburgh, PA, United States.
+(6)START Madrid-CIOCC, Centro Integral Oncológico Clara Campal, Madrid, Spain.
+(7)Fox Chase Cancer Center, Philadelphia, PA, United States.
+(8)University of Iowa, Iowa city, Iowa, United States.
+(9)Stanford University, Stanford, CA, United States.
+(10)Vall d'Hebron University Hospital and Vall d'Hebron Institute of Oncology, 
+Spain.
+(11)Emory University, Atlanta, GA, United States.
+(12)Memorial Sloan Kettering Cancer and Weill Cornell Medical College, New York, 
+NY, United States.
+(13)Westchester Medical Center, Hawthorne, NY, United States.
+(14)Merck & Co, North Wales, PA, United States.
+(15)GlaxoSmithKline (United States), United States.
+(16)GlaxoSmithKline (United Kingdom), Collegeville, United States.
+(17)GlaxoSmithKline (United States), Collegeville, PA, United States.
+(18)Institute of Cancer Research, Sutton, United Kingdom.
+(19)Memorial Sloan Kettering Cancer Center, New York, NY, United States.
+
+PURPOSE: To evaluate safety, tolerability, and anti-tumor response of lete-cel, 
+genetically modified autologous T-cells expressing a T-cell receptor specific 
+for NY-ESO-1/LAGE-1a shared epitope, alone or in combination with pembrolizumab, 
+in human leukocyte antigen HLA-A*02-positive (HLA-A*02:01-, HLA-A*02:05-, and/or 
+HLA-A*02:06-) patients with New York esophageal squamous cell carcinoma 1 
+(NY-ESO-1)- and/or LAGE-1a-positive non-small cell lung cancer (NSCLC).
+EXPERIMENTAL DESIGN: Study 208749 was a single-arm study of lete-cel alone. 
+Study 208471 was a multi-arm study of lete-cel alone or in combination with 
+pembrolizumab in patients with advanced or recurrent NSCLC.
+RESULTS: Over 2500 patients were screened for target expression. In the 
+multi-arm study, 738 (45%) of 1638 tested patients were HLA-A*02-positive. 
+NY-ESO-1 and LAGE-1a testing was positive in 12% (62/525) and 4% (15/348) of 
+tested patients, respectively. Forty-one patients positive for HLA-A*02 and 
+antigen expression were screened in the single-arm study. Overall, 43 patients 
+underwent leukapheresis and 18 received lete-cel across studies. Lete-cel 
+demonstrated a manageable safety profile. No fatal treatment-related serious 
+adverse events (AEs) were reported in either study. Cytopenias and cytokine 
+release syndrome were the most common treatment-emergent AEs. Combining 
+pembrolizumab with lete-cel did not appear to increase toxicity over lete-cel 
+alone. Limited anti-tumor activity was observed; one of 18 patients had a 
+durable response persisting for 18 months. Pharmacokinetic data showed similar 
+T-cell expansion in all patients.
+CONCLUSIONS: Extensive HLA-A*02 and antigen expression testing was performed to 
+identify potential participants. Lete-cel was generally well tolerated and had 
+no unexpected AEs. Anti-tumor activity was observed in a limited number of 
+patients.
+
+DOI: 10.1158/1078-0432.CCR-24-1591
+PMID: 39576208
+
+
+9. Med Phys. 2024 Nov 22. doi: 10.1002/mp.17504. Online ahead of print.
+
+Generalizability of lesion detection and segmentation when ScaleNAS is trained 
+on a large multi-organ dataset and validated in the liver.
+
+Ma J(1)(2), Yang H(1)(2), Chou Y(1)(3), Yoon J(1), Allison T(1)(2), Komandur 
+R(4), McDunn J(4), Taneem A(4), Do RK(2), Schwartz LH(1)(2), Zhao B(1)(2).
+
+Author information:
+(1)Department of Radiology, Columbia University Irving Medical Center, New York, 
+New York, USA.
+(2)Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, 
+New York, USA.
+(3)Fu Jen Catholic University Hospital, Department of Medical Imaging and Fu Jen 
+Catholic University, School of Medicine, New Taipei City, Taiwan.
+(4)Project Data Sphere, Cary, North Carolina, USA.
+
+BACKGROUND: Tumor assessment through imaging is crucial for diagnosing and 
+treating cancer. Lesions in the liver, a common site for metastatic disease, are 
+particularly challenging to accurately detect and segment. This labor-intensive 
+task is subject to individual variation, which drives interest in automation 
+using artificial intelligence (AI).
+PURPOSE: Evaluate AI for lesion detection and lesion segmentation using CT in 
+the context of human performance on the same task. Use internal testing to 
+determine how an AI-developed model (ScaleNAS) trained on lesions in multiple 
+organs performs when tested specifically on liver lesions in a dataset 
+integrating real-world and clinical trial data. Use external testing to evaluate 
+whether ScaleNAS's performance generalizes to publicly available colorectal 
+liver metastases (CRLM) from The Cancer Imaging Archive (TCIA).
+METHODS: The CUPA study dataset included patients whose CT scan of chest, 
+abdomen, or pelvis at Columbia University between 2010-2020 indicated solid 
+tumors (CUIMC, n = 5011) and from two clinical trials in metastatic colorectal 
+cancer, PRIME (n = 1183) and Amgen (n = 463). Inclusion required ≥1 measurable 
+lesion; exclusion criteria eliminated 1566 patients. Data were divided at the 
+patient level into training (n = 3996), validation (n = 570), and testing 
+(n = 1529) sets. To create the reference standard for training and validation, 
+each case was annotated by one of six radiologists, randomly assigned, who 
+marked the CUPA lesions without access to any previous annotations. For internal 
+testing we refined the CUPA test set to contain only patients who had liver 
+lesions (n = 525) and formed an enhanced reference standard through expert 
+consensus reviewing prior annotations. For external testing, TCIA-CRLM (n = 197) 
+formed the test set. The reference standard for TCIA-CRLM was formed by 
+consensus review of the original annotation and contours by two new 
+radiologists. Metrics for lesion detection were sensitivity and false positives. 
+Lesion segmentation was assessed with median Dice coefficient, 
+under-segmentation ratio (USR), and over-segmentation ratio (OSR). Subgroup 
+analysis examined the influence of lesion size ≥ 10  mm (measurable by 
+RECIST1.1) versus all lesions (important for early identification of disease 
+progression).
+RESULTS: ScaleNAS trained on all lesions achieved sensitivity of 71.4% and Dice 
+of 70.2% for liver lesions in the CUPA internal test set (3,495 lesions) and 
+sensitivity of 68.2% and Dice 64.2% in the TCIA-CRLM external test set (638 
+lesions). Human radiologists had mean sensitivity of 53.5% and Dice of 73.9% in 
+CUPA and sensitivity of 84.1% and Dice of 88.4% in TCIA-CRLM. Performance 
+improved for ScaleNAS and radiologists in the subgroup of lesions that excluded 
+sub-centimeter lesions.
+CONCLUSIONS: Our study presents the first evaluation of ScaleNAS in medical 
+imaging, demonstrating its liver lesion detection and segmentation performance 
+across diverse datasets. Using consensus reference standards from multiple 
+radiologists, we addressed inter-observer variability and contributed to 
+consistency in lesion annotation. While ScaleNAS does not surpass radiologists 
+in performance, it offers fast and reliable results with potential utility in 
+providing initial contours for radiologists. Future work will extend this model 
+to lung and lymph node lesions, ultimately aiming to enhance clinical 
+applications by generalizing detection and segmentation across tissue types.
+
+© 2024 American Association of Physicists in Medicine.
+
+DOI: 10.1002/mp.17504
+PMID: 39576046
+
+
+10. JCI Insight. 2024 Nov 22;9(22):e186268. doi: 10.1172/jci.insight.186268.
+
+Affinity-tuned mesothelin CAR T cells demonstrate enhanced targeting specificity 
+and reduced off-tumor toxicity.
+
+Yang Y(1)(2), Vedvyas Y(1)(2), Alcaina Y(2), Trumper SJ(1), Babu DS(1), Min 
+IM(1)(2), Tremblay JM(3), Shoemaker CB(3), Jin MM(1)(2).
+
+Author information:
+(1)Department of Radiology, Houston Methodist Research Institute, Houston, 
+Texas, USA.
+(2)Department of Radiology, Weill Cornell Medicine, New York, New York, USA.
+(3)Department of Infectious Disease and Global Health, Cummings School of 
+Veterinary Medicine, Tufts University, North Grafton, Massachusetts, USA.
+
+The application of chimeric antigen receptor (CAR) T cell therapy in solid 
+tumors is hindered by life-threatening toxicities resulting from on-target, 
+off-tumor killing of nonmalignant cells that express low levels of the target 
+antigen. Mesothelin (MSLN) has been identified as a target antigen for CAR T 
+cell treatment of mesothelioma, lung, ovarian, and other cancers because of its 
+high expression on tumor cells and limited expression on mesothelial cells. 
+However, fatal off-tumor toxicity of high-affinity MSLN-targeting CAR T cells 
+has been reported in multiple clinical trials. In this study, we constructed 
+CARs using mutant variants of a single-domain nanobody that bind both human and 
+mouse MSLN with a wide range of affinities and examined tumor responses and 
+their toxicities from on-target, off-tumor interactions in mouse models. CAR T 
+cells with low nanomolar affinity (equilibrium dissociation constant, KD) 
+exhibited profound systemic expansion with no apparent infiltration into the 
+tumor. With a gradual reduction of CAR affinity toward the micromolar KD, the 
+expansion of CAR T cells became more restricted to tumors. Our preclinical 
+studies demonstrated that high-affinity MSLN CARs were associated with fatal 
+on-target, off-tumor toxicity and that affinity-tuned CARs rendered T cells more 
+selective for MSLN-high tumors.
+
+DOI: 10.1172/jci.insight.186268
+PMID: 39576012 [Indexed for MEDLINE]

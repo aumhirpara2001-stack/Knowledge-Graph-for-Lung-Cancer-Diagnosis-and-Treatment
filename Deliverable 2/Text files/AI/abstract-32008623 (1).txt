@@ -1,0 +1,32 @@
+1. Clin Chest Med. 2020 Mar;41(1):1-24. doi: 10.1016/j.ccm.2019.10.001.
+
+Lung Cancer 2020: Epidemiology, Etiology, and Prevention.
+
+Bade BC(1), Dela Cruz CS(2).
+
+Author information:
+(1)Department of Medicine, Section of Pulmonary, Critical Care, and Sleep 
+Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street 
+TAC-441 South, New Haven, CT 06520-8057, USA.
+(2)Department of Medicine, Section of Pulmonary, Critical Care, and Sleep 
+Medicine, Yale University School of Medicine, PO Box 208057, 300 Cedar Street 
+TAC-441 South, New Haven, CT 06520-8057, USA. Electronic address: 
+charles.delacruz@yale.edu.
+
+Despite advances in our understanding of risk, development, immunologic control, 
+and treatment options for lung cancer, it remains the leading cause of cancer 
+death. Tobacco smoking remains the predominant risk factor for lung cancer 
+development. Nontobacco risk factors include environmental and occupational 
+exposures, chronic lung disease, lung infections, and lifestyle factors. Because 
+tobacco remains the leading risk factor for lung cancer, disease prevention is 
+focused on smoking avoidance and cessation. Other prevention measures include 
+healthy diet choices and maintaining a physically active lifestyle. Future work 
+should focus on smoking cessation campaigns and better understanding disease 
+development and treatment strategies in nonsmokers.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccm.2019.10.001
+PMID: 32008623 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest None.

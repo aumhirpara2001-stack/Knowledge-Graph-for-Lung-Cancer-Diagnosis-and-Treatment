@@ -1,0 +1,270 @@
+1. Clin Med (Lond). 2021 Nov;21(6):e578-e583. doi: 10.7861/clinmed.2021-0657.
+
+Lung cancer for the non-respiratory physician.
+
+O'Dowd E(1), Mackenzie J(2), Balata H(3).
+
+Author information:
+(1)Nottingham City Hospital, Nottingham, UK.
+(2)Victoria Hospital, Kirkcaldy, UK.
+(3)Manchester Thoracic Oncology Centre, Manchester, UK and University of 
+Manchester, Manchester, UK haval.balata@mft.nhs.uk.
+
+Lung cancer continues to be the leading cause of cancer death globally. Delayed 
+diagnosis is a major contributing factor to poor outcomes and remains a key 
+challenge to overcome. While debate around the implementation of lung cancer 
+screening for asymptomatic high-risk individuals continues, rapid access to 
+relevant diagnostic tests is essential. The new National Optimal Lung Cancer 
+Pathway describes 'diagnostic standards of care' in an effort to implement best 
+practice, reduce variation and improve delays in diagnosis, staging and 
+treatment of lung cancer. Lung cancer treatment continues to develop with new 
+surgical techniques, radiotherapy options and more drugs being licensed as part 
+of standard treatment. We provide an overview of the core lung cancer diagnostic 
+steps, recognition and management of acute presentations as well as the latest 
+treatment options.
+
+© Royal College of Physicians 2021. All rights reserved.
+
+DOI: 10.7861/clinmed.2021-0657
+PMCID: PMC8806295
+PMID: 34862216 [Indexed for MEDLINE]
+
+
+2. Lancet. 2019 Nov 23;394(10212):1880. doi: 10.1016/S0140-6736(19)32795-3.
+
+Lung cancer: some progress, but still a lot more to do.
+
+The Lancet.
+
+DOI: 10.1016/S0140-6736(19)32795-3
+PMID: 31777378 [Indexed for MEDLINE]
+
+
+3. Lung. 2023 Dec;201(6):521-529. doi: 10.1007/s00408-023-00661-3. Epub 2023 Nov 
+16.
+
+Lung Cancer in Never Smokers: Delving into Epidemiology, Genomic and Immune 
+Landscape, Prognosis, Treatment, and Screening.
+
+Daylan AEC(1), Miao E(2), Tang K(2), Chiu G(3), Cheng H(4).
+
+Author information:
+(1)Department of Oncology, Montefiore Medical Center/Albert Einstein College of 
+Medicine, Bronx, NY, 10461, USA.
+(2)Department of Medicine, Montefiore Medical Center/Albert Einstein College of 
+Medicine, Bronx, NY, USA.
+(3)Scarsdale High School, Scarsdale, NY, USA.
+(4)Department of Oncology, Montefiore Medical Center/Albert Einstein College of 
+Medicine, Bronx, NY, 10461, USA. hcheng@montefiore.org.
+
+Lung cancer in never smokers (LCINS) represents a growing and distinct entity 
+within the broader landscape of lung malignancies. This review provides a 
+comprehensive overview of LCINS, encompassing its epidemiologic trends, risk 
+factors, distinct genomic alterations, clinical outcomes and the ongoing 
+initiative aimed at formulating screening guidelines tailored to this unique 
+population. As LCINS continues to gain prominence, understanding its intricate 
+genomic landscape has become pivotal for tailoring effective therapeutic 
+strategies. Moreover, LCINS does not meet the criteria for lung cancer screening 
+as per the current guidelines. Hence, there is an urgent need to explore its 
+heterogeneity in order to devise optimal screening guidelines conducive to 
+early-stage detection. This review underscores the vital importance of detailed 
+research to elucidate the multifaceted nature of LCINS, with the potential to 
+shape future clinical management and screening recommendations for this unique 
+and growing patient cohort.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s00408-023-00661-3
+PMID: 37973682 [Indexed for MEDLINE]
+
+
+4. N Engl J Med. 2022 May 26;386(21):2050-2051. doi: 10.1056/NEJMe2203330. Epub 
+2022 Apr 11.
+
+Expanding Horizons for Treatment of Early-Stage Lung Cancer.
+
+Lovly CM(1).
+
+Author information:
+(1)From the Department of Medicine, Division of Hematology and Oncology and 
+Vanderbilt-Ingram Cancer Center, Vanderbilt University Medical Center, 
+Nashville.
+
+Comment on
+    N Engl J Med. 2022 May 26;386(21):1973-1985. doi: 10.1056/NEJMoa2202170.
+
+DOI: 10.1056/NEJMe2203330
+PMID: 35403840 [Indexed for MEDLINE]
+
+
+5. Klin Onkol. 2021 Spring;34(Supplementum 1):6-19. doi: 10.48095/ccko2021S6.
+
+Lung cancer - dia nosis and early detection.
+
+[Article in English]
+
+Skřičková J, Nebeský T, Kadlec B, Hejduk K, Májek O, Vašáková M, Čierná Peterová 
+I.
+
+Decisions about the treatment of a patient with lung cancer depend on the 
+clinical stage of the disease, morphological diagnosis, examination of 
+predictive markers and overall clinical condition; the wishes of a well-informed 
+patient must also be taken into account. Accurate diagnosis is essential for the 
+future of a patient with lung cancer. The epidemiology of lung cancer is related 
+to cigarette consumption. The risk of the disease increases with the number of 
+cigarettes smoked. The relative risk for smokers is 22.4, for very heavy smokers 
+with a load of more than 25 packets, it can reach up to 50. Most cases of lung 
+cancer are caught in the advanced stages of the disease, when surgery and 
+sometimes other active treatments are no longer possible. Searching for lung 
+cancer in at-risk groups is essential for reducing lung cancer mortality, 
+leading to the detection of the disease at a low stage when the tumor is 
+operable.
+
+DOI: 10.48095/ccko2021S6
+PMID: 34154325 [Indexed for MEDLINE]
+
+
+6. Nature. 2014 Sep 11;513(7517):S1. doi: 10.1038/513S1a.
+
+Lung cancer.
+
+Brody H.
+
+DOI: 10.1038/513S1a
+PMID: 25208065 [Indexed for MEDLINE]
+
+
+7. Cancer Treat Rev. 2021 Sep;99:102237. doi: 10.1016/j.ctrv.2021.102237. Epub 2021 
+May 29.
+
+Adenocarcinoma spectrum lesions of the lung: Detection, pathology and treatment 
+strategies.
+
+Succony L(1), Rassl DM(2), Barker AP(3), McCaughan FM(4), Rintoul RC(5).
+
+Author information:
+(1)Department of Thoracic Oncology, Royal Papworth Hospital, Cambridge CB2 0AY, 
+United Kingdom.
+(2)Department of Pathology, Royal Papworth Hospital NHS Foundation Trust, 
+Cambridge CB2 0AY, United Kingdom.
+(3)Department of Radiology, Royal Papworth Hospital NHS Foundation Trust, 
+Cambridge CB2 0AY, United Kingdom.
+(4)Department of Medicine, University of Cambridge, Addenbrookes Hospital, 
+Cambridge CB2 0QQ, United Kingdom.
+(5)Department of Thoracic Oncology, Royal Papworth Hospital, Cambridge CB2 0AY, 
+United Kingdom; Department of Oncology, University of Cambridge, Cambridge CB2 
+0QQ United Kingdom. Electronic address: Robert.rintoul@nhs.net.
+
+Adenocarcinoma has become the most prevalent lung cancer sub-type and its 
+frequency is increasing. The earliest stages in the development of lung 
+adenocarcinomas are visible using modern computed tomography (CT) as ground 
+glass nodules. These pre-invasive nodules can progress over time to become 
+invasive lung adenocarcinomas. Lesions in this developmental pathway are termed 
+'adenocarcinoma spectrum' lesions. With the introduction of lung cancer 
+screening programs there has been an increase in the detection of these lesions 
+raising questions about natural history, surveillance and treatment. Here we 
+review how the radiological appearance of an adenocarcinoma spectrum lesion 
+relates to its underlying pathology and explore the natural history and factors 
+driving lesion progression. We examine the molecular changes that occur at each 
+stage of adenocarcinoma spectrum lesion development, including the effects of 
+the driver mutations, EGFR and KRAS, that are key to invasive adenocarcinoma 
+pathology. A better understanding of the development of pre-invasive disease 
+will create treatment targets. Our understanding of how tumours interact with 
+the immune system has led to the development of new therapeutic strategies. We 
+review the role of the immune system in the development of adenocarcinoma 
+spectrum lesions. With a clear preinvasive phase there is an opportunity to 
+treat early adenocarcinoma spectrum lesions before an invasive lung cancer 
+develops. We review current management including surveillance, surgical 
+resection and oncological therapy as well as exploring potential future 
+treatment avenues.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2021.102237
+PMID: 34182217 [Indexed for MEDLINE]
+
+
+8. Med Clin North Am. 1977 Nov;61(6):1205-18. doi: 10.1016/s0025-7125(16)31256-1.
+
+Lung cancer.
+
+Rodescu D.
+
+Only patients with localized lung cancer benefit from curative resection. 
+Curative radiotherapy is recommended in patients with a resectable tumor in whom 
+surgery is precluded for medical reasons. Adjuvant preoperative or postoperative 
+therapy of any type does not improve the results of surgery except in patients 
+with Pancoast tumor. Therapy for nonlocalized tumors does not affect survival. 
+Radiotherapy has a palliative effect in 50 to 75 per cent of patients presenting 
+with symptoms from either a primary lesion or metastases and should therefore be 
+recommended in symptomatic patients. The palliative effect of chemotherapy is 
+limited in lung cancers other than small cell carcinomas. However, chemotherapy 
+alone or in association with radiotherapy produces remarkable tumor regression 
+and some improvement of survival in small cell carcinoma. The use of 
+immunotherapy in the treatment of lung cancer is still under evaluation.
+
+DOI: 10.1016/s0025-7125(16)31256-1
+PMID: 72894 [Indexed for MEDLINE]
+
+
+9. Semin Diagn Pathol. 2021 Sep;38(5):109-115. doi: 10.1053/j.semdp.2021.05.001. 
+Epub 2021 May 27.
+
+Advances in cytology of lung cancer.
+
+Jain D(1), Roy-Chowdhuri S(2).
+
+Author information:
+(1)Department of Pathology, All India Institute of Medical Sciences, New Delhi, 
+India. Electronic address: deepalijain76@gmail.com.
+(2)Department of Pathology, The University of Texas MD Anderson Cancer Center, 
+Houston, TX, USA.
+
+Cytopathology has emerged as a promising platform in precision oncology 
+especially after the revolutionary change in our understanding of the concept of 
+lung cancer etiopathogenesis. With increasing use of minimally invasive 
+techniques for sample acquisition, it becomes almost mandatory to utilize 
+precious cytology samples maximally and judiciously by appropriate triaging of 
+the specimen and timely action of the cytopathology team. Existing patient 
+management protocols require accurate morphologic and molecular diagnosis of the 
+lung cancer specimens which needs knowledge about evolving techniques related to 
+specimen procurement, updates of genomic variants of lung cancer and recently 
+developed molecular testing platforms and algorithms which are capable enough to 
+use even miniscule amount of diagnostic material. This review provides a brief 
+knowledge about advances in cytology of lung cancer which are helpful for 
+developing correct clinical management strategies.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.semdp.2021.05.001
+PMID: 34119361 [Indexed for MEDLINE]
+
+
+10. Clin Lab Med. 2024 Jun;44(2):137-147. doi: 10.1016/j.cll.2023.08.002.
+
+Molecular Pathology of Lung Cancer.
+
+Roy-Chowdhuri S(1).
+
+Author information:
+(1)Department of Pathology, The University of Texas MD Anderson Cancer Center, 
+1515 Holcombe Boulevard Unit 83, Houston, TX 77030, USA. Electronic address: 
+sroy2@mdanderson.org.
+
+The identification of targetable genomic alterations in lung cancer is required 
+as standard of care to guide optimal therapy selection. With a constantly 
+evolving landscape of ancillary molecular and biomarker testing in lung cancer, 
+pathologists need to be aware of what specimens to test, how the testing should 
+be performed, and which targets to test for to provide the clinically relevant 
+genomic information necessary to treat these patients. Several guideline 
+statements on the topic are currently available to help pathologists and 
+laboratory personnel best use the small specimens obtained from patients with 
+lung cancer for ancillary molecular testing.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cll.2023.08.002
+PMID: 38821637 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.

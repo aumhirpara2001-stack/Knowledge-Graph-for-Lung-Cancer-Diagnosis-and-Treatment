@@ -1,0 +1,26 @@
+1. Med Clin North Am. 2019 May;103(3):463-473. doi: 10.1016/j.mcna.2018.12.006.
+
+Lung Cancer.
+
+Nasim F(1), Sabath BF(1), Eapen GA(2).
+
+Author information:
+(1)Department of Pulmonary Medicine, The University of Texas MD Anderson Cancer 
+Center, Unit 1462, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+(2)Department of Pulmonary Medicine, The University of Texas MD Anderson Cancer 
+Center, Unit 1462, 1515 Holcombe Boulevard, Houston, TX 77030, USA. Electronic 
+address: geapen@mdanderson.org.
+
+Lung cancer is the world's leading cause of cancer death. Screening for lung 
+cancer by low-dose computed tomography improves mortality. Various modalities 
+exist for diagnosis and staging. Treatment is determined by subtype and stage of 
+cancer; there are several personalized therapies that did not exist just a few 
+years ago. Caring for the patient with lung cancer is a complex task. This 
+review provides a broad outline of this disease, helping clinicians identify 
+such patients and familiarizing them with lung cancer care options, so they are 
+better equipped to guide their patients along this challenging journey.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2018.12.006
+PMID: 30955514 [Indexed for MEDLINE]
