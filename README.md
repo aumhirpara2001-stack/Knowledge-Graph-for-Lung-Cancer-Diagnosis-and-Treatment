@@ -1,7 +1,7 @@
 # Knowledge-Graph-for-Lung-Cancer-Diagnosis-and-Treatment
 
 
-🔹 PROJECT 4: Knowledge Graph for Lung Cancer Diagnosis
+🔹  Knowledge Graph for Lung Cancer Diagnosis
 
 📘 Project Overview
 
